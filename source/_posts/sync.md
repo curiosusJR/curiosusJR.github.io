@@ -17,3 +17,7 @@ tags:
 4. git add . && git commit -m "<msg>" && git push # remember use command "git push" without "origin hexo" only when "git branch -vv" results a correct matchup. 
 **NOTE: git push up date hexo branch contain source data**
 
+# reference
+1. https://www.jianshu.com/p/85f455afcfcf
+2. https://www.jianshu.com/p/6ecb3adfefbd
+
