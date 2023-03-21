@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-19T08:56:31.857Z</updated>
+  <updated>2023-03-21T09:05:13.923Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test-in-macOS</title>
-    <link href="http://example.com/2023/03/19/test-in-macOS/"/>
-    <id>http://example.com/2023/03/19/test-in-macOS/</id>
-    <published>2023-03-19T08:56:31.000Z</published>
-    <updated>2023-03-19T08:56:31.857Z</updated>
+    <title>sync</title>
+    <link href="http://example.com/2023/03/19/sync/"/>
+    <id>http://example.com/2023/03/19/sync/</id>
+    <published>2023-03-19T09:07:49.000Z</published>
+    <updated>2023-03-21T09:05:13.923Z</updated>
     
+    <content type="html"><![CDATA[<h2 id="build-enviroment"><a href="#build-enviroment" class="headerlink" title="build enviroment"></a>build enviroment</h2><ol><li>install node, git and hexo;</li><li>git clone -b hexo <a href="https://github.com/curiosusJR/curiosusJR.github.io.git">https://github.com/curiosusJR/curiosusJR.github.io.git</a> curiosus</li><li>cd cuirosus &amp;&amp; sudo npm install # init config and packages</li></ol><h2 id="daily-use"><a href="#daily-use" class="headerlink" title="daily use"></a>daily use</h2><ol><li>git pull # for latest data</li><li>git branch -vv # check branch matchup between local and remote</li><li>hexo n “” # hexo g; hexo d; et.al<br><strong>NOTE: “hexo d” update the master branch contain website in github</strong></li><li>git add . &amp;&amp; git commit -m “<msg>“ &amp;&amp; git push # remember use command “git push” without “origin hexo” only when “git branch -vv” results a correct matchup.<br><strong>NOTE: git push up date hexo branch contain source data</strong></li></ol><h1 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h1><ol><li><a href="https://www.jianshu.com/p/85f455afcfcf">https://www.jianshu.com/p/85f455afcfcf</a></li><li><a href="https://www.jianshu.com/p/6ecb3adfefbd">https://www.jianshu.com/p/6ecb3adfefbd</a></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;build-enviroment&quot;&gt;&lt;a href=&quot;#build-enviroment&quot; class=&quot;headerlink&quot; title=&quot;build enviroment&quot;&gt;&lt;/a&gt;build enviroment&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;install </summary>
+      
     
     
     
