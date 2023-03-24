@@ -46,3 +46,6 @@ deploy:
 1. https://www.jianshu.com/p/85f455afcfcf
 2. https://www.jianshu.com/p/6ecb3adfefbd
 
+# TODO
+1. <https://linux.cn/article-13119-1.html> for RAW picture.
+2. <https://zhuanlan.zhihu.com/p/34964970> for image format convert
