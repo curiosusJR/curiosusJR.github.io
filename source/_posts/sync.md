@@ -16,6 +16,13 @@ tags:
 **SO CREATE TWO TOKEN FOR EVERY NEW DEVICE AND NAME THEM CURRECTLY!**
 
 3. token for hexo: vim ./_config.yml
+
+**SPECIALLY: HEXO PERHAPS DONT ALLOW TOKEN USE, TRY MORE!**
+
+if use gitpush, hexo token will disappear. why?
+use same token in one device and try again?
+
+
 ```
 deploy:
   type: git
