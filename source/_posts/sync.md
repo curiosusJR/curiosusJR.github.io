@@ -21,17 +21,17 @@ deploy:
   type: git
   repo:
     github:
-      url: https://github.com/&ltuser.name&gt/&ltrepo.name&gt.git 
+      url: https://github.com/<user.name>/<repo.name>.git 
       branch: master
-      token: '&lttoken-for-hexo&gt'
-  name: &ltuser.name&gt 
-  email: &ltemail-address&gt 
+      token: '<token-for-hexo>'
+  name: <user.name>
+  email: <email-address>
 ```
 
 4. token for git: vim ./.git/config
 ```
 [remote "origin"]
-	url = https://&lttoken-for-hexo&gt@github.com/&ltuser.name&gt/&ltrepo.name&gt.git 
+	url = https://<token-for-hexo>@github.com/<user.name>/<repo.name>.git 
 ```
 
 ## daily use
