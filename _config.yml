@@ -107,7 +107,7 @@ deploy:
     github:
       url: https://github.com/curiosusJR/curiosusJR.github.io.git 
       branch: master
-      token: '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'
+      token: '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'
   name: curiosusJR
   email: millipedeassassin@gmail.com
 
