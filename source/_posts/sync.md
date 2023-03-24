@@ -9,10 +9,35 @@ tags:
 2. git clone -b hexo https://github.com/curiosusJR/curiosusJR.github.io.git curiosus
 3. cd cuirosus && sudo npm install # init config and packages
 
+## github authentication
+1. "hexo d" and "git push" commands need to authenticate github by token;
+2. every device needs two token for two commands above separately. 
+
+**SO CREATE TWO TOKEN FOR EVERY NEW DEVICE AND NAME THEM CURRECTLY!**
+
+3. token for hexo: vim ./_config.yml
+```
+deploy:
+  type: git
+  repo:
+    github:
+      url: https://github.com/&ltuser.name&gt/&ltrepo.name&gt.git 
+      branch: master
+      token: '&lttoken-for-hexo&gt'
+  name: &ltuser.name&gt 
+  email: &ltemail-address&gt 
+```
+
+4. token for git: vim ./.git/config
+```
+[remote "origin"]
+	url = https://&lttoken-for-hexo&gt@github.com/&ltuser.name&gt/&ltrepo.name&gt.git 
+```
+
 ## daily use
 1. git pull # for latest data
 2. git branch -vv # check branch matchup between local and remote
-3. hexo n "" # hexo g; hexo d; et.al 
+3. hexo n "\<title\>" # hexo g; hexo d; et.al 
 **NOTE: "hexo d" update the master branch contain website in github**
 4. git add . && git commit -m "<msg>" && git push # remember use command "git push" without "origin hexo" only when "git branch -vv" results a correct matchup. 
 **NOTE: git push up date hexo branch contain source data**
