@@ -1,7 +1,7 @@
 ---
-title: sync
-date: 2023-03-19 17:07:49
-tags:
+title: How to sync blogs between different devices 
+date: 2023-04-1 17:07:49
+tags: blog
 ---
 
 ## build enviroment
