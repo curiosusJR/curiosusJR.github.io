@@ -7,4 +7,4 @@ public/
 .deploy*/
 _config.yml
 _multiconfig.yml
-test/
+test
