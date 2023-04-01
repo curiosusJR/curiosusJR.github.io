@@ -10,27 +10,14 @@ tags:
 3. cd cuirosus && sudo npm install # init config and packages
 
 ## github authentication
-1. "hexo d" and "git push" commands need to authenticate github by token;
-2. every device needs two token for two commands above separately. 
-
-**SO CREATE TWO TOKEN FOR EVERY NEW DEVICE AND NAME THEM CURRECTLY!**
-
+1. "hexo d" and "git push" commands MAYBE need to authenticate github by token, or token maybe disappear;
+2.  only *repo* and *workflow* is necessary.
 3. token for hexo: vim ./_config.yml
-
-**SPECIALLY: HEXO PERHAPS DONT ALLOW TOKEN USE, TRY MORE!**
-
-if use gitpush, hexo token will disappear. why?
-use same token in one device and try again?
-
-
 ```
 deploy:
   type: git
-  repo:
-    github:
-      url: https://github.com/<user.name>/<repo.name>.git 
-      branch: master
-      token: '<token-for-hexo>'
+  repository: https://<token-for-hexo>@github.com/<user.name>/<repo.name>.git 
+  branch: master
   name: <user.name>
   email: <email-address>
 ```
