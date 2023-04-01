@@ -4,6 +4,7 @@ date: 2023-04-1 17:07:49
 tags: blog
 ---
 
+
 ## build enviroment
 1. install node, git and hexo;
 2. git clone -b hexo https://github.com/curiosusJR/curiosusJR.github.io.git curiosus
