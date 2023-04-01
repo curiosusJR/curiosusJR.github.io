@@ -10,8 +10,11 @@ tags:
 3. cd cuirosus && sudo npm install # init config and packages
 
 ## github authentication
-1. "hexo d" and "git push" commands MAYBE need to authenticate github by token, or token maybe disappear;
+1. "hexo d" and "git push" commands need to authenticate github by token;
 2.  only *repo* and *workflow* is necessary.
+
+**NOTE: token should not be upload to remote repository, means .gitignore should include files below**
+
 3. token for hexo: vim ./_config.yml
 ```
 deploy:
@@ -26,6 +29,13 @@ deploy:
 ```
 [remote "origin"]
 	url = https://<token-for-hexo>@github.com/<user.name>/<repo.name>.git 
+```
+
+5. valid .gitignore after changing it by delet local cache:
+```
+git rm -r --cached .
+git add .
+git commit -m 'update .gitignore'
 ```
 
 ## daily use
