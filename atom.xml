@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-01T15:31:26.279Z</updated>
+  <updated>2023-04-03T08:52:11.687Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>TODO list</title>
+    <link href="http://example.com/2023/04/03/TODO/"/>
+    <id>http://example.com/2023/04/03/TODO/</id>
+    <published>2023-04-03T08:13:32.000Z</published>
+    <updated>2023-04-03T08:52:11.687Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li><a href="https://linux.cn/article-13119-1.html">https://linux.cn/article-13119-1.html</a> for RAW picture.</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://linux.cn/article-13119-1.html&quot;&gt;https://linux.cn/article-13119-1.html&lt;/a&gt; for RAW picture.&lt;/li&gt;
+&lt;/ol&gt;
+</summary>
+      
+    
+    
+    
+    <category term="TODO" scheme="http://example.com/categories/TODO/"/>
+    
+    
+    <category term="TODO" scheme="http://example.com/tags/TODO/"/>
+    
+  </entry>
+  
+  <entry>
     <title>How to sync blogs between different devices</title>
     <link href="http://example.com/2023/04/01/sync/"/>
     <id>http://example.com/2023/04/01/sync/</id>
     <published>2023-04-01T09:07:49.000Z</published>
-    <updated>2023-04-01T15:31:26.279Z</updated>
+    <updated>2023-04-03T08:52:11.687Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="build-enviroment"><a href="#build-enviroment" class="headerlink" title="build enviroment"></a>build enviroment</h2><ol><li>install node, git and hexo;</li><li>git clone -b hexo <a href="https://github.com/curiosusJR/curiosusJR.github.io.git">https://github.com/curiosusJR/curiosusJR.github.io.git</a> curiosus</li><li>cd cuirosus &amp;&amp; sudo npm install # init config and packages</li></ol><h2 id="github-authentication"><a href="#github-authentication" class="headerlink" title="github authentication"></a>github authentication</h2><ol><li>“hexo d” and “git push” commands need to authenticate github by token;</li><li>only <em>repo</em> and <em>workflow</em> is necessary.</li></ol><p><strong>NOTE: token should not be upload to remote repository, means .gitignore should include files below</strong></p><ol start="3"><li><p>token for hexo: vim .&#x2F;_config.yml</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: https://&lt;token-for-hexo&gt;@github.com/&lt;user.name&gt;/&lt;repo.name&gt;.git </span><br><span class="line">  branch: master</span><br><span class="line">  name: &lt;user.name&gt;</span><br><span class="line">  email: &lt;email-address&gt;</span><br></pre></td></tr></table></figure></li><li><p>token for git: vim .&#x2F;.git&#x2F;config</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">[remote &quot;origin&quot;]</span><br><span class="line">url = https://&lt;token-for-hexo&gt;@github.com/&lt;user.name&gt;/&lt;repo.name&gt;.git </span><br></pre></td></tr></table></figure></li><li><p>valid .gitignore after changing it by delet local cache:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git rm -r --cached .</span><br><span class="line">git add .</span><br><span class="line">git commit -m &#x27;update .gitignore&#x27;</span><br></pre></td></tr></table></figure></li></ol><h2 id="daily-use"><a href="#daily-use" class="headerlink" title="daily use"></a>daily use</h2><ol><li>git pull # for latest data</li><li>git branch -vv # check branch matchup between local and remote</li><li>hexo n “&lt;title&gt;“ # hexo g; hexo d; et.al<br><strong>NOTE: “hexo d” update the master branch contain website in github</strong></li><li>git add . &amp;&amp; git commit -m “<msg>“ &amp;&amp; git push # remember use command “git push” without “origin hexo” only when “git branch -vv” results a correct matchup.<br><strong>NOTE: git push up date hexo branch contain source data</strong></li></ol><h1 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h1><ol><li><a href="https://www.jianshu.com/p/85f455afcfcf">https://www.jianshu.com/p/85f455afcfcf</a></li><li><a href="https://www.jianshu.com/p/6ecb3adfefbd">https://www.jianshu.com/p/6ecb3adfefbd</a></li></ol><h1 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h1><ol><li><a href="https://linux.cn/article-13119-1.html">https://linux.cn/article-13119-1.html</a> for RAW picture.</li><li><a href="https://zhuanlan.zhihu.com/p/34964970">https://zhuanlan.zhihu.com/p/34964970</a> for image format convert</li></ol>]]></content>
+    <content type="html"><![CDATA[<h2 id="build-enviroment"><a href="#build-enviroment" class="headerlink" title="build enviroment"></a>build enviroment</h2><ol><li>install node, git and hexo;</li><li>git clone -b hexo <a href="https://github.com/curiosusJR/curiosusJR.github.io.git">https://github.com/curiosusJR/curiosusJR.github.io.git</a> curiosus</li><li>cd cuirosus &amp;&amp; sudo npm install # init config and packages</li></ol><h2 id="github-authentication"><a href="#github-authentication" class="headerlink" title="github authentication"></a>github authentication</h2><ol><li>“hexo d” and “git push” commands need to authenticate github by token;</li><li>only <em>repo</em> and <em>workflow</em> is necessary.</li></ol><p><strong>NOTE: token should not be upload to remote repository, means .gitignore should include files below</strong></p><ol start="3"><li><p>token for hexo: vim .&#x2F;_config.yml</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: https://&lt;token-for-hexo&gt;@github.com/&lt;user.name&gt;/&lt;repo.name&gt;.git </span><br><span class="line">  branch: master</span><br><span class="line">  name: &lt;user.name&gt;</span><br><span class="line">  email: &lt;email-address&gt;</span><br></pre></td></tr></table></figure></li><li><p>token for git: vim .&#x2F;.git&#x2F;config</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">[remote &quot;origin&quot;]</span><br><span class="line">url = https://&lt;token-for-hexo&gt;@github.com/&lt;user.name&gt;/&lt;repo.name&gt;.git </span><br></pre></td></tr></table></figure></li><li><p>valid .gitignore after changing it by delet local cache:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git rm -r --cached .</span><br><span class="line">git add .</span><br><span class="line">git commit -m &#x27;update .gitignore&#x27;</span><br></pre></td></tr></table></figure></li></ol><h2 id="daily-use"><a href="#daily-use" class="headerlink" title="daily use"></a>daily use</h2><ol><li>git pull # for latest data</li><li>git branch -vv # check branch matchup between local and remote</li><li>hexo n “&lt;title&gt;“ # hexo g; hexo d; et.al<br><strong>NOTE: “hexo d” update the master branch contain website in github</strong></li><li>git add . &amp;&amp; git commit -m “<msg>“ &amp;&amp; git push # remember use command “git push” without “origin hexo” only when “git branch -vv” results a correct matchup.<br><strong>NOTE: git push up date hexo branch contain source data</strong></li></ol><h1 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h1><ol><li><a href="https://www.jianshu.com/p/85f455afcfcf">https://www.jianshu.com/p/85f455afcfcf</a></li><li><a href="https://www.jianshu.com/p/6ecb3adfefbd">https://www.jianshu.com/p/6ecb3adfefbd</a></li></ol>]]></content>
     
     
       
@@ -34,17 +61,21 @@
     
     
     
+    <category term="blogs" scheme="http://example.com/categories/blogs/"/>
+    
     
     <category term="blog" scheme="http://example.com/tags/blog/"/>
+    
+    <category term="sync" scheme="http://example.com/tags/sync/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/03/19/hello-world/"/>
-    <id>http://example.com/2023/03/19/hello-world/</id>
-    <published>2023-03-19T08:53:29.440Z</published>
-    <updated>2023-03-19T08:53:29.440Z</updated>
+    <link href="http://example.com/2023/03/01/hello-world/"/>
+    <id>http://example.com/2023/03/01/hello-world/</id>
+    <published>2023-03-01T09:07:49.000Z</published>
+    <updated>2023-04-03T08:52:11.687Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -56,6 +87,12 @@
     
     
     
+    <category term="blogs" scheme="http://example.com/categories/blogs/"/>
+    
+    
+    <category term="blog" scheme="http://example.com/tags/blog/"/>
+    
+    <category term="sync" scheme="http://example.com/tags/sync/"/>
     
   </entry>
   
