@@ -7,7 +7,7 @@ menu:
 #  Repository: repository  # github repositories
 #  Books: books  # 豆瓣书单
 #  Links: links  # 友链
-  About: about  # 关于
+#  About: about  # 关于
 
 # Enable/Disable menu icons
 menu_icons:
@@ -33,7 +33,7 @@ site:
     url: ../images/logo.png
   title: Hexo # 页面title
   favicon: /favicon.png
-  board: <p>欢迎交流与分享经验!</p> # 站点公告
+  board: <p>My first Blog. Welcome!</p> # 站点公告
   copyright: false # 底部版权信息
 
 # config
@@ -141,11 +141,11 @@ comment:
     language: zh-CN
     
   valine: # Valine. https://valine.js.org
-    appid:  # your leancloud application appid
-    appkey:  # your leancloud application appkey
+    appid: X56D4dsnPApfYFQfcMp4rVRp-gzGzoHsz # your leancloud application appid
+    appkey: tWA4o1TCgfedXIv0NCn6BqmU # your leancloud application appkey
     notify: false # mail notifier , https://github.com/xCss/Valine/wiki
     verify: false # Verification code
-    placeholder: Just go go # comment box placeholder
+    placeholder: :) # comment box placeholder
     avatar: mm # gravatar style
     meta: nick,mail,link # custom comment header
     pageSize: 10 # pagination size
@@ -179,7 +179,7 @@ pv:
         
 # wordcount
 postCount:
-  enable: false
+  enable: true
   wordcount: true  # 文章字数统计
   min2read: true  # 阅读时长预计 
 
@@ -202,51 +202,51 @@ profile:
   articleSelfBlock: false # 关闭文章下方的自我介绍
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 昵称
-  author_title: Web Developer & Designer
-  author_description: 个人简介。
-  location: Shenzhen, China
-  follow: https://github.com/cofess
+  author: Junru Zhang
+  author_title: Student of Systematic Entomology
+  author_description: 
+  location: Shaanxi, China
+  follow: https://github.com/curiosusJR
   # Social Links
   social:
-    links:
-      github: https://github.com/cofess
-      weibo: http://weibo.com/cofess
-      twitter: https://twitter.com/iwebued
-      # facebook: /
+   links:
+  #    github: https://github.com/cofess
+  #    weibo: http://weibo.com/cofess
+  #    twitter: https://twitter.com/iwebued
+  ##    # facebook: /
       # dribbble: /
-      behance: https://www.behance.net/cofess
-      rss: atom.xml
-    link_tooltip: true # enable the social link tooltip, options: true, false
+      #    behance: https://www.behance.net/cofess
+      #rss: atom.xml
+      #link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
-    Git: ★★★☆☆
-    Gulp: ★★★☆☆
-    Javascript: ★★★☆☆
-    HTML+CSS: ★★★☆☆
-    Bootstrap: ★★★☆☆
-    ThinkPHP: ★★★☆☆
-    平面设计: ★★★☆☆
+  # Git: ★★★☆☆
+  # Gulp: ★★★☆☆
+  # Javascript: ★★★☆☆
+  # HTML+CSS: ★★★☆☆
+  # Bootstrap: ★★★☆☆
+  # ThinkPHP: ★★★☆☆
+  # 平面设计: ★★★☆☆
   # My Personal Links
   links:
-    Github: https://github.com/cofess
-    Blog: http://blog.cofess.com
-    微博: http://weibo.com/cofess
-    花瓣: http://huaban.com/cofess
-    Behance: https://www.behance.net/cofess
+  # Github: https://github.com/cofess
+  # Blog: http://blog.cofess.com
+  # 微博: http://weibo.com/cofess
+  # 花瓣: http://huaban.com/cofess
+  # Behance: https://www.behance.net/cofess
   # My Personal Labels
   labels:
-    - 前端
-    - 前端开发
-    - 前端重构
-    - Web前端
-    - 网页重构
+  # - 前端
+  # - 前端开发
+  # - 前端重构
+  # - Web前端
+  # - 网页重构
   # My Personal Works
   works:
-    name:
-      link: http://www.example.com
-      date: 2016
+   name:
+  #   link: http://www.example.com
+  #   date: 2016
   # My Personal Projects
   projects:
-    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
-    cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
+  # cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
+  # cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
