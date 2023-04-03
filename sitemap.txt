@@ -1,8 +1,8 @@
+http://zhangdeweb.site/tags/index.html
+http://zhangdeweb.site/categories/index.html
 http://zhangdeweb.site/2023/04/03/TODO/
 http://zhangdeweb.site/2023/04/01/sync/
 http://zhangdeweb.site/2023/03/01/hello-world/
-http://zhangdeweb.site/tags/index.html
-http://zhangdeweb.site/categories/index.html
 http://zhangdeweb.site/
 http://zhangdeweb.site/tags/TODO/
 http://zhangdeweb.site/tags/blog/
