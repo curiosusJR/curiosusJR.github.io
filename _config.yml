@@ -103,7 +103,7 @@ theme: pure
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://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@github.com/curiosusJR/curiosusJR.github.io.git 
+  repository: https://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@github.com/curiosusJR/curiosusJR.github.io.git 
   branch: master
   name: curiosusJR
   email: millipedeassassin@gmail.com
