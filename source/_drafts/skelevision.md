@@ -1,9 +1,11 @@
 ---
 title: Measure insect male external genitalia by skelevision protocol
 tags:
-  - null
+  - reproducification
+  - idea
+  - skelevision
 categories:
-  - null
+  - paper
 date: 2023-04-03 20:47:49
 ---
 

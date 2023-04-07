@@ -1,0 +1,6 @@
+{
+  "folder": "_posts",
+  "template": "_drafts/_daily",
+  "autorun": true,
+  "format": "MM-DD-YYYY"
+}
