@@ -11,12 +11,14 @@ tags:
 
 ## build enviroment
 1. install node, git and hexo;
-2. git clone -b hexo https://github.com/curiosusJR/curiosusJR.github.io.git curiosus
-3. cd cuirosus && sudo npm install # init config and packages
+2. `git clone -b hexo https://github.com/curiosusJR/curiosusJR.github.io.git curiosus`
+3. `cd cuirosus && sudo npm install` # init config and packages
 
 ## github authentication
-1. "hexo d" and "git push" commands need to authenticate github by token;
-2.  only *repo* and *workflow* is necessary.
+
+1. configure github global setting with command `git config --global user.name ""` and `git config --global user.email ""`
+2. "hexo d" and "git push" commands need to authenticate github by token;
+3.  only *repo* and *workflow* is necessary.
 
 **NOTE: token should not be upload to remote repository, means .gitignore should include files below**
 

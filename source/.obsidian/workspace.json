@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "22f9d33ffcc999ba",
+        "id": "72f42046eb8002fd",
         "type": "tabs",
         "children": [
           {
-            "id": "b29f7e67fcf6247c",
+            "id": "e9ffb946ea96c763",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/archlinux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/archlinux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/archlinux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/archlinux.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -152,8 +144,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "b29f7e67fcf6247c",
+  "active": "e9ffb946ea96c763",
   "lastOpenFiles": [
+    "_posts/04-08-2023.md",
     "_posts/04-07-2023.md",
     "_posts/archlinux.md",
     "_posts/hello-world.md",
