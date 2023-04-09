@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "72f42046eb8002fd",
+        "id": "a26e7123cf698979",
         "type": "tabs",
         "children": [
           {
-            "id": "e9ffb946ea96c763",
+            "id": "ca75cf16a0bd3c81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/04-08-2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/04-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/04-08-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/04-08-2023.md"
+              }
             }
           }
         ]
@@ -144,15 +152,16 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e9ffb946ea96c763",
+  "active": "ca75cf16a0bd3c81",
   "lastOpenFiles": [
+    "_posts/04-09-2023.md",
+    "_drafts/skelevision.md",
+    "_drafts/latex.md",
+    "_drafts/_daily.md",
+    "_posts/hello-world.md",
+    "_posts/archlinux.md",
     "_posts/04-08-2023.md",
     "_posts/04-07-2023.md",
-    "_posts/archlinux.md",
-    "_posts/hello-world.md",
-    "_drafts/latex.md",
-    "_drafts/skelevision.md",
-    "_drafts/_daily.md",
     "_posts/sync.md",
     "2023-04-07.md",
     "tags/index.md",
