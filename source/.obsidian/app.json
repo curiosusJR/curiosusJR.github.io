@@ -1,6 +1,13 @@
 {
-  "vimMode": false,
+  "vimMode": true,
   "spellcheck": true,
   "tabSize": 8,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "promptDelete": false,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "_posts/04-10-2023"
 }

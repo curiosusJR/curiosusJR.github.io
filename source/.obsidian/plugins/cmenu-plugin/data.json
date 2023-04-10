@@ -45,6 +45,26 @@
       "id": "cmenu-plugin:editor:toggle-blockquote",
       "name": "cMenu: Toggle blockquote",
       "icon": "quote-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:insert-link",
+      "name": "cMenu: Insert markdown link",
+      "icon": "link-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-numbered-list",
+      "name": "cMenu: Toggle numbered list",
+      "icon": "number-list-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-highlight",
+      "name": "cMenu: Toggle highlight",
+      "icon": "highlight-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:insert-embed",
+      "name": "cMenu: Add embed",
+      "icon": "note-glyph"
     }
   ],
   "appendMethod": "body",
