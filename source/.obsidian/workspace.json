@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee1c26587ddee21",
+        "id": "dfb77bec37fbdad4",
         "type": "tabs",
         "children": [
           {
-            "id": "d21bfb4304779133",
+            "id": "f3692bd6d50f9c4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/04-12-2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/04-12-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/04-12-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/04-12-2023.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -153,19 +145,32 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d21bfb4304779133",
+  "active": "f3692bd6d50f9c4c",
   "lastOpenFiles": [
+    "_posts/04-13-2023.md",
+    "_posts/04-11-2023.md",
+    "_posts/04-12-2023.md",
+    "_posts/04-09-2023.md",
+    "_posts/04-10-2023.md",
+    "_posts/sync.md",
+    "_drafts/_daily.md",
+    "_posts/04-13-2023-1.md",
+    "_posts/04-13-2023-1",
+    "_posts/04-13-2023",
+    "_posts/13-04-2023.md",
+    "_posts/2023-04-13.md",
+    "_posts/13-04-2023",
+    "_posts/2023-04-13",
+    "_posts/archlinux.md",
+    "Pictures/1.jpeg",
+    "Pictures",
     "_posts/04-12-2023/2.jpg",
     "_posts/04-12-2023/1.jpg",
-    "_posts/04-12-2023/2.jpeg",
+    "Pictures/2.jpeg",
     "_posts/04-12-2023/1.jpeg",
     "_posts/04-12-2023",
-    "_posts/04-12-2023.md",
-    "_posts/04-11-2023.md",
     "_posts/04-07-2023.md",
     "().md",
-    "_posts/04-10-2023.md",
-    "_posts/04-09-2023.md",
     "_posts/04-08-2023.md",
     "_posts/04-10-2023/configfile_i3wm.txt",
     "_posts/04-10-2023/configfile_i3wm.md",
@@ -174,15 +179,10 @@
     "_posts/test-1.md",
     "_posts/test.md",
     "_posts/test-1",
-    "_posts/test",
-    "script_files",
-    "_posts/archlinux.md",
     "_posts/hello-world.md",
-    "_posts/sync.md",
     "_posts/未命名.md",
     "_drafts/skelevision.md",
     "_drafts/latex.md",
-    "_drafts/_daily.md",
     "2023-04-07.md",
     "tags/index.md",
     "categories/index.md",

@@ -1,10 +1,10 @@
 ---
-title: My life, my work, my thought
+title: {{title}}
 tags:
   - daily work
 categories:
   - diaries
-date: {{ date }}
+date: {{ date }} 
 ---
 # What I have done today
 
