@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dfb77bec37fbdad4",
+        "id": "a2cb2c194e155fa4",
         "type": "tabs",
         "children": [
           {
-            "id": "f3692bd6d50f9c4c",
+            "id": "4d3185f88e3a3fee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/04-11-2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/04-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/04-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/04-11-2023.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -153,16 +145,19 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "f3692bd6d50f9c4c",
+  "active": "4d3185f88e3a3fee",
   "lastOpenFiles": [
+    "_posts/04-15-2023.md",
+    "_posts/04-14-2023.md",
+    "_posts/04-13-2023.md",
+    "_posts/04-12-2023.md",
+    "_posts/04-11-2023.md",
+    "_posts/04-10-2023.md",
+    "_posts/04-09-2023.md",
+    "_posts/04-08-2023.md",
+    "_posts/04-07-2023.md",
     "_drafts/_daily.md",
     "_drafts/latex.md",
-    "_posts/04-11-2023.md",
-    "_posts/04-12-2023.md",
-    "_posts/04-13-2023.md",
-    "_posts/04-14-2023.md",
-    "_posts/04-09-2023.md",
-    "_posts/04-10-2023.md",
     "_posts/sync.md",
     "_posts/04-13-2023-1.md",
     "_posts/04-13-2023-1",
@@ -179,9 +174,7 @@
     "Pictures/2.jpeg",
     "_posts/04-12-2023/1.jpeg",
     "_posts/04-12-2023",
-    "_posts/04-07-2023.md",
     "().md",
-    "_posts/04-08-2023.md",
     "_posts/04-10-2023/configfile_i3wm.txt",
     "_posts/04-10-2023/configfile_i3wm.md",
     "_posts/04-10-2023/configfile_i3wm",
@@ -194,7 +187,6 @@
     "_drafts/skelevision.md",
     "2023-04-07.md",
     "tags/index.md",
-    "categories/index.md",
-    "2023-04-04.md"
+    "categories/index.md"
   ]
 }
