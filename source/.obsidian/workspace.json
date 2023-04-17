@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c2af8a5960a87ee0",
+        "id": "2396b22bd7f37b79",
         "type": "tabs",
         "children": [
           {
-            "id": "c77e7201b793952c",
+            "id": "ba482c1ddbb70a00",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -145,15 +145,17 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c77e7201b793952c",
+  "active": "ba482c1ddbb70a00",
   "lastOpenFiles": [
+    "_posts/04-17-2023.md",
     "_posts/04-16-2023.md",
+    "_posts/archlinux.md",
+    "_posts/04-10-2023.md",
     "_posts/04-15-2023.md",
     "_posts/04-14-2023.md",
     "_posts/04-13-2023.md",
     "_posts/04-12-2023.md",
     "_posts/04-11-2023.md",
-    "_posts/04-10-2023.md",
     "_posts/04-09-2023.md",
     "_posts/04-08-2023.md",
     "_posts/04-07-2023.md",
@@ -167,7 +169,6 @@
     "_posts/2023-04-13.md",
     "_posts/13-04-2023",
     "_posts/2023-04-13",
-    "_posts/archlinux.md",
     "Pictures/1.jpeg",
     "Pictures",
     "_posts/04-12-2023/2.jpg",
@@ -186,7 +187,6 @@
     "_posts/hello-world.md",
     "_posts/未命名.md",
     "_drafts/skelevision.md",
-    "2023-04-07.md",
-    "tags/index.md"
+    "2023-04-07.md"
   ]
 }
