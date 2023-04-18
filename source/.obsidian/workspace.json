@@ -11,8 +11,12 @@
             "id": "ba482c1ddbb70a00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/04-18-2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/04-18-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/04-18-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/04-18-2023.md"
+              }
             }
           }
         ],
@@ -147,18 +155,23 @@
   },
   "active": "ba482c1ddbb70a00",
   "lastOpenFiles": [
-    "_posts/04-17-2023.md",
-    "_posts/04-16-2023.md",
-    "_posts/archlinux.md",
     "_posts/04-10-2023.md",
-    "_posts/04-15-2023.md",
-    "_posts/04-14-2023.md",
-    "_posts/04-13-2023.md",
-    "_posts/04-12-2023.md",
-    "_posts/04-11-2023.md",
     "_posts/04-09-2023.md",
     "_posts/04-08-2023.md",
     "_posts/04-07-2023.md",
+    "_posts/04-11-2023.md",
+    "_posts/04-12-2023.md",
+    "_posts/04-13-2023.md",
+    "_posts/04-14-2023.md",
+    "_posts/04-15-2023.md",
+    "_posts/04-16-2023.md",
+    "_posts/04-17-2023.md",
+    "_posts/04-18-2023.md",
+    "_posts/04-18-2023/test.txt",
+    "_posts/04-18-2023",
+    "未命名.md",
+    "_posts/test.txt",
+    "_posts/archlinux.md",
     "_drafts/_daily.md",
     "_drafts/latex.md",
     "_posts/sync.md",
@@ -179,14 +192,8 @@
     "().md",
     "_posts/04-10-2023/configfile_i3wm.txt",
     "_posts/04-10-2023/configfile_i3wm.md",
-    "_posts/04-10-2023/configfile_i3wm",
-    "_posts/04-10-2023",
     "_posts/test-1.md",
     "_posts/test.md",
-    "_posts/test-1",
-    "_posts/hello-world.md",
-    "_posts/未命名.md",
-    "_drafts/skelevision.md",
-    "2023-04-07.md"
+    "_posts/hello-world.md"
   ]
 }
