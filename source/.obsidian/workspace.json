@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2396b22bd7f37b79",
+        "id": "b21f31e946b091aa",
         "type": "tabs",
         "children": [
           {
-            "id": "ba482c1ddbb70a00",
+            "id": "65393ba279065c94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/04-18-2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/04-18-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/04-18-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/04-18-2023.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -153,8 +145,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "ba482c1ddbb70a00",
+  "active": "65393ba279065c94",
   "lastOpenFiles": [
+    "_posts/04-19-2023.md",
+    "_posts/04-18-2023.md",
     "_posts/04-10-2023.md",
     "_posts/04-09-2023.md",
     "_posts/04-08-2023.md",
@@ -166,7 +160,6 @@
     "_posts/04-15-2023.md",
     "_posts/04-16-2023.md",
     "_posts/04-17-2023.md",
-    "_posts/04-18-2023.md",
     "_posts/04-18-2023/test.txt",
     "_posts/04-18-2023",
     "未命名.md",
