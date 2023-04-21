@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b21f31e946b091aa",
+        "id": "a019c707dee2d766",
         "type": "tabs",
         "children": [
           {
-            "id": "65393ba279065c94",
+            "id": "a01d377b490353d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/04-20-2023.md",
+                "file": "_posts/04-21-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/04-20-2023.md",
+                "file": "_posts/04-21-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/04-20-2023.md",
+                "file": "_posts/04-21-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/04-20-2023.md"
+                "file": "_posts/04-21-2023.md"
               }
             }
           }
@@ -153,9 +153,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "65393ba279065c94",
+  "active": "a01d377b490353d5",
   "lastOpenFiles": [
     "_posts/04-20-2023.md",
+    "_posts/04-21-2023.md",
+    "_posts/04-22-2023.md",
     "_posts/04-19-2023.md",
     "_posts/04-18-2023.md",
     "_posts/04-10-2023.md",
@@ -193,8 +195,6 @@
     "_posts/04-12-2023",
     "().md",
     "_posts/04-10-2023/configfile_i3wm.txt",
-    "_posts/04-10-2023/configfile_i3wm.md",
-    "_posts/test-1.md",
-    "_posts/test.md"
+    "_posts/04-10-2023/configfile_i3wm.md"
   ]
 }
