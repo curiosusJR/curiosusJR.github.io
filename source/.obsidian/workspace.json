@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a019c707dee2d766",
+        "id": "7ad79be419ffc96e",
         "type": "tabs",
         "children": [
           {
-            "id": "a01d377b490353d5",
+            "id": "4f4a7daa6c8f20be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/04-21-2023.md",
+                "file": "_posts/04-22-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/04-21-2023.md",
+                "file": "_posts/04-22-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/04-21-2023.md",
+                "file": "_posts/04-22-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/04-21-2023.md"
+                "file": "_posts/04-22-2023.md"
               }
             }
           }
@@ -153,11 +153,16 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "a01d377b490353d5",
+  "active": "4f4a7daa6c8f20be",
   "lastOpenFiles": [
-    "_posts/04-20-2023.md",
-    "_posts/04-21-2023.md",
+    "linuxfordevices.com/tutorials/ubuntu/dhcp-server-on-ubuntu.md",
     "_posts/04-22-2023.md",
+    "linuxfordevices.com/tutorials/ubuntu",
+    "linuxfordevices.com/tutorials",
+    "linuxfordevices.com",
+    "().md",
+    "_posts/04-21-2023.md",
+    "_posts/04-20-2023.md",
     "_posts/04-19-2023.md",
     "_posts/04-18-2023.md",
     "_posts/04-10-2023.md",
@@ -187,14 +192,9 @@
     "_posts/13-04-2023",
     "_posts/2023-04-13",
     "Pictures/1.jpeg",
-    "Pictures",
     "_posts/04-12-2023/2.jpg",
     "_posts/04-12-2023/1.jpg",
     "Pictures/2.jpeg",
-    "_posts/04-12-2023/1.jpeg",
-    "_posts/04-12-2023",
-    "().md",
-    "_posts/04-10-2023/configfile_i3wm.txt",
-    "_posts/04-10-2023/configfile_i3wm.md"
+    "_posts/04-12-2023/1.jpeg"
   ]
 }
