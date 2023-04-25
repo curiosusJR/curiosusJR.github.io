@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52e672b49ba9dbae",
+        "id": "056e6dc05d3c2a44",
         "type": "tabs",
         "children": [
           {
-            "id": "c0b777200651be8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/00-TODO-LIST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c73942577a1100a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/Proposal report.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0facacc5ac180083",
+            "id": "e2d8be5c94db9ecf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,11 +153,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0facacc5ac180083",
+  "active": "e2d8be5c94db9ecf",
   "lastOpenFiles": [
     "_posts/00-TODO-LIST.md",
-    "_posts/Proposal report.md",
     "_posts/04-25-2023.md",
+    "_posts/Proposal report.md",
     "_posts/04-24-2023.md",
     "_posts/04-23-2023.md",
     "_posts/04-22-2023.md",

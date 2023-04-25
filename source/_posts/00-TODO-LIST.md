@@ -11,22 +11,21 @@ I need a to-do list to help me organize my numerous daily tasks. This list categ
 
 # Things I need to do **Today**
 
-1. blah 
-2. blah
+- [x] Network broken retry. Using curl.
+- [ ] Add this auto-broken-retry script to openwrt.
+- [x] Todo list plugin on desktop environment. 
 
-# Things I need to do soon
-
-1. Write a draft of the proposal report for my PhD topic.
-2. blah
+# Things I need to do soon 
+- [ ] Write a draft of the proposal report for my PhD topic.
 
 # Things I need to do sometimes
-
-- Summarize installation and configuration of archlinux.
-- Add a curtain to my tower chassis.
-- Learn about version corresponding or dependency among cuda, python or so on.
-- Systematic learn deep learning programming.
-- Learn more about the basic of network technology for a better using of R6S.
-- Install fonts from MacOS and Windows to ubuntu for Latex.
-- Solved issue of the remote accessing to openwrt LAN. Something may help here, such as [nat64 in openwrt](https://openwrt.org/docs/guide-user/network/ipv6/nat64), and [others](https://blog.csdn.net/qq_29688717/article/details/129506914), but it needs more settings to complete.
-
+- [ ] It would be even better if the to-do list could pop up in a drop-down menu. I can create an object in github. Referring rofi source code and reading more documents will help me.
+- [ ] Summarize installation and configuration of archlinux.
+- [ ] Add a curtain to my tower chassis.
+- [ ] Learn about version corresponding or dependency among cuda, python or so on.
+- [ ] Systematic learn deep learning programming.
+- [ ] Learn more about the basic of network technology for a better using of R6S.
+- [ ] Install fonts from MacOS and Windows to ubuntu for Latex.
+- [ ] Solved issue of the remote accessing to openwrt LAN. Something may help here, such as [nat64 in openwrt](https://openwrt.org/docs/guide-user/network/ipv6/nat64), and [others](https://blog.csdn.net/qq_29688717/article/details/129506914), but it needs more settings to complete.
 # Things I had done recently 
+- [ ] The paste action cannot be canceled by default. It had been discussed  [here](https://github.com/erebe/greenclip/issues/27) but all of them are not perfect.
