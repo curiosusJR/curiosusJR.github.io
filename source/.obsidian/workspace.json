@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/04-25-2023.md",
+                "file": "_posts/04-26-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/04-25-2023.md",
+                "file": "_posts/04-26-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/04-25-2023.md",
+                "file": "_posts/04-26-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/04-25-2023.md"
+                "file": "_posts/04-26-2023.md"
               }
             }
           }
@@ -156,15 +156,19 @@
   "active": "e2d8be5c94db9ecf",
   "lastOpenFiles": [
     "_posts/00-TODO-LIST.md",
+    "_posts/04-26-2023.md",
     "_posts/04-25-2023.md",
-    "_posts/Proposal report.md",
+    "_posts/archlinux.md",
+    "_posts/04-18-2023.md",
+    "_posts/04-26-2023/network-broken-retry.txt",
+    "_posts/04-26-2023",
+    "_drafts/Proposal report.md",
     "_posts/04-24-2023.md",
     "_posts/04-23-2023.md",
     "_posts/04-22-2023.md",
     "_posts/04-21-2023.md",
     "_posts/04-20-2023.md",
     "_posts/04-19-2023.md",
-    "_posts/04-18-2023.md",
     "_posts/04-17-2023.md",
     "_posts/04-16-2023.md",
     "_posts/04-15-2023.md",
@@ -180,19 +184,14 @@
     "Pictures/IMG_2340.jpg",
     "_posts/sync.md",
     "_posts/hello-world.md",
-    "_posts/archlinux.md",
-    "linuxfordevices.com/tutorials/ubuntu/dhcp-server-on-ubuntu.md",
     "linuxfordevices.com/tutorials/ubuntu",
     "linuxfordevices.com/tutorials",
     "linuxfordevices.com",
-    "().md",
     "_posts/04-18-2023/test.txt",
     "_posts/04-18-2023",
     "_posts/test.txt",
     "_posts/04-13-2023-1",
     "_posts/04-13-2023",
-    "_posts/13-04-2023",
-    "_posts/2023-04-13",
     "Pictures/1.jpeg",
     "_posts/04-12-2023/2.jpg",
     "_posts/04-12-2023/1.jpg",
