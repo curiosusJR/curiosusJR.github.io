@@ -15,6 +15,7 @@ I need a to-do list to help me organize my numerous daily tasks. This list categ
 
 # Things I need to do soon 
 - [ ] Write a draft of the proposal report for my PhD topic.
+- [ ] Add GitAction on GitHub for automatically deploying Hexo blogs.
 
 
 # Things I had done recently 
