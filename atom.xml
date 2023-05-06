@@ -6,7 +6,7 @@
   <link href="http://zhangdeweb.site/atom.xml" rel="self"/>
   
   <link href="http://zhangdeweb.site/"/>
-  <updated>2023-04-03T08:52:11.687Z</updated>
+  <updated>2023-05-06T07:29:48.059Z</updated>
   <id>http://zhangdeweb.site/</id>
   
   <author>
@@ -17,21 +17,46 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>TODO list</title>
-    <link href="http://zhangdeweb.site/2023/04/03/TODO/"/>
-    <id>http://zhangdeweb.site/2023/04/03/TODO/</id>
-    <published>2023-04-03T08:13:32.000Z</published>
-    <updated>2023-04-03T08:52:11.687Z</updated>
+    <title>Thingking of the framework and foothold of my topic.</title>
+    <link href="http://zhangdeweb.site/2023/05/06/05-06-2023/"/>
+    <id>http://zhangdeweb.site/2023/05/06/05-06-2023/</id>
+    <published>2023-05-05T16:00:00.000Z</published>
+    <updated>2023-05-06T07:29:48.059Z</updated>
     
-    <content type="html"><![CDATA[<ol><li><a href="https://linux.cn/article-13119-1.html">https://linux.cn/article-13119-1.html</a> for RAW picture.</li></ol>]]></content>
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>blah </li><li>blah</li></ol><h1 id="What-I-need-to-do-next"><a href="#What-I-need-to-do-next" class="headerlink" title="What I need to do next"></a>What I need to do next</h1><ol><li>blah</li><li>blah</li></ol><h1 id="What-I-want-to-do-in-future"><a href="#What-I-want-to-do-in-future" class="headerlink" title="What I want to do in future"></a>What I want to do in future</h1><ul><li>ideas </li><li>ideas</li></ul><h1 id="What-I-want-to-tell-myself"><a href="#What-I-want-to-tell-myself" class="headerlink" title="What I want to tell myself"></a>What I want to tell myself</h1><div align=center><img src="/Pictures/*.jpeg" width="500" /><br>    <div style="color:orange; border-bottom: 1px solid #d9d9d9;    display: inline-block;    color: #999;    padding: 2px;">      Add Title here</div></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;https://linux.cn/article-13119-1.html&quot;&gt;https://linux.cn/article-13119-1.html&lt;/a&gt; for RAW picture.&lt;/li&gt;
-&lt;/ol&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="Ph.D" scheme="http://zhangdeweb.site/tags/Ph-D/"/>
+    
+    <category term="proposal" scheme="http://zhangdeweb.site/tags/proposal/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TO-DO LIST [Update Daily]</title>
+    <link href="http://zhangdeweb.site/2023/05/05/00-TODO-LIST/"/>
+    <id>http://zhangdeweb.site/2023/05/05/00-TODO-LIST/</id>
+    <published>2023-05-05T08:07:56.024Z</published>
+    <updated>2023-05-05T10:00:02.348Z</updated>
+    
+    <content type="html"><![CDATA[<p>I need a to-do list to help me organize my numerous daily tasks. This list categorizes all of things  I need to do in order of urgency. It will keep some of things that have already done for thinking over their logic when there is a complex situation. The list will be updated daily and irrelevant completed items will be cleared after about a week. If a complex task needs to be broken down into multiple subtasks, those subtasks will be listed in another file and linked here. The file list subtasks should be a document for the complex task and will be retained.</p><h1 id="Things-I-need-to-do-Tomorrow"><a href="#Things-I-need-to-do-Tomorrow" class="headerlink" title="Things I need to do Tomorrow"></a>Things I need to do <strong>Tomorrow</strong></h1><ul><li><input disabled="" type="checkbox"> Searching relevant literature.</li><li><input disabled="" type="checkbox"> Organize framework and foothold point of my topic.</li><li><input disabled="" type="checkbox"> Summarize the basic ideas. I mean write a list or something to organize thoughts.</li></ul><h1 id="Things-I-need-to-do-soon"><a href="#Things-I-need-to-do-soon" class="headerlink" title="Things I need to do soon"></a>Things I need to do soon</h1><ul><li><p><input disabled="" type="checkbox"> Write a draft of the proposal report for my PhD topic.</p><h2 id="0407"><a href="#0407" class="headerlink" title="0407"></a>0407</h2><ul><li><input disabled="" type="checkbox"> to-do: Read literature, evaluate the feasibility of this method. Write my dissertation report.<br> Given a new <a href="https://doi.org/10.1016/j.pld.2022.11.001">research</a> using a similar approach to study phylogeny, my original idea may be feasible. <ul><li>However, I need to find out a new innovation point for my own project. Specifically, I need deal with trait definition and quantification, modeling the evolution process against this data type, evaluate trait quality in evolutionary analyse, combine multimodal data like pictures and molecular sequences. </li><li>Since this is a PhD project, I need to assess whether I can achieve enough results to meet my graduation requirements. Namely I need to plan to publish 3 articles at least.</li></ul></li></ul><h2 id="0408"><a href="#0408" class="headerlink" title="0408"></a>0408</h2><ul><li><input disabled="" type="checkbox"> Sting out the margin.</li><li><input disabled="" type="checkbox"> Study with the annotation and learn how to definition traits like them.</li></ul><h2 id="0410"><a href="#0410" class="headerlink" title="0410"></a>0410</h2><ul><li><input disabled="" type="checkbox"> Structures outline definition.</li><li><input disabled="" type="checkbox"> Annotation changing.</li><li><input disabled="" type="checkbox"> Traits definition. Maybe same thing to the first point.</li></ul><h2 id="0415"><a href="#0415" class="headerlink" title="0415"></a>0415</h2><ul><li><input disabled="" type="checkbox"> Find out how <code>append</code> works and why use it. How to make it correct. i</li></ul><h2 id="0416"><a href="#0416" class="headerlink" title="0416"></a>0416</h2><ul><li><input disabled="" type="checkbox"> When the process is finished, keep checking this error. Up to now, there are a few questions about this error in my mind. <ol><li>The assert function limit something must be only one and they are not.</li><li>What is meaning of statements followed by asserting manual_images is a list and why. </li><li>Which function create folders in results?</li></ol></li><li><input disabled="" type="checkbox"> How to evaluate the identification and make it useful for me?</li><li><input disabled="" type="checkbox"> Report my work to my tutor.</li></ul><h2 id="0420"><a href="#0420" class="headerlink" title="0420"></a>0420</h2><ul><li><input disabled="" type="checkbox"> Read articles and prepare for PhD object.</li></ul><h2 id="0421"><a href="#0421" class="headerlink" title="0421"></a>0421</h2><ul><li><input disabled="" type="checkbox"> Search articles totally.</li></ul></li><li><p><input disabled="" type="checkbox"> Add GitAction on GitHub for automatically deploying Hexo blogs.</p></li></ul><h1 id="Things-I-had-done-recently"><a href="#Things-I-had-done-recently" class="headerlink" title="Things I had done recently"></a>Things I had done recently</h1><ul><li><input checked="" disabled="" type="checkbox"> Network broken retry. Using curl.</li><li><input checked="" disabled="" type="checkbox"> Add this auto-broken-retry script to openwrt.</li><li><input checked="" disabled="" type="checkbox"> Todo list plugin on desktop environment. </li><li><input checked="" disabled="" type="checkbox"> configure ipv5 on tower.</li></ul><h1 id="Things-I-need-to-do-sometimes"><a href="#Things-I-need-to-do-sometimes" class="headerlink" title="Things I need to do sometimes"></a>Things I need to do sometimes</h1><ul><li><input disabled="" type="checkbox"> It would be even better if the to-do list could pop up in a drop-down menu. I can create an object in github. Referring rofi source code and reading more documents will help me.</li><li><input disabled="" type="checkbox"> Summarize installation and configuration of archlinux.</li><li><input disabled="" type="checkbox"> Add a curtain to my tower chassis.</li><li><input disabled="" type="checkbox"> Learn about version corresponding or dependency among cuda, python or so on.</li><li><input disabled="" type="checkbox"> Systematic learn deep learning programming.</li><li><input checked="" disabled="" type="checkbox"> Learn more about the basic of network technology for a better using of R6S.</li><li><input disabled="" type="checkbox"> Install fonts from MacOS and Windows to ubuntu for Latex.</li><li><input checked="" disabled="" type="checkbox"> Solved issue of the remote accessing to openwrt LAN. Something may help here, such as <a href="https://openwrt.org/docs/guide-user/network/ipv6/nat64">nat64 in openwrt</a>, and <a href="https://blog.csdn.net/qq_29688717/article/details/129506914">others</a>, but it needs more settings to complete.</li><li><input disabled="" type="checkbox"> The paste action cannot be canceled by default. It had been discussed  <a href="https://github.com/erebe/greenclip/issues/27">here</a> but all of them are not perfect.</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;I need a to-do list to help me organize my numerous daily tasks. This list categorizes all of things  I need to do in order of urgency. I</summary>
       
     
     
@@ -44,55 +69,512 @@
   </entry>
   
   <entry>
-    <title>How to sync blogs between different devices</title>
-    <link href="http://zhangdeweb.site/2023/04/01/sync/"/>
-    <id>http://zhangdeweb.site/2023/04/01/sync/</id>
-    <published>2023-04-01T09:07:49.000Z</published>
-    <updated>2023-04-03T08:52:11.687Z</updated>
+    <title>Ready for my report.</title>
+    <link href="http://zhangdeweb.site/2023/05/05/05-05-2023/"/>
+    <id>http://zhangdeweb.site/2023/05/05/05-05-2023/</id>
+    <published>2023-05-04T16:00:00.000Z</published>
+    <updated>2023-05-06T07:28:15.207Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="build-enviroment"><a href="#build-enviroment" class="headerlink" title="build enviroment"></a>build enviroment</h2><ol><li>install node, git and hexo;</li><li>git clone -b hexo <a href="https://github.com/curiosusJR/curiosusJR.github.io.git">https://github.com/curiosusJR/curiosusJR.github.io.git</a> curiosus</li><li>cd cuirosus &amp;&amp; sudo npm install # init config and packages</li></ol><h2 id="github-authentication"><a href="#github-authentication" class="headerlink" title="github authentication"></a>github authentication</h2><ol><li>“hexo d” and “git push” commands need to authenticate github by token;</li><li>only <em>repo</em> and <em>workflow</em> is necessary.</li></ol><p><strong>NOTE: token should not be upload to remote repository, means .gitignore should include files below</strong></p><ol start="3"><li><p>token for hexo: vim .&#x2F;_config.yml</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: https://&lt;token-for-hexo&gt;@github.com/&lt;user.name&gt;/&lt;repo.name&gt;.git </span><br><span class="line">  branch: master</span><br><span class="line">  name: &lt;user.name&gt;</span><br><span class="line">  email: &lt;email-address&gt;</span><br></pre></td></tr></table></figure></li><li><p>token for git: vim .&#x2F;.git&#x2F;config</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">[remote &quot;origin&quot;]</span><br><span class="line">url = https://&lt;token-for-hexo&gt;@github.com/&lt;user.name&gt;/&lt;repo.name&gt;.git </span><br></pre></td></tr></table></figure></li><li><p>valid .gitignore after changing it by delet local cache:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git rm -r --cached .</span><br><span class="line">git add .</span><br><span class="line">git commit -m &#x27;update .gitignore&#x27;</span><br></pre></td></tr></table></figure></li></ol><h2 id="daily-use"><a href="#daily-use" class="headerlink" title="daily use"></a>daily use</h2><ol><li>git pull # for latest data</li><li>git branch -vv # check branch matchup between local and remote</li><li>hexo n “&lt;title&gt;“ # hexo g; hexo d; et.al<br><strong>NOTE: “hexo d” update the master branch contain website in github</strong></li><li>git add . &amp;&amp; git commit -m “<msg>“ &amp;&amp; git push # remember use command “git push” without “origin hexo” only when “git branch -vv” results a correct matchup.<br><strong>NOTE: git push up date hexo branch contain source data</strong></li></ol><h1 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h1><ol><li><a href="https://www.jianshu.com/p/85f455afcfcf">https://www.jianshu.com/p/85f455afcfcf</a></li><li><a href="https://www.jianshu.com/p/6ecb3adfefbd">https://www.jianshu.com/p/6ecb3adfefbd</a></li></ol>]]></content>
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>Preliminary organized my thinking of the proposal report.</li></ol><h1 id="What-I-want-to-tell-myself"><a href="#What-I-want-to-tell-myself" class="headerlink" title="What I want to tell myself"></a>What I want to tell myself</h1><p>I have come back from my vocation. Write my reports as draft in markdown.</p><p>In my zsh configure, the git-information is shown by p10k plugin in zim. It can be found that the signs meaning in <a href="https://github.com/romkatv/powerlevel10k/tree/master/gitstatus">their github  page</a>. Git stash is a temporary action, <a href="https://www.cnblogs.com/tocy/p/git-stash-reference.html">more about</a>.</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;build-enviroment&quot;&gt;&lt;a href=&quot;#build-enviroment&quot; class=&quot;headerlink&quot; title=&quot;build enviroment&quot;&gt;&lt;/a&gt;build enviroment&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;install </summary>
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
       
     
     
     
-    <category term="blogs" scheme="http://zhangdeweb.site/categories/blogs/"/>
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
     
     
-    <category term="blog" scheme="http://zhangdeweb.site/tags/blog/"/>
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
     
-    <category term="sync" scheme="http://zhangdeweb.site/tags/sync/"/>
+    <category term="Ph.D" scheme="http://zhangdeweb.site/tags/Ph-D/"/>
+    
+    <category term="proposal" scheme="http://zhangdeweb.site/tags/proposal/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://zhangdeweb.site/2023/03/01/hello-world/"/>
-    <id>http://zhangdeweb.site/2023/03/01/hello-world/</id>
-    <published>2023-03-01T09:07:49.000Z</published>
-    <updated>2023-04-03T08:52:11.687Z</updated>
+    <title>The final work was done on the eve of holiday.</title>
+    <link href="http://zhangdeweb.site/2023/04/27/04-27-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/27/04-27-2023/</id>
+    <published>2023-04-26T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.029Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li><p>Completed ipv6 setting on R6S, followed <a href="https://blog.csdn.net/LawssssCat/article/details/104443072">here</a>. </p><ol><li>Use <code>socat</code> followed <a href="https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=4129434&page=1#pid11351439">here</a> for visiting LAN from ipv6-WAN. (This might be nat64.)<br> <strong>It must be turned off the VPN or ip will be changed.</strong> </li><li>At the last, set a firewall in openwrt. Ipv6 WAN connection from TCP&#x2F;UDP will be forwarded to selected port in selected LAN host (refer other default setting). Now, I can visit local servers using [ipv6]:&lt;port&gt; address. </li><li>The ipv6 address can be changed when I restart my network server or reboot. So I need a DDNS service and a new domain name. Buy one from <a href="https://wanwang.aliyun.com/?spm=5176.21213303.1158081.1.590d53c9p19xoF&scm=20140722.S_card@@%E5%95%86%E5%93%81@@212429.S_card0.ID_card@@%E5%95%86%E5%93%81@@212429-RL_%E5%9F%9F%E5%90%8D%E6%B3%A8%E5%86%8C-OR_ser-V_2-P0_0">aliyun</a> and set dns&#x2F;ddns services with <a href="https://github.com/NewFuture/DDNS">DDNS</a> scripts found at GitHub. Use <code>crontab</code> for automatic updating.</li></ol></li><li><p>Add a new testing user on tower-server for others to link to later by <code>sudo adduser</code>.</p></li></ol><h1 id="What-I-want-to-tell-myself"><a href="#What-I-want-to-tell-myself" class="headerlink" title="What I want to tell myself"></a>What I want to tell myself</h1><p>A few days recently, I focused on my LAN and its remote connection. It takes some time for solving various issues I did not familiar with before. The remaining im-perfections are my tower server security. I do not know if current solution is secure enough. But I think it is securely enough because of campus networks and I do not have many valuable things.</p><p>It is really time to do something serious. I must devote all my energy to my PhD proposal,</p><p>when I come back from vacation! 😜</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
       
     
     
     
-    <category term="blogs" scheme="http://zhangdeweb.site/categories/blogs/"/>
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="ipv6" scheme="http://zhangdeweb.site/tags/ipv6/"/>
+    
+    <category term="ddns" scheme="http://zhangdeweb.site/tags/ddns/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>I remember that I have 2 ethernet card.</title>
+    <link href="http://zhangdeweb.site/2023/04/26/04-26-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/26/04-26-2023/</id>
+    <published>2023-04-25T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.029Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>Improved the <a href="network-broken-retry.txt">network-broken-retry-script</a>. Something about <a href="https://blog.csdn.net/yogima/article/details/128833660">reading from files</a> and <a href="https://blog.csdn.net/pearl8899/article/details/108522763">checking numbers of lines in file</a>. The websites for checking network connection are included in <code>/root/.Network_Connection_Test_List</code>. Log file will be written in <code>/root/</code> when all the test sites are inaccessible and re-try for login.</li><li>Using systemd.network to config ethernet card by checking <code>man systemd.network</code>.</li></ol><h1 id="What-I-want-to-do-in-future"><a href="#What-I-want-to-do-in-future" class="headerlink" title="What I want to do in future"></a>What I want to do in future</h1><ul><li>Enable ipv4 in enp3s0 and disable ipv4 in enp0s31f6. Disable ipv6 in enp3s0 and enable ipv6 in enp0s31f6.</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="ipv6" scheme="http://zhangdeweb.site/tags/ipv6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Clipboard is a fantastic thing.</title>
+    <link href="http://zhangdeweb.site/2023/04/25/04-25-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/25/04-25-2023/</id>
+    <published>2023-04-24T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.029Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li><p>Organized to-do list. I have tried to add a to-do list plugin on desktop environment, by using polybar module to run <code>alacritty -e vim &lt;todo.md&gt;</code>. I added it by learning the other modules added in polybar.</p><ol><li><p>I am using the <code>polybar</code> with theme forest which is from <a href="https://github.com/adi1090x/polybar-themes">polybar-themes</a> package in github. <code>Polybar</code> starts in <code>i3wm</code> and the startup file, <code>launch.sh</code>, can be found in <code>~/.config/polybar/launch.sh</code>.</p> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">#!/usr/bin/env bash</span><br><span class="line"></span><br><span class="line">dir=&quot;$HOME/.config/polybar&quot;</span><br><span class="line">themes=(`ls --hide=&quot;launch.sh&quot; $dir`)</span><br><span class="line"></span><br><span class="line">launch_bar() &#123;</span><br><span class="line">... ...</span><br><span class="line">polybar -q main -c &quot;$dir/$style/config.ini&quot; &amp;</span><br><span class="line">... ...</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">if [[ &quot;$1&quot; == &quot;--material&quot; ]]; then</span><br><span class="line">style=&quot;material&quot;</span><br><span class="line">launch_bar</span><br><span class="line"></span><br><span class="line">... ...</span><br></pre></td></tr></table></figure></li><li><p>Following the script, I check the file <code>~/.config/polybar/forest/config.ini</code> because this is the theme I am using. The additional modules are included in <code>user_modules.ini</code> and  added by variable <code>modules-left/center/right</code>. </p></li><li><p>Add module <code>todo</code> in <code>user_modules.ini</code> by copying and editing the <code>module/launcher</code>. </p> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">[module/todo]</span><br><span class="line">type = custom/text</span><br><span class="line">content = ✔</span><br><span class="line">content-foreground = $&#123;color.yellow&#125;</span><br><span class="line">click-left = alacritty -e vim ~/blog/curiosusJR.github.io/source/_posts/00-TODO-LIST.md</span><br></pre></td></tr></table></figure></li><li><p>Add <code>todo</code> module into <code>config.ini</code> by changing it to:  <code>modules-center=date sep todo</code></p></li><li><p>Restart <code>i3wm</code>.</p></li></ol></li><li><p>Installed an clipboard helper, <a href="https://github.com/erebe/greenclip">greenclip</a>, as a plugin of <code>rofi</code>. Added it into <code>i3wm</code> keyboard shortcuts. </p><ol><li>After installing the static binary file into <code>~/.local/bin</code>, add execution permission with <code>chmod +x</code> and add auto-startup process in i3&#x2F;config with adding a line of <code>exec_always ~/.local/bin/greenclip daemon</code>. <em>Remember that do not use <code>--no-startup-id</code>.</em> </li><li>Add shortcuts of auto-paste (see <a href="https://github.com/erebe/greenclip/issues/27">here</a>) in i3&#x2F;config.<br> <code>bindsym Ctrl+v exec--no-startup-id rofi -modi &quot;clipboard:greenclipprint&quot; -show clipboard -run-command &#39;&#123;cmd&#125;&#39; &amp;&amp; sleep 0.2 &amp;&amp; xdotool type $(xclip -o -selection clipboard)</code></li><li>In the way showed above, the space cannot be paste successfully. It can be solved by <a href="https://github.com/jordansissel/xdotool/issues/119">here</a>, just add <code>&quot;</code> beside <code>$(xclip -o -selection clipboard)</code>.</li><li>The paste action cannot be canceled by default. It had been discussed  <a href="https://github.com/erebe/greenclip/issues/27">here</a> but all of them are not perfect. <strong>So I still use methods above and copy a space anytime, thus when I cancel a copy and it will only paste a space there.</strong> The most useful method (but still with bugs) seems like using a script create in <code>~/.local/bin/paste-modi.sh</code> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">greenclip print $@</span><br><span class="line">coproc (xdotool key --clearmodifiers &quot;ctrl+v&quot; &amp;)</span><br><span class="line">exit 0</span><br></pre></td></tr></table></figure> and run it with <code>rofi -modi &quot;paste:/home/junru/.local/bin/paste-modi.sh&quot; -show paste</code></li></ol></li><li><p>Network broken retry. </p><ol><li>Because campus network login status will be refreshed every 24 hours or by some unknown reasons, I need to re-login when it logouts. </li><li>Under the campus network, command <code>ping</code> can always success whether it has been login or not, so I have to use <code>curl</code> to get http code for checking network connection. <a href="https://blog.csdn.net/weixin_46686835/article/details/113761418">Here</a> is more info about using  <code>curl</code> to get http codes and <a href="https://blog.csdn.net/qq_50685659/article/details/126233902">here</a> is more info about http codes.</li><li>In order to eliminate the impact of websites, I want to test a few sites. So <a href="https://blog.csdn.net/helloxiaozhe/article/details/118755685">here</a> is the  way to  go through the groups.</li><li>There are many campus network login tools on github or other repositories, <a href="https://github.com/ehaut/srun3k-client-cli">such as</a>.<br> By sum up, create auto-login script as: <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">#! /bin/bash</span><br><span class="line">http_list=( www.baidu.com www.nwafu.edu.cn );</span><br><span class="line">http_code=404;</span><br><span class="line">error_times=0;</span><br><span class="line">for i in $&#123;http_list[@]&#125;</span><br><span class="line">do</span><br><span class="line">http_code=`curl -o /dev/null -s -w %&#123;http_code&#125; $i`;</span><br><span class="line">if [[ $&#123;http_code%??&#125; != 2 &amp;&amp; $&#123;http_code%??&#125; != 3 ]]</span><br><span class="line">then</span><br><span class="line">((error_times=error_times+1));</span><br><span class="line">fi</span><br><span class="line">done;</span><br><span class="line">if [ $error_times != 0 ]</span><br><span class="line">then</span><br><span class="line">srun-cli ;</span><br><span class="line">fi</span><br></pre></td></tr></table></figure></li><li>Auto-run the script with <code>crontab</code> in ubuntu or  openwrt. <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">$ crontab -e</span><br><span class="line">#crontab</span><br><span class="line">* * * * * sh path/to/auto-relogin</span><br><span class="line"></span><br><span class="line">$ /etc/init.d/cron restart</span><br><span class="line"></span><br></pre></td></tr></table></figure></li></ol></li></ol><h1 id="What-I-want-to-do-in-future"><a href="#What-I-want-to-do-in-future" class="headerlink" title="What I want to do in future"></a>What I want to do in future</h1><ul><li><input disabled="" type="checkbox"> It would be even better if the to-do list could pop up in a drop-down menu. I can create an object in github. Referring rofi source code and reading more documents will help me.</li><li><input disabled="" type="checkbox"> The paste action cannot be canceled by default. It had been discussed  <a href="https://github.com/erebe/greenclip/issues/27">here</a> but all of them are not perfect.</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="rofi" scheme="http://zhangdeweb.site/tags/rofi/"/>
+    
+    <category term="polybar" scheme="http://zhangdeweb.site/tags/polybar/"/>
+    
+    <category term="clipboard" scheme="http://zhangdeweb.site/tags/clipboard/"/>
+    
+    <category term="srun-cli" scheme="http://zhangdeweb.site/tags/srun-cli/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello cool ipv6 and goodbye.</title>
+    <link href="http://zhangdeweb.site/2023/04/24/04-24-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/24/04-24-2023/</id>
+    <published>2023-04-23T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.029Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>Set another IP for R6S.openwrt.LAN by following <a href="https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R6S/zh#.E6.9B.B4.E6.94.B9LAN.E5.8F.A3.E7.9A.84IP.E5.9C.B0.E5.9D.80">their wiki</a>. </li><li>SSH Pub-key authentication. It is more safety and convenient because it does not need a password every time to log in.<ol><li>Use <code>ssh-keygen &amp;&amp; ssh-copy-id &lt;remote server ip&gt;</code> to add pub keys into server.</li><li>Edit local <code>~/.ssh/config</code> file, to set a common name, with: <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Host &lt;server name&gt;</span><br><span class="line">HostName &lt;server ip&gt;</span><br><span class="line">User &lt;user name&gt;</span><br></pre></td></tr></table></figure></li><li>If pub key authentication cannot success, try to config file <code>/etc/ssh/ssh_config</code> and set <code>StrictModes</code> option to “no”, more about see <code>man sshd</code> and <code>man ssh_config</code>.</li></ol></li><li>Ipv6 configuration in R6S with openwrt followed by <a href="https://zhuanlan.zhihu.com/p/492774540">here</a>. Sometime R6S cannot get an ipv6 address from campus net, maybe because of a network error. Reconnect the net cords and wait for a minutes, it will be fine. After the whole configuring, I can visit ipv6 sites in my tower device (connected with R6S by wired LAN). But it does not work on mac which is connected with R6S by wireless LAN. Besides, I cannot visit my ipv6 address outside my LAN because of the nat6. The reason of using nat6 is I can get only one address, not a sub-net, from campus network so I have to use nat6 to forwarding address to other devices. <div align=center> <img src="/Pictures/ipv6speed.jpg" width="500" /> <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">       It's so cool! But it is sadly that I cannot visit my ipv6 address via WAN. </div> </div></li></ol><h1 id="What-I-need-to-do-next"><a href="#What-I-need-to-do-next" class="headerlink" title="What I need to do next"></a>What I need to do next</h1><ol><li>Organize my to-do list for my PhD object.<a href="https://zhangdeweb.site/2023/04/25/04-25-2023/">Done</a></li></ol><h1 id="What-I-want-to-do-in-future"><a href="#What-I-want-to-do-in-future" class="headerlink" title="What I want to do in future"></a>What I want to do in future</h1><ul><li>Solved the remote access issue. Something may help here, such as <a href="https://openwrt.org/docs/guide-user/network/ipv6/nat64">nat64 in openwrt</a>, and <a href="https://blog.csdn.net/qq_29688717/article/details/129506914">others</a>, but it needs more settings to complete.</li></ul><h1 id="What-I-want-to-tell-myself"><a href="#What-I-want-to-tell-myself" class="headerlink" title="What I want to tell myself"></a>What I want to tell myself</h1><p>I think it is time to give up tossing these messes for now. I can just stop ipv6 and use a dumb methods, using Oray X5, because what i need is remote access, not ipv6. Otherwise, configure the network setting cost my too many time. I have lots of other more important business to do.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="router" scheme="http://zhangdeweb.site/tags/router/"/>
+    
+    <category term="ipv6" scheme="http://zhangdeweb.site/tags/ipv6/"/>
+    
+    <category term="ssh" scheme="http://zhangdeweb.site/tags/ssh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Professional things should be left to professionals.</title>
+    <link href="http://zhangdeweb.site/2023/04/23/04-23-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/23/04-23-2023/</id>
+    <published>2023-04-22T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.028Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>Problem of Safari network connection had been solved by changing DNS service. It should not be <code>8.8.8.8</code> or <code>114.114.114.114</code>. Deleted options related in DHCP configuration which in <code>/etc/dhcp/dhcpd.conf</code>. <ul><li><em>Additionally, DNS configure file can be found <a href="https://blog.csdn.net/OceanWaves1993/article/details/128217710">here</a>. Edit <code>/etc/systemd/resolved.conf</code>, run <code>systemctl restart systemd-resolved.service</code> and add link by <code>sudo ln -s /run/systemd/resolve/resolv.conf /etc/</code></em>.</li></ul></li><li>Installed <a href="https://wiki.friendlyelec.com/wiki/index.php/How_to_Build_FriendlyWrt">Friendlywrt</a>, a variant of <a href="https://openwrt.org/">openwrt</a> on R6S, to instead of Friendlyelec-ubuntu. Considering the specialization and complexity of configuration, the operating system for router is better than Ubuntu. Especially, the setting of dhcp or slaac assignation of ipv6 address in ubuntu needs configure network interfaces (more info see <code>man interfaces</code>) but the default network configuration is using <code>network-manager</code>. Changing <code>interfaces</code> config file will cover settings in <code>network-manager</code> and I do not know how to combine them. The interfaces cannot be configured for ap router easily for me and the Ubuntu system takes more spaces and ram. Besides, I do not know how to check which ips I have used in Ubuntu. Considering I may have more complex needs in the future, compared to edit every thing from zero, I prefer to use configure-completed and powerful <code>openwrt</code>.<ol><li>Friendlywrt operating system installation is very easy by following <a href="https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R6S/zh">their wiki</a>. </li><li>Use tower for network sharing to R6S in order to install python and pip by <code>opkg update &amp;&amp; opkg install python3 &amp;&amp; wget &lt;get-pip3.py&gt; &amp;&amp; python get-pip3.py</code> and then use <code>pip install srun-cli</code> to install the campus network auto-authentication program.</li><li>Maintain the LAN topology and tplink wireless router sets to ap mode.</li><li>Reset nas <a href="http://zhangdeweb.site/2023/04/22/04-22-2023">auto mount</a> in <code>tower.ubuntu</code>.</li></ol></li></ol><h1 id="What-I-need-to-do-next"><a href="#What-I-need-to-do-next" class="headerlink" title="What I need to do next"></a>What I need to do next</h1><ol><li>Set ip address, ipv6 and other settings in Friendlywrt. Be familiar with openwrt&#x2F;Friendlywrt system. <a href="https://zhangdeweb.site/2023/04/24/04-24-2023/">Done</a></li><li>Check the previous todo list and add tags for them. <a href="https://zhangdeweb.site/2023/04/23/04-23-2023/">Done</a><br> <em>The speed of network is not slow. Maybe the speed of campus network is erratic.</em></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="router" scheme="http://zhangdeweb.site/tags/router/"/>
+    
+    <category term="openwrt" scheme="http://zhangdeweb.site/tags/openwrt/"/>
+    
+    <category term="dns" scheme="http://zhangdeweb.site/tags/dns/"/>
+    
+    <category term="LAN" scheme="http://zhangdeweb.site/tags/LAN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Using WiFi router in ap mode with R6S</title>
+    <link href="http://zhangdeweb.site/2023/04/22/04-22-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/22/04-22-2023/</id>
+    <published>2023-04-21T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.028Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>Configured router with ap mode but no remote connection for its best performance. <ol><li>Use TpLink AX3000 XDR3010 which support ap mode to connect to R6S. R6S has a powerful CPU and TpLink has a higher speed than the previous wireless router, Oray X5. Compared with routing mode, ap mode make all devices under a same local network without creating a new subnet, <a href="https://zhuanlan.zhihu.com/p/349604997">see</a>. Otherwise, it may improve performance by reducing forward times and letting the more powerful CPU of R6S deal with events. Since then, compared with previous one, the new scheme can improve Wi-FI speed and CPU efficiency in only one LAN.  </li><li>Ap mode of TpLink Wi-Fi router can be open after setting <code>network setting - wired - ipv4 - shared to other computer</code> in LAN network controller of R6S.</li><li>Configure DHCP for R6S, followed <a href="http://linuxfordevices.com/tutorials/ubuntu/dhcp-server-on-ubuntu">here</a> and <a href="https://www.codenong.com/cs105867978">a Chinese guide</a> and <a href="https://blog.csdn.net/weixin_52365243/article/details/127344447">another one</a>. Fixed IP address should <strong>NOT</strong> be in DHCP and remember to cancel the annotation of <code>authoritative</code>. But it still cannot check which ip has been used and manage them in an easy way. Maybe there is a application can help me.</li><li>Because of IP address changing, I need to reset my NAS auto-mounting by <code>sudo vim /etc/fstab</code> and <code>sudo mount -a</code>. </li><li>Installed Oray pgyvpn in docker but because of using subnet it is not better than connecting Oray X5. IPV6 is not a good choice, either.</li></ol></li><li>Solved the problem of Latex package manager <code>tlmgr</code> cannot be found in <code>sudo</code>, followed by <a href="https://www.douban.com/note/557555838/?_i=2084163zFaZOiT,2166830zFaZOiT">here</a>. Run <code>sudo visudo</code> and add the <code>/bin</code> path into <code>Defaults secure_path</code>.</li></ol><h1 id="What-I-want-to-do-in-future"><a href="#What-I-want-to-do-in-future" class="headerlink" title="What I want to do in future"></a>What I want to do in future</h1><ul><li>Connect Oray X5. Try to find out how to manage IPs in R6S.ubuntu. <a href="https://zhangdeweb.site/2023/04/23/04-23-2023/">Done</a></li><li>The connection in safari of iPhone is very slow. Find out the reason. <a href="https://zhangdeweb.site/2023/04/23/04-23-2023/">Done</a></li><li>Learn more about the basic of network technology for a better using of R6S.</li><li>Install fonts from MacOS and Windows to ubuntu for Latex.</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="latex" scheme="http://zhangdeweb.site/tags/latex/"/>
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="router" scheme="http://zhangdeweb.site/tags/router/"/>
+    
+    <category term="mount" scheme="http://zhangdeweb.site/tags/mount/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Upgrade WiFi connection to AP mode</title>
+    <link href="http://zhangdeweb.site/2023/04/21/04-21-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/21/04-21-2023/</id>
+    <published>2023-04-20T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.028Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>Installed <a href="https://www.tug.org/texlive/quickinstall.html">Tex Live for unix</a> but there is no package management good enough for ubuntu. <code>tlmgr</code> cannot be found in <code>sudo</code>, <a href="https://tex.stackexchange.com/questions/203874/sudo-does-not-find-tlmgr">see</a>.</li><li>Installed [zotero] for inserting citations in <code>.docx</code> files. The method of custom reference format can be found <a href="https://blog.csdn.net/baidu_39389949/article/details/115867377">here</a>, more about <a href="https://docs.citationstyles.org/en/stable/">CSL</a> and <a href="https://editor.citationstyles.org/visualEditor/">a visualize tool</a>.</li><li>Installed a new WiFi router with AP mod but it cannot start ap mod successfully. So I still use dhcp. Additionally, the gateway cannot be same with ip in LAN masknet, remember to change one.</li><li>Ready for writing.</li></ol><h1 id="What-I-need-to-do-next"><a href="#What-I-need-to-do-next" class="headerlink" title="What I need to do next"></a>What I need to do next</h1><ol><li>Search articles totally.</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="latex" scheme="http://zhangdeweb.site/tags/latex/"/>
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="zotero" scheme="http://zhangdeweb.site/tags/zotero/"/>
+    
+    <category term="csl" scheme="http://zhangdeweb.site/tags/csl/"/>
+    
+    <category term="router" scheme="http://zhangdeweb.site/tags/router/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>En attendant Godot</title>
+    <link href="http://zhangdeweb.site/2023/04/20/04-20-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/20/04-20-2023/</id>
+    <published>2023-04-19T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.028Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>Waited for group meeting and meeting had been canceled. Maked PPT.</li></ol><h1 id="What-I-need-to-do-next"><a href="#What-I-need-to-do-next" class="headerlink" title="What I need to do next"></a>What I need to do next</h1><ol><li>Read articles and prepare for PhD object.</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ready for group meeting?</title>
+    <link href="http://zhangdeweb.site/2023/04/19/04-19-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/19/04-19-2023/</id>
+    <published>2023-04-18T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.028Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li><p>Tried to scale up font size and windows in i3wm followed <a href="https://askubuntu.com/questions/1433238/hidpi-screen-problem-in-i3wm">this</a> and found that it is not easy.</p></li><li><p>Evaluated the results, shown in the <a href="https://resjournals.onlinelibrary.wiley.com/doi/abs/10.1111/syen.12543">article</a>.</p><blockquote><p>Dataset was split into three consequent sub- samples: training, validation and testing – 70%, 15% and 15%.<br>… …<br>To measure a model quality, several metrics were used: averaged by class and weighted by a value of class instances types of precision, recall, F-score and top-1 error rate. The precision is a ratio of true- positive classification and the sum of true-positive and false-positive classification. The recall is a ratio of true-positive classification and the sum of true-positive and false-negative classification. The F-score is a harmonic mean of precision and recall metrics.<br>… …<br>For LIME we set ‘top_labels’ to 1 to produce explanations only for the class with the highest confidence value, ‘num_features’ to 5 to limit the number of features that are presented in an explana- tion. The green areas are treated in favour of the true class, and the red ones are treated as the regions against the true class. For Grad- CAM, we choose the last layer visualization because it is a layer that accumulates more primitive features that are extracted from previous layers. For RISE the number of masks ‘N’, the size of the smaller square binary masks ‘s’ and the probability of each pixel in the smaller masks ‘p’ were empirically set to 1000, 8 and 0.2, respectively.<br>… …<br>LIME and Grad-CAM algorithms were much more likely to show the expected areas of interest within which the recognized object was located. Some of the visualization results obtained with RISE focused in great detail on the image of the area within the specimen.<br>  Namely, I should check those value and LIME results. Top-1 error rate about means mismatch rate, <a href="https://www.cnblogs.com/zyr001/p/14544031.html">see</a>. </p></blockquote></li><li><p>Make PPT for group meeting tomorrow.</p></li></ol><h1 id="What-I-want-to-tell-myself"><a href="#What-I-want-to-tell-myself" class="headerlink" title="What I want to tell myself"></a>What I want to tell myself</h1><ul><li>For those application complied locally which had been installed in <code>*/bin/</code>, the source file can be deleted.</li><li>For inserting digraph or unicode symbols in neovim, follow <a href="https://alpha2phi.medium.com/neovim-101-digraphs-icons-and-symbols-8bceee7817b7">here</a>. Type CTRL-Q in insert mode to enter visual mode and type U or u following unicodes and then type enter or space to quit the mode and the symbol will be typed in. Additional, the rofi can help type unicode symbols by install <a href="https://github.com/fdw/rofimoji">rofimoji</a> and set shortcut in i3wm</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="vim" scheme="http://zhangdeweb.site/tags/vim/"/>
+    
+    <category term="2022se" scheme="http://zhangdeweb.site/tags/2022se/"/>
+    
+    <category term="rofi" scheme="http://zhangdeweb.site/tags/rofi/"/>
+    
+    <category term="unicode" scheme="http://zhangdeweb.site/tags/unicode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Running complete. Now, explain it!</title>
+    <link href="http://zhangdeweb.site/2023/04/18/04-18-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/18/04-18-2023/</id>
+    <published>2023-04-17T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.027Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>The error occurred yesterday caused by using an incomplete model weight file, <a href="https://zhuanlan.zhihu.com/p/340908578">see</a>. Re-trained model and used new directory path. Running completed.  </li><li>The identify result is not pretty good. Because I did not organize these pictures in class carefully and I used the full picture including different structures. This time, I tried to use the results of <a href="https://zhangdeweb.site/2023/04/07/04-07-2023/">04.07</a> which includes pictures of separate structures.  <ol><li>Copy result folders to the datasets directory and rename it to ‘raw’. Remove files that do not need. </li><li>Organize files using <a href="test.txt">a shell-script</a>.</li><li>Start running that series of programs and get results.</li></ol></li></ol><h1 id="What-I-need-to-do-next"><a href="#What-I-need-to-do-next" class="headerlink" title="What I need to do next"></a>What I need to do next</h1><ol><li>Read the article again and evaluate the results.<a href="https://zhangdeweb.site/2023/04/19/04-19-2023/">Done</a></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="2022se" scheme="http://zhangdeweb.site/tags/2022se/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>High-resolution screen with larger fonts.</title>
+    <link href="http://zhangdeweb.site/2023/04/17/04-17-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/17/04-17-2023/</id>
+    <published>2023-04-16T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.027Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>Previous application launcher process, <code>dmenu</code>, is not really good for me. It is difficultly to configure so I decide to turn to <a href="https://github.com/davatorium/rofi"><code>rofi</code></a>, a modern application launcher and windows switcher to replace <code>dmenu</code>. <ol><li>Installation with <code>sudo apt install rofi</code> and remove <code>dmenu</code>.</li><li>Download themes for <code>rofi</code> from <a href="https://github.com/newmanls/rofi-themes-collection">here</a>. More about <a href="https://github.com/davatorium/rofi/wiki/Themes">usage</a> and <a href="https://github.com/davatorium/rofi/blob/next/CONFIG.md">rofi config</a>. Followed by the documents, move theme files to <code>~/.config/rofi/themes</code> and preview themes by running <code>rofi -modi run -show run</code> and select <code>rofi-theme-selector</code>. Set default theme by editing <code>rofi</code> config file, which created by command <code>rofi -dump-config &gt; ~/.config/rofi/config.rasi</code>, to add <code>@theme &quot;MyTheme&quot;</code> in the end following <code>configuration &#123;&#125;</code>. Use <code>rofi -help</code>  to check configuration file path. Fonts and other settings can be edit in theme files.</li><li><code>Rofi</code> has several built-in modes implementing common use cases. Here is the differences of commonly used ones.<ul><li><strong>run</strong>: launch applications from $PATH, with option to launch in terminal.</li><li><strong>drun</strong>: launch applications based on desktop files. It tries to be compliant to the XDG standard.</li><li><strong>window</strong>: Switch between windows on an EWMH compatible window manager.</li><li><strong>ssh</strong>: Connect to a remote host via ssh.</li><li><strong>filebrowser</strong>: A basic file-browser for opening files.</li></ul></li><li>Configure <code>i3wm</code> to change application launcher. <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"># annotate dmenu command</span><br><span class="line"># bindsym $mod+d exec --no-startup-id dmenu_run -fn DejaVu-25 </span><br><span class="line"># A more modern dmenu replacement is rofi:</span><br><span class="line">bindsym $mod+d exec --no-startup-id &quot;rofi -modi drun,run -show drun &quot;</span><br><span class="line">bindsym $mod+w exec --no-startup-id &quot;rofi -modi drun,run,window -show window </span><br><span class="line"></span><br><span class="line"># remember to remove conflicting shortcuts</span><br></pre></td></tr></table></figure></li><li>Modes <code>drun</code> launch applications based on desktop files. The way to add application to the menu is that add <code>.desktop</code> file in directory <code>/usr/share/applications/</code>. An easy way for adding is copy another file and edit the appropriate lines for name, exec, and icon. It is recommended to use full path. It seems like relate to <code>xdg</code>, so may be <code>man xdg-open</code>, <code>man xdg-settings</code> can tell more.</li></ol></li><li>Training models with my own pictures dataset from Dr. Liang Zonglei. (I used full pictures include several structures in this time.)<ol><li>Edit dataset path and re-organize files in dataset folder. <em>Remember: <strong>DO NOT</strong> only use number as file name or as the start of file name, or error occur with function <code>len()</code> during training.</em> </li><li>Prepare dataset and train. All will be fine. When train is done, change <code>TESTING_MODEL_WEIGHTS</code> to current folder name.</li><li>Testing datasets and new error occurred. <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br></pre></td><td class="code"><pre><span class="line">RuntimeError Traceback (most recent call last) in </span><br><span class="line">18 print(config.TESTING_DATASET_NAME) </span><br><span class="line">19 test_model(model_name=config.TESTING_MODEL_NAME, dataset_name=config.TESTING_DATASET_NAME, </span><br><span class="line">---&gt; 20 folder_to_evaluate=folder_name, model_type=mtype) </span><br><span class="line">21 if config.TESTING_INTERPRETABLE_PLOTS:</span><br><span class="line">22 make_interpretable_plots(model_name=config.TESTING_MODEL_NAME, </span><br><span class="line">/mnt/data/trait/data/test_se/src/models_test.py in test_model(model_name, dataset_name, folder_to_evaluate, model_type) </span><br><span class="line">174 &#x27;external_data_class_dict&#x27;: None, 175 &#125; </span><br><span class="line">--&gt; 176 reports_list = model_evaluate(EVAL_DICT) </span><br><span class="line">177 </span><br><span class="line">178 # Формирование табличного отчета по качеству классфикации </span><br><span class="line">/mnt/data/trait/data/test_se/src/utils/model_test_utils.py in model_evaluate(evaluate_dict) </span><br><span class="line">163 report_dict = eval_epoch_on_external_data(weights_path, evaluate_dict) </span><br><span class="line">164 else: </span><br><span class="line">--&gt; 165 report_dict = eval_epoch(weights_path, evaluate_dict) </span><br><span class="line">166 print(&#x27;hahahahahahahahahahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh&#x27;) </span><br><span class="line">167 print(reports_list)</span><br><span class="line">/mnt/data/trait/data/test_se/src/utils/model_test_utils.py in eval_epoch(weights_path, evaluate_dict, plot_roc_curve) </span><br><span class="line">51 model.cuda() </span><br><span class="line">52 </span><br><span class="line">---&gt; 53 model.load_state_dict(torch.load(weights_path)) </span><br><span class="line">54 model.eval() </span><br><span class="line">55 y_true, y_pred = [], [] </span><br><span class="line">~/mambaforge-pypy3/envs/rsfin/lib/python3.7/site-packages/torch/nn/modules/module.py in load_state_dict(self, state_dict, strict) </span><br><span class="line">1666 if len(error_msgs) &gt; 0: </span><br><span class="line">1667 raise RuntimeError(&#x27;Error(s) in loading state_dict for &#123;&#125;:\n\t&#123;&#125;&#x27;.format( </span><br><span class="line">-&gt; 1668 self.__class__.__name__, &quot;\n\t&quot;.join(error_msgs))) </span><br><span class="line">1669 return _IncompatibleKeys(missing_keys, unexpected_keys) </span><br><span class="line">1670 </span><br><span class="line">RuntimeError: Error(s) in loading state_dict for MobileNetV2: </span><br><span class="line">size mismatch for classifier.1.weight: copying a param with shape torch.Size([32, 1280]) from checkpoint, the shape in current model is torch.Size([5, 1280]). </span><br><span class="line">size mismatch for classifier.1.bias: copying a param with shape torch.Size([32]) from checkpoint, the shape in current model is torch.Size([5]).</span><br></pre></td></tr></table></figure></li></ol></li></ol><h1 id="What-I-need-to-do-next"><a href="#What-I-need-to-do-next" class="headerlink" title="What I need to do next"></a>What I need to do next</h1><ol><li>Keep debugging. <a href="https://zhangdeweb.site/2023/04/18/04-18-2023/">Done</a></li></ol><h1 id="What-I-want-to-tell-myself"><a href="#What-I-want-to-tell-myself" class="headerlink" title="What I want to tell myself"></a>What I want to tell myself</h1><p>Today I find that the thing I did recently is debugging for codes. It does not have much  fun to me. When I have done with it, I should find out a scientific question and focus on natural history.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="2022se" scheme="http://zhangdeweb.site/tags/2022se/"/>
+    
+    <category term="rofi" scheme="http://zhangdeweb.site/tags/rofi/"/>
+    
+    <category term="i3wm" scheme="http://zhangdeweb.site/tags/i3wm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Trying to make plots.</title>
+    <link href="http://zhangdeweb.site/2023/04/16/04-16-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/16/04-16-2023/</id>
+    <published>2023-04-15T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.027Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li><p>An easiest way to solve reports_list length error is annotate the assert functions. So I annotate assert functions limiting reports_list (and weights_list) length in test_model (and make_interpretable_plots) function on model_test.py line 180 (and 602). New problem is that there are only two empty result folders which should be three folders with result plots.<br> The function creating result folders is <code>make_interpretable_plots</code> defining in <code>model_test.py</code>. But I do not find which statement creating the folder. I checked the variables and <code>weights_list</code> are 4 because there are four files in directory of weights_folder. <code>weights_path</code> is ok because it is set to <code>weights_list[0]</code> by the authors.</p></li><li><p>I checked the next variable occurred, <code>manual_images</code>, defined as a parameter in function <code>make_interpretable_plots</code>. It set to a list of pictures named by SHA. This parameter was set manually in the <code>model_test.ipynb</code> which the pictures I do not have. So I annotated the contents in the variable <code>manual_images</code> and I got the testing for my own testing datasets. This process may be last for half an hour to several hours. Previous trying make mistakes in manual_images of make_interpretable_plots function so that it did not running correctly. Now it runs completely and results plots are shown.</p></li></ol><h1 id="What-I-need-to-do-next"><a href="#What-I-need-to-do-next" class="headerlink" title="What I need to do next"></a>What I need to do next</h1><ol><li>When the process is finished, keep checking this error. Up to now, there are a few questions about this error in my mind. <ol><li>The assert function limit something must be only one and they are not.</li><li>What is meaning of statements followed by asserting manual_images is a list and why. </li><li>Which function create folders in results?</li></ol></li><li>How to evaluate the identification and make it useful for me?</li><li>Report my work to my tutor.</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="2022se" scheme="http://zhangdeweb.site/tags/2022se/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Why there are three best?</title>
+    <link href="http://zhangdeweb.site/2023/04/15/04-15-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/15/04-15-2023/</id>
+    <published>2023-04-14T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.027Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li><p>Checked the errors.<br> Changed <code>config.py</code> because I had reorganize data. (Or there would be errors same to editing with a wrong folder name.)</p> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"># TESTING_DATASET_NAME = &#x27;test_data&#x27;</span><br><span class="line">TESTING_DATASET_NAME = &#x27;datasets/test_data&#x27;</span><br></pre></td></tr></table></figure><p> And returned path error: <code>FileNotFoundError: [Errno 2] File /mnt/data/trait/reference/2022se/insects-recognition-main/datasets/datasets/test_data/df_img_meta.csvdoes not exist</code>.</p><p> There are two <code>datasets</code> directories in the path.</p><p> Tried to use absolute path in both <code>DATASETS_LIST</code> and <code>TESTING_DATASET_NAME</code> in <code>config.py</code> and the path error solved.<br> <em>Significantly, <code>model_test.py</code> needs directory <code>weights</code> locate at object-home-path and using relative path in <code>config.py</code>.</em></p></li><li><p>New error occurred in <code>test_model</code> function with <code>AssertionError:  </code>.<code>test_model</code> was import from <code>model_test.py</code> and error occurred at line 180 which is caused by <code>assert</code> function.<br>   Error message:</p> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">--------------------------------------------------------------------------- </span><br><span class="line">AssertionError Traceback (most recent call last) </span><br><span class="line">in </span><br><span class="line">18 print(config.TESTING_DATASET_NAME) </span><br><span class="line">19 test_model(model_name=config.TESTING_MODEL_NAME, dataset_name=config.TESTING_DATASET_NAME,</span><br><span class="line">---&gt; 20 folder_to_evaluate=folder_name, model_type=mtype) </span><br><span class="line"> 21 if config.TESTING_INTERPRETABLE_PLOTS: </span><br><span class="line"> 22 make_interpretable_plots(model_name=config.TESTING_MODEL_NAME,</span><br><span class="line">   </span><br><span class="line">   /mnt/data/trait/reference/2022se/insects-recognition-main/src/models_test.py</span><br><span class="line"> in </span><br><span class="line"> test_model(model_name, dataset_name, folder_to_evaluate, model_type) </span><br><span class="line"> 178 # Формирование табличного отчета по качеству классфикации </span><br><span class="line"> 179 # Для объективной оценки испольузем только лучшую эпоху по валидации. </span><br><span class="line">---&gt; 180 assert len(reports_list) == 1 </span><br><span class="line">181 report_dict = reports_list[0] </span><br><span class="line">182 df_detailed_report = pd.DataFrame([]) AssertionError: </span><br></pre></td></tr></table></figure><p> The comments in line 178 and 179 said that we need a best something, namely the length of <code>reprots_list</code> must be 1 or occurred this error.</p><p> Check variable <code>reports_list</code> in <code>models_test.py</code>. </p> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">EVAL_DICT = &#123;&#x27;device&#x27;: DEVICE,</span><br><span class="line">&#x27;weights_folder&#x27;: weights_folder,</span><br><span class="line">&#x27;test_loader&#x27;: test_data_loader,</span><br><span class="line">&#x27;model&#x27;: nnet,</span><br><span class="line">&#x27;criterion&#x27;: torch.nn.CrossEntropyLoss(),</span><br><span class="line">&#x27;target_names&#x27;: list(TRAIN_DATASET_KWARGS[&#x27;class_dict&#x27;].keys()),</span><br><span class="line">&#x27;class_dict&#x27;: CLASS_DICT,</span><br><span class="line">&#x27;data_hash&#x27;: train_data_hash,</span><br><span class="line">&#x27;external_data_class_dict&#x27;: None,</span><br><span class="line"></span><br><span class="line">reports_list = model_evaluate(EVAL_DICT)</span><br></pre></td></tr></table></figure><p>  Check function <code>model_evaluate</code> in <code>./utils/model_test_utils.py</code>.</p> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">def model_evaluate(evaluate_dict):</span><br><span class="line">weights_folder = evaluate_dict[&#x27;weights_folder&#x27;]</span><br><span class="line">weights_list = [os.path.join(weights_folder, x) for x in os.listdir(weights_folder) if &#x27;.pth&#x27; in x]</span><br><span class="line">epoch_dict = dict([(int(x.split(&#x27;.&#x27;)[0].split(&#x27;_&#x27;)[-1]), x) for x in weights_list])</span><br><span class="line">sorted_epochs = sorted(epoch_dict)</span><br><span class="line">reports_list = []</span><br><span class="line">for epoch in tqdm.tqdm(sorted_epochs):</span><br><span class="line">weights_path = epoch_dict[epoch]</span><br><span class="line">print(&#x27;Epoch: &#x27;, epoch)</span><br><span class="line">print(&#x27;Weights path: &#x27;, weights_path)</span><br><span class="line">if evaluate_dict[&#x27;external_data_class_dict&#x27;]:</span><br><span class="line">report_dict = eval_epoch_on_external_data(weights_path, evaluate_dict)</span><br><span class="line">else:</span><br><span class="line">report_dict = eval_epoch(weights_path, evaluate_dict)</span><br><span class="line">report_dict.update(&#123;&#x27;epoch&#x27;: epoch&#125;)</span><br><span class="line">reports_list.append(report_dict)</span><br><span class="line">return reports_list</span><br></pre></td></tr></table></figure><p> Check the length of <code>reports_list</code> in <code>for</code> by adding <code>print(len(reports_list))</code> and found that the length grew up to 3 from 1 caused by <code>reports_list.append(report_dict)</code>.</p></li></ol><h1 id="What-I-need-to-do-next"><a href="#What-I-need-to-do-next" class="headerlink" title="What I need to do next"></a>What I need to do next</h1><ol><li>Find out how <code>append</code> works and why use it. How to make it correct.</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="2022se" scheme="http://zhangdeweb.site/tags/2022se/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>It works!</title>
+    <link href="http://zhangdeweb.site/2023/04/14/04-14-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/14/04-14-2023/</id>
+    <published>2023-04-13T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.027Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>Ran the training script with a little change.<ul><li>Most errors I met before caused by version corresponding among torch, torchvision, cuda, cudnn. Especially, remove <code>_pytorch.select</code> package in conda to use pytorch with gpu. Recreate environment of  ‘rsfin’ followed by: <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">conda install pytorch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 pytorch-cuda=11.7 -c pytorch -c nvidia # to solve problem with some models not found in torchvision.  </span><br><span class="line">- mamba update ffmpeg # to solve problem with libopenh264.so.5 not found</span><br></pre></td></tr></table></figure> Runs and errors occurred in line 23 <code>torchvision.transforms.RandomRotation(20, resample=Image.BILINEAR)</code>:  <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">TypeError: __init__() got an unexpected keyword argument &#x27;resample&#x27;</span><br></pre></td></tr></table></figure> This caused by torchvision version changing. See <code>help(torchvision.transforms.RandomRotation)</code> in python and report:  <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">class RandomRotation(torch.nn.modules.module.Module)</span><br><span class="line"> |  RandomRotation(degrees, interpolation=&lt;InterpolationMode.NEAREST: &#x27;nearest&#x27;&gt;, expand=False, center=None, fill=0)</span><br><span class="line"> |  </span><br><span class="line"> |  Rotate the image by angle.</span><br><span class="line"> |  If the image is torch Tensor, it is expected</span><br><span class="line"> |  to have [..., H, W] shape, where ... means an arbitrary number of leading dimensions.</span><br><span class="line"> |  </span><br><span class="line"> |  Args:</span><br><span class="line"> |      degrees (sequence or number): Range of degrees to select from.</span><br><span class="line"> |          If degrees is a number instead of sequence like (min, max), the range of degrees</span><br><span class="line"> |          will be (-degrees, +degrees).</span><br><span class="line"> |      interpolation (InterpolationMode): Desired interpolation enum defined by</span><br><span class="line"> |          :class:`torchvision.transforms.InterpolationMode`. Default is ``InterpolationMode.NEAREST``.</span><br><span class="line"> |          If input is Tensor, only ``InterpolationMode.NEAREST``, ``InterpolationMode.BILINEAR`` are supported.</span><br><span class="line"> |          For backward compatibility integer values (e.g. ``PIL.Image[.Resampling].NEAREST``) are still accepted,</span><br><span class="line"> |          but deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.</span><br><span class="line"> ... ...</span><br></pre></td></tr></table></figure> Interpolation and resample are two kinds of method in image processing. The difference between them is that interpolation is one way to realize resampling for separate data, <a href="https://www.jianshu.com/p/4b89d0d323e1">see</a>. And the difference between NEAREST and BILINEAR is that BILINEAR is more delicate, <a href="https://www.codenong.com/cs105851870/">see</a>. So change the code to <code>torchvision.transforms.RandomRotation(20, interpolation=Image.BILINEAR)</code> and all will be fine.</li></ul></li><li>Tried to run model test and error occurred in line 13 and 16. Variable <code>config.TESTING_MODEL_WEIGHTS.items()</code> do not have parameter <code>folder_name</code> and <code>mtype</code>. </li><li>Went to the jobs fair and listened to the reports of Shaanxi insect society.<br>  4 articles in CAS(Chinese Academy of Science) 1 &#x3D; 35w&#x2F;year<br>   4 articles in CAS 2 &#x3D; 25w&#x2F;year<br>   Few choice.<ul><li>Prof. Cao yanghui suggests that do not merge morphological traits dataset into molecular datasets because of the quantity difference and the unclear weighting rules.</li></ul></li></ol><h1 id="What-I-need-to-do-next"><a href="#What-I-need-to-do-next" class="headerlink" title="What I need to do next"></a>What I need to do next</h1><ol><li>Solve the weights value problem. Read codes and it is easy.<a href="https://zhangdeweb.site/2023/04/15/04-15-2023/">Done</a></li></ol><h1 id="What-I-want-to-do-in-future"><a href="#What-I-want-to-do-in-future" class="headerlink" title="What I want to do in future"></a>What I want to do in future</h1><ul><li>Systematic learn deep learning programming.</li></ul><h1 id="What-I-want-to-tell-myself"><a href="#What-I-want-to-tell-myself" class="headerlink" title="What I want to tell myself"></a>What I want to tell myself</h1><p>The basic problem in the whole ‘version error’ is that my GPU do not support torch version 1.5 and conda cannot install all dependency they listed. So I have to change some packages in the dependency. The newer package I use have some change in grammar. Luckily, I found out where the problem is and solved it at last. </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="2022se" scheme="http://zhangdeweb.site/tags/2022se/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Goodbye, rubbish conda!</title>
+    <link href="http://zhangdeweb.site/2023/04/13/04-13-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/13/04-13-2023/</id>
+    <published>2023-04-12T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.026Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li><p>The previous error report of my reproducing CUDNN_STATUS_EXECUTION_FAILED maybe caused by the imcorrespond of version among cuda, cudnn and pytorch <a href="https://blog.csdn.net/qq_40506723/article/details/124798992">see</a> and <a href="https://blog.csdn.net/yu_xinli/article/details/127084720">see</a>. Updating dependency with conda makes me crazy. It only runs at an extremely slow speed and I cannot change to a source makes me satisfy. I tried to uninstall all of conda and reinstall it but it won’t help after trying for several times. I tried to install <a href="https://github.com/mamba-org/mamba">mamba</a> followed by <a href="https://mamba.readthedocs.io/en/latest/installation.html">guide</a>.</p></li><li><p>After installed mamba, I installed conda environment with <code>mamba create env -f conda_environment.yml</code> after removing several packages’ version info or it cannot be found in current sources. Dataset preparation runs well but train still have errors.</p><ul><li>AttributeError: module ‘torchvision.models’ has no attribute ‘mobilenet_v2’<br>  It caused by trochvision version is too low, <a href="https://blog.51cto.com/u_12001271/5657216">see</a>. So do <code>mamba update torchvision</code><ul><li>AttributeError: module ‘torch.jit’ has no attribute ‘unused’<br>  It caused by corresponding problem between pytorch and torchvision, <a href="https://blog.csdn.net/ZwaterZ/article/details/125268475">see</a>. So do <code>mamba install torchvision==0.14.0 -c nvidia -c pytorch</code> and install failed. Caused by threads number limited, <a href="https://blog.csdn.net/weixin_46779338/article/details/128319080">see</a>. Use <code>ulimit -n 2048</code> and torchvision will be update correctly.</li></ul></li></ul></li><li><p>Check <code>mamba list | grep torch</code> and this will be shown:</p> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">WARNING conda.core.prefix_data:_load_site_packages(291): Problem reading non-conda package record at lib/python3.7/site-packages/certifi-2020.6.20-py3.7.egg-info/PKG-INFO. Please verify that you still need this, and if so, that this is still installed correctly. Reinstalling this package may help.</span><br><span class="line"> _pytorch_select 0.1    cpu_0 anaconda </span><br><span class="line"> pytorch         1.13.1 py3.7_cuda11.7_cudnn8.5.0_0 pytorch </span><br><span class="line"> pytorch-cpu     1.1.0  py37he1b5a44_0 conda-forge </span><br><span class="line"> pytorch-cuda    11.7   h778d358_3 pytorch </span><br><span class="line"> pytorch-mutex   1.0    cuda pytorch </span><br><span class="line"> torchvision     0.14.1 py37_cu117 pytorch</span><br></pre></td></tr></table></figure><p> And torch version in python had been 1.1.0.</p></li></ol><h1 id="What-I-need-to-do-next"><a href="#What-I-need-to-do-next" class="headerlink" title="What I need to do next"></a>What I need to do next</h1><ol><li>Change pytorch version to 1.13.0 and run train script.<a href="https://zhangdeweb.site/2023/04/14/04-14-2023/">Done</a></li></ol><h1 id="What-I-want-to-do-in-future"><a href="#What-I-want-to-do-in-future" class="headerlink" title="What I want to do in future"></a>What I want to do in future</h1><ul><li>Learn about version corresponding or dependency among cuda, python or so on.</li></ul><h1 id="What-I-want-to-tell-myself"><a href="#What-I-want-to-tell-myself" class="headerlink" title="What I want to tell myself"></a>What I want to tell myself</h1><p>Calm down you clever. Just a dependency problem. Solve it quickly and move on!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="2022se" scheme="http://zhangdeweb.site/tags/2022se/"/>
+    
+    <category term="mamba" scheme="http://zhangdeweb.site/tags/mamba/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Day for outdoors</title>
+    <link href="http://zhangdeweb.site/2023/04/12/04-12-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/12/04-12-2023/</id>
+    <published>2023-04-11T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.026Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>Went to LouGuanTai in ZhouZhi, Xian. Caught cicadas and play around. <div align=center><img src="/Pictures/1.jpeg" width="500" /><img src="/Pictures/2.jpeg" width="500" /><br> <div style="color:orange; border-bottom: 1px solid #d9d9d9; display: inline-block; color: #999; padding: 2px;">   Fat flister beetle and  Cicadas had been caught</div></div></li></ol><p><em>Tips</em>: The method of add pictures into hexo blogs, see <a href="https://hexo.io/zh-cn/docs/tag-plugins#%E5%B5%8C%E5%85%A5%E5%9B%BE%E7%89%87">here</a>. If the format and notes of pictures need to set, it is have to use <code>html</code> grammar, see <a href="https://blog.csdn.net/qq_32515081/article/details/124395842">more</a> . Pictures make websites start slowly, so use it carefully. Here is a simple example:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">&lt;div align=center&gt;</span><br><span class="line">&lt;img src=&quot;/Pictures/*.jpeg&quot; width=&quot;500&quot; /&gt;</span><br><span class="line">&lt;br&gt;</span><br><span class="line">    &lt;div style=&quot;color:orange; border-bottom: 1px solid #d9d9d9;</span><br><span class="line">    display: inline-block;</span><br><span class="line">    color: #999;</span><br><span class="line">    padding: 2px;&quot;&gt;</span><br><span class="line">      Add Title here</span><br><span class="line">&lt;/div&gt;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure><ol start="2"><li>IOS application <code>Working Copy</code> can edit files and sync with github. So that I can edit blogs on my iphone and deploy it using ssh remotely.</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
     
     
     <category term="blog" scheme="http://zhangdeweb.site/tags/blog/"/>
     
-    <category term="sync" scheme="http://zhangdeweb.site/tags/sync/"/>
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>I don&#39;t want to depend with the dependency</title>
+    <link href="http://zhangdeweb.site/2023/04/11/04-11-2023/"/>
+    <id>http://zhangdeweb.site/2023/04/11/04-11-2023/</id>
+    <published>2023-04-10T16:00:00.000Z</published>
+    <updated>2023-05-05T08:07:56.025Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>Eliminated the version incompatibility problem between CUDA and PyTorch.<br> When I tried to run train processes in reproduction to <a href="https://resjournals.onlinelibrary.wiley.com/doi/abs/10.1111/syen.12543">2022SE</a>, occurred erros: <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[/home/junru/anaconda3/envs/rsfin/lib/python3.7/site-packages/torch/cuda/__init__.py:104](https://file+.vscode-resource.vscode-cdn.net/home/junru/anaconda3/envs/rsfin/lib/python3.7/site-packages/torch/cuda/__init__.py:104): UserWarning: NVIDIA GeForce RTX 4090 with CUDA capability sm_89 is not compatible with the current PyTorch installation. The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_61 sm_70 sm_75 compute_37. If you want to use the NVIDIA GeForce RTX 4090 GPU with PyTorch, please check the instructions at [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)</span><br></pre></td></tr></table></figure> CUDA version is a new one so I need to upgrade my torch version. But when I use the conda environment with python==3.7, the default pytorch version will be 1.7.0. So It seems that the problem occurred somewhere else. The latest version of pytorch supporting python==3.7 is pytorch 1.13.0,See <a href="https://pytorch.org/blog/deprecation-cuda-python-support/">here</a> and <a href="https://github.com/pytorch/vision#installation">here</a>. So update with conda then.</li><li>Added voice player to Goldendict.<ul><li>Install <code>mpv</code> for <code>translate-shell</code> by <code>sudo apt install mpv</code>. See <em>Audio Option</em> in <code>man trans</code> for more.</li><li>Add audio program in GoldenDict.<ul><li><code>Edit-Dictionaries-Programs-Add</code> </li><li>Enable&#x3D;yes; Type&#x3D;Audio; Name&#x3D;audio; trans -speak %GDWORD%;</li></ul></li><li>Additionally, the commands for plain text is:<ul><li>Trans to English as <code>trans  -no-ansi -e google -s auto -t en-US -show-original y -show-original-phonetics n -show-translation y  -show-translation-phonetics y -show-prompt-message y -show-languages n -show-original-dictionary y -show-dictionary y -show-alternatives y  “%GDWORD%”</code></li><li>Trans to Chinese as <code>trans -e google -s auto -t zh-CN -show-original y -show-original-phonetics n -show-translation y -no-ansi -show-translation-phonetics n -show-prompt-message y -show-languages n -show-original-dictionary n -show-dictionary y -show-alternatives y “%GDWORD%”</code></li></ul></li></ul></li></ol><h1 id="What-I-need-to-do-next"><a href="#What-I-need-to-do-next" class="headerlink" title="What I need to do next"></a>What I need to do next</h1><ol><li>Update pytorch.<a href="https://zhangdeweb.site/2023/04/13/04-13-2023/">Done</a></li><li>Continue the reproduce.<a href="https://zhangdeweb.site/2023/04/18/04-18-2023/">Done</a></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+    <category term="conda" scheme="http://zhangdeweb.site/tags/conda/"/>
+    
+    <category term="2022se" scheme="http://zhangdeweb.site/tags/2022se/"/>
     
   </entry>
   
