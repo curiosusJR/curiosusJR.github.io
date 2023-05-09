@@ -12,7 +12,7 @@ I need a to-do list to help me organize my numerous daily tasks. This list categ
 # Things I need to do **Tomorrow**
 - [ ] Searching relevant literature.
 - [ ] Organize framework and foothold point of my topic.
-- [ ] Summarize the basic ideas. I mean write a list or something to organize thoughts.
+- [x] Summarize the basic ideas. I mean write a list or something to organize thoughts.
 
 # Things I need to do soon 
 - [ ] Write a draft of the proposal report for my PhD topic.
