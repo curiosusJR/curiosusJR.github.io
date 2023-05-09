@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aa650e49b1eadb3c",
+        "id": "9da1c0444d6dc17d",
         "type": "tabs",
         "children": [
           {
-            "id": "d927a9c13c8b2ddd",
+            "id": "5d771cdc2baf8c60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/ZMK.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/ZMK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/ZMK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/ZMK.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,22 +152,22 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d927a9c13c8b2ddd",
+  "active": "5d771cdc2baf8c60",
   "lastOpenFiles": [
+    "_drafts/Proposal_report.md",
+    "_drafts/skelevision.md",
+    "_posts/00-TODO-LIST.md",
+    "_posts/ZMK.md",
     "_posts/05-05-2023.md",
     "_posts/04-26-2023.md",
     "_posts/04-27-2023.md",
-    "_posts/ZMK.md",
     "_posts/04-24-2023.md",
     "_posts/04-23-2023.md",
     "_posts/ZMK/settings_reset-nrfmicro_13-zmk.uf2",
     "_posts/ZMK",
     "_posts/archlinux.md",
-    "_drafts/Proposal report.md",
-    "_drafts/skelevision.md",
     "_posts/04-12-2023.md",
     "_posts/04-07-2023.md",
-    "_posts/00-TODO-LIST.md",
     "_posts/sync.md",
     "_posts/hello-world.md",
     "_posts/05-08-2023.md",
