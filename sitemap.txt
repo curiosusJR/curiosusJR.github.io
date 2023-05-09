@@ -1,6 +1,6 @@
-http://zhangdeweb.site/2023/04/09/04-09-2023/
-http://zhangdeweb.site/2023/05/06/05-06-2023/
+http://zhangdeweb.site/2023/09/05/ZMK/
 http://zhangdeweb.site/2023/05/05/05-05-2023/
+http://zhangdeweb.site/2023/04/09/04-09-2023/
 http://zhangdeweb.site/2023/05/05/00-TODO-LIST/
 http://zhangdeweb.site/2023/04/24/04-24-2023/
 http://zhangdeweb.site/2023/04/25/04-25-2023/
@@ -60,6 +60,8 @@ http://zhangdeweb.site/tags/archlinux/
 http://zhangdeweb.site/tags/config/
 http://zhangdeweb.site/tags/Ph-D/
 http://zhangdeweb.site/tags/proposal/
+http://zhangdeweb.site/tags/zmk/
+http://zhangdeweb.site/tags/keyboard/
 http://zhangdeweb.site/categories/TODO/
 http://zhangdeweb.site/categories/blogs/
 http://zhangdeweb.site/categories/diaries/

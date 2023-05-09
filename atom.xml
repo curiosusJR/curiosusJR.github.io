@@ -6,7 +6,7 @@
   <link href="http://zhangdeweb.site/atom.xml" rel="self"/>
   
   <link href="http://zhangdeweb.site/"/>
-  <updated>2023-05-06T07:29:48.059Z</updated>
+  <updated>2023-05-09T12:02:20.475Z</updated>
   <id>http://zhangdeweb.site/</id>
   
   <author>
@@ -17,30 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Thingking of the framework and foothold of my topic.</title>
-    <link href="http://zhangdeweb.site/2023/05/06/05-06-2023/"/>
-    <id>http://zhangdeweb.site/2023/05/06/05-06-2023/</id>
-    <published>2023-05-05T16:00:00.000Z</published>
-    <updated>2023-05-06T07:29:48.059Z</updated>
+    <title>ZMK keyboard firmware usage</title>
+    <link href="http://zhangdeweb.site/2023/09/05/ZMK/"/>
+    <id>http://zhangdeweb.site/2023/09/05/ZMK/</id>
+    <published>2023-09-04T16:00:00.000Z</published>
+    <updated>2023-05-09T12:02:20.475Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>blah </li><li>blah</li></ol><h1 id="What-I-need-to-do-next"><a href="#What-I-need-to-do-next" class="headerlink" title="What I need to do next"></a>What I need to do next</h1><ol><li>blah</li><li>blah</li></ol><h1 id="What-I-want-to-do-in-future"><a href="#What-I-want-to-do-in-future" class="headerlink" title="What I want to do in future"></a>What I want to do in future</h1><ul><li>ideas </li><li>ideas</li></ul><h1 id="What-I-want-to-tell-myself"><a href="#What-I-want-to-tell-myself" class="headerlink" title="What I want to tell myself"></a>What I want to tell myself</h1><div align=center><img src="/Pictures/*.jpeg" width="500" /><br>    <div style="color:orange; border-bottom: 1px solid #d9d9d9;    display: inline-block;    color: #999;    padding: 2px;">      Add Title here</div></div>]]></content>
+    <content type="html"><![CDATA[<p>I have purchased an open source split keyboard with zmk firmware. Unlike those using qmk, the keymaps of this one cannot be changed simply and directly using via&#x2F;vial software, it have to build firmware myself. I do not have t experience with this and after my first successful attempt, I decided to document it here.</p><h1 id="Normal-usage"><a href="#Normal-usage" class="headerlink" title="Normal usage"></a>Normal usage</h1><ol><li>This keyboard can be connected to PC in two ways. USB connection or Blue-tooth connection.</li><li>If you want to connect to PC with cables, just connect the left hand keyboard to PC with USB C cable. </li><li>If you want to connect device with Blue-tooth, press layer 2 button (which is on the bottom of right hand) and click number 1 to 5 (which means you can connect 5 different device with blue tooth), and then your device can found the keyboard by blue tooth name ‘Sofle’.</li><li>If the blue tooth connect failed, try clearing the blue tooth message in both keyboard and your PC. Delete the ‘Sofle’ device in PC blue tooth setting and press <code>layer 2 + ESC</code> on the keyboard. The location of <code>ESC</code> in layer 2 is <code>BT_CLR</code> button.</li><li>The location of ‘TAB’ in layer 3 is the power button, which means you can turn on&#x2F;off with pressing <code>layer 1 + layer 2 + tab</code> at the same time.</li></ol><h1 id="Check-and-set-the-keymap-in-Github"><a href="#Check-and-set-the-keymap-in-Github" class="headerlink" title="Check and set the keymap in Github"></a>Check and set the keymap in Github</h1><ol><li>Fork this repo (<a href="https://github.com/curiosusJR/YoungMan_DIY_SOFLE_CFG">https://github.com/curiosusJR/YoungMan_DIY_SOFLE_CFG</a>) to your own github.</li><li>Open <a href="https://nickcoutsos.github.io/keymap-editor/">https://nickcoutsos.github.io/keymap-editor/</a> with web-browser.</li><li>Select the source in Github and login your account. Select the repo you just forked only, not all the repo you have, for the keymap-editor.</li><li>It will be shown my keymap setting in the website.</li><li>Change the setting as you will.</li><li>Select the layer first, then select the key you want to change. Click the <code>&amp;kp</code> can change the group of keys. Different groups shows different keys. The normal keyboard press group is <code>&amp;kp</code>. You can select any key you want at any location. The knob can be click or rotation. The rotation function setting is on the bottom of keyboards.<br> <strong>Tips</strong>: The layer 0 is the default and the main layer you will use. Use <code>&amp;mo</code> for changing layer during pressing the button, use <code>&amp;lt</code> for short tapping in normal type and pressing in layer changing type or use <code>&amp;to</code> for turning into new layer when tap the button.</li><li>After finishing the setting, click <code>Save changes</code> button on the top of website and commit your changing to your repo.</li><li>Check the commit exists.</li></ol><h1 id="Build-the-firmware-file-in-Github"><a href="#Build-the-firmware-file-in-Github" class="headerlink" title="Build the firmware file in Github"></a>Build the firmware file in Github</h1><ol><li>Click <code>Actions</code> on your own Github repo.</li><li>Enable the actions and run the ‘Build’ workflow.Wait for a second till it’s done.</li><li>When it shows a green check mark, click the ‘Build’ and download the firmware file at the bottom.</li><li>Unzip it and delete the <code>setting_reset-nrfmicro_13-zmk.uf2</code> file. Keep the right hand and the left hand firmware file for use.</li></ol><h1 id="Reset-the-firmware-in-the-keyboard"><a href="#Reset-the-firmware-in-the-keyboard" class="headerlink" title="Reset the firmware in the keyboard"></a>Reset the firmware in the keyboard</h1><ol><li>First, connect keyboard to PC with USB C cable. The right hand keyboard and the left one should be reset separately, so connect the right one first. </li><li>Press the reset button (the small white one under the screen) twice quickly and the computer will recognize a flash drive which is the keyboard itself.</li><li>There should be three files in the flash drive just detected. Copy <a href="settings_reset-nrfmicro_13-zmk.uf2">this file</a> into the root directory of that flash drive. Now there are four files in it.</li><li>Eject that flash drive.</li><li>Unplug the USB cable and reconnect it. Repeat step 2 and check the drive. There should be still <strong>three</strong> files in it.</li><li>Copy the right hand <code>.uf2</code> file into the right hand keyboard and eject the drive.</li><li>Up to now, the firmware of right hand has been update completed. Do it same to the left one. Just remember that copy <a href="settings_reset-nrfmicro_13-zmk.uf2">this file</a>, not the file downloaded from github, to <strong>both left and right</strong> hand keyboard before copying the <code>solfe_*.uf2</code> file.</li><li>After updating the firmware of both left and right hands, press <code>BT_CLR</code> button you set to clear the blue-tooth message. </li><li>Press the reset button of both right and left hand keyboard in the same time. </li><li>Check the connection between two hands and connection to PC. Enjoy your new keymaps! 😄</li></ol>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
+    <summary type="html">&lt;p&gt;I have purchased an open source split keyboard with zmk firmware. Unlike those using qmk, the keymaps of this one cannot be changed simpl</summary>
       
     
     
     
-    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    <category term="blogs" scheme="http://zhangdeweb.site/categories/blogs/"/>
     
     
-    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    <category term="zmk" scheme="http://zhangdeweb.site/tags/zmk/"/>
     
-    <category term="Ph.D" scheme="http://zhangdeweb.site/tags/Ph-D/"/>
-    
-    <category term="proposal" scheme="http://zhangdeweb.site/tags/proposal/"/>
+    <category term="keyboard" scheme="http://zhangdeweb.site/tags/keyboard/"/>
     
   </entry>
   
@@ -73,9 +71,9 @@
     <link href="http://zhangdeweb.site/2023/05/05/05-05-2023/"/>
     <id>http://zhangdeweb.site/2023/05/05/05-05-2023/</id>
     <published>2023-05-04T16:00:00.000Z</published>
-    <updated>2023-05-06T07:28:15.207Z</updated>
+    <updated>2023-05-09T12:02:20.474Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>Preliminary organized my thinking of the proposal report.</li></ol><h1 id="What-I-want-to-tell-myself"><a href="#What-I-want-to-tell-myself" class="headerlink" title="What I want to tell myself"></a>What I want to tell myself</h1><p>I have come back from my vocation. Write my reports as draft in markdown.</p><p>In my zsh configure, the git-information is shown by p10k plugin in zim. It can be found that the signs meaning in <a href="https://github.com/romkatv/powerlevel10k/tree/master/gitstatus">their github  page</a>. Git stash is a temporary action, <a href="https://www.cnblogs.com/tocy/p/git-stash-reference.html">more about</a>.</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li>Preliminary organized my thinking of the proposal report.</li></ol><h1 id="What-I-want-to-tell-myself"><a href="#What-I-want-to-tell-myself" class="headerlink" title="What I want to tell myself"></a>What I want to tell myself</h1><p>I have come back from my vocation. Write my reports as draft in markdown.</p><p>In my zsh configure, the git-information is shown by p10k plugin in zim. It can be found that the signs meaning in <a href="https://github.com/romkatv/powerlevel10k/tree/master/gitstatus">their github  page</a>. Git stash is a temporary action, <a href="https://www.cnblogs.com/tocy/p/git-stash-reference.html">more about</a>.</p><p> In following period of time, my work will be focused on writing my proposal report. For the integrity of the idea, my daily work will be concentrated in the draft of the report, rather than the separate log.</p>]]></content>
     
     
       
