@@ -11,8 +11,12 @@
             "id": "5d771cdc2baf8c60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/04-25-2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/04-25-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/04-25-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/04-25-2023.md"
+              }
             }
           }
         ],
@@ -154,13 +162,13 @@
   },
   "active": "5d771cdc2baf8c60",
   "lastOpenFiles": [
+    "_posts/04-26-2023.md",
+    "_posts/04-27-2023.md",
     "_drafts/Proposal_report.md",
     "_drafts/skelevision.md",
     "_posts/00-TODO-LIST.md",
     "_posts/ZMK.md",
     "_posts/05-05-2023.md",
-    "_posts/04-26-2023.md",
-    "_posts/04-27-2023.md",
     "_posts/04-24-2023.md",
     "_posts/04-23-2023.md",
     "_posts/ZMK/settings_reset-nrfmicro_13-zmk.uf2",
