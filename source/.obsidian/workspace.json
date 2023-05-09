@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/04-08-2023.md",
+                "file": "_posts/ZMK.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "8eaf96dbb2b5eefe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/04-08-2023.md",
+                "file": "_posts/ZMK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/04-08-2023.md",
+                "file": "_posts/ZMK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/04-08-2023.md"
+                "file": "_posts/ZMK.md"
               }
             }
           }
@@ -154,34 +162,36 @@
   },
   "active": "d927a9c13c8b2ddd",
   "lastOpenFiles": [
-    "_posts/04-09-2023.md",
-    "_posts/04-10-2023.md",
-    "_posts/04-24-2023.md",
-    "_posts/04-25-2023.md",
+    "_posts/05-05-2023.md",
     "_posts/04-26-2023.md",
     "_posts/04-27-2023.md",
-    "_posts/05-06-2023.md",
-    "_posts/04-07-2023.md",
-    "_posts/05-05-2023.md",
+    "_posts/ZMK.md",
+    "_posts/04-24-2023.md",
+    "_posts/04-23-2023.md",
+    "_posts/ZMK/settings_reset-nrfmicro_13-zmk.uf2",
+    "_posts/ZMK",
+    "_posts/archlinux.md",
     "_drafts/Proposal report.md",
-    "_posts/sync.md",
-    "_posts/00-TODO-LIST.md",
-    "_posts/04-15-2023.md",
+    "_drafts/skelevision.md",
     "_posts/04-12-2023.md",
+    "_posts/04-07-2023.md",
+    "_posts/00-TODO-LIST.md",
+    "_posts/sync.md",
+    "_posts/hello-world.md",
+    "_posts/05-08-2023.md",
+    "_posts/05-06-2023.md",
+    "_posts/04-09-2023.md",
+    "_posts/04-10-2023.md",
+    "_posts/04-25-2023.md",
+    "_posts/04-15-2023.md",
     "_posts/04-11-2023.md",
     "_posts/04-08-2023.md",
     "_posts/04-28-2023.md",
     "_posts/04-17-2023.md",
     "_posts/04-20-2023.md",
     "_posts/04-21-2023.md",
-    "_posts/archlinux.md",
-    "_posts/04-18-2023.md",
     "_posts/04-26-2023/network-broken-retry.txt",
     "_posts/04-26-2023",
-    "_posts/04-23-2023.md",
-    "_posts/04-22-2023.md",
-    "_posts/04-19-2023.md",
-    "_posts/04-16-2023.md",
     "Pictures/ipv6speed.jpg",
     "Pictures/IMG_2340.jpg",
     "linuxfordevices.com/tutorials/ubuntu",
@@ -190,8 +200,6 @@
     "_posts/04-18-2023/test.txt",
     "_posts/04-18-2023",
     "_posts/test.txt",
-    "_posts/04-13-2023-1",
-    "_posts/04-13-2023",
     "Pictures/1.jpeg",
     "_posts/04-12-2023/2.jpg",
     "_posts/04-12-2023/1.jpg",
