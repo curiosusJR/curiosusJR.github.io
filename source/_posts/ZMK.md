@@ -5,7 +5,7 @@ tags:
   - keyboard
 categories:
   - blogs
-date: 09-05-2023
+date: 05-09-2023
 ---
 I have purchased an open source split keyboard with zmk firmware. Unlike those using qmk, the keymaps of this one cannot be changed simply and directly using via/vial software, it have to build firmware myself. I do not have t experience with this and after my first successful attempt, I decided to document it here.
 

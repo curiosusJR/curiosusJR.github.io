@@ -11,11 +11,11 @@ I need a to-do list to help me organize my numerous daily tasks. This list categ
 
 # Things I need to do **Tomorrow**
 - [ ] Searching relevant literature.
-- [ ] Organize framework and foothold point of my topic.
+- [x] Organize framework and foothold point of my topic.
 - [x] Summarize the basic ideas. I mean write a list or something to organize thoughts.
 
 # Things I need to do soon 
-- [ ] Write a draft of the proposal report for my PhD topic.
+- [x] Write a draft of the proposal report for my PhD topic.
 	 ## 0407
 	 - [ ] to-do: Read literature, evaluate the feasibility of this method. Write my dissertation report. 
 		Given a new [research](https://doi.org/10.1016/j.pld.2022.11.001) using a similar approach to study phylogeny, my original idea may be feasible. 
