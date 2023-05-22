@@ -65,6 +65,6 @@ I need a to-do list to help me organize my numerous daily tasks. This list categ
 - [ ] Learn about version corresponding or dependency among cuda, python or so on.
 - [ ] Systematic learn deep learning programming.
 - [x] Learn more about the basic of network technology for a better using of R6S.
-- [ ] Install fonts from MacOS and Windows to ubuntu for Latex.
+- [x] Install fonts from MacOS and Windows to ubuntu for Latex.
 - [x] Solved issue of the remote accessing to openwrt LAN. Something may help here, such as [nat64 in openwrt](https://openwrt.org/docs/guide-user/network/ipv6/nat64), and [others](https://blog.csdn.net/qq_29688717/article/details/129506914), but it needs more settings to complete.
-- [ ] The paste action cannot be canceled by default. It had been discussed  [here](https://github.com/erebe/greenclip/issues/27) but all of them are not perfect.
+- [x] The paste action cannot be canceled by default. It had been discussed  [here](https://github.com/erebe/greenclip/issues/27) but all of them are not perfect.

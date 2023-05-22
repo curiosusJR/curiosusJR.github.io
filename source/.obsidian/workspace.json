@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/Proposal_report.md",
+                "file": "_posts/05-22-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rofi desktop",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Proposal_report.md",
+                "file": "_posts/05-22-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Proposal_report.md",
+                "file": "_posts/05-22-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Proposal_report.md"
+                "file": "_posts/05-22-2023.md"
               }
             }
           }
@@ -147,50 +147,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "publish:发布更改": false,
-      "workspaces:管理工作区布局": false,
-      "audio-recorder:开始/结束录音": false,
       "zk-prefixer:创建时间戳笔记": false,
       "random-note:开始漫游笔记": false,
-      "switcher:打开快速切换": false,
-      "daily-notes:打开/创建今天的日记": false
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false
     }
   },
-  "active": "4d973d29ea069262",
+  "active": "a872900cfbcbecd0",
   "lastOpenFiles": [
-    "_posts/00-TODO-LIST.md",
-    "_posts/ZMK.md",
-    "_posts/05-05-2023.md",
+    "_posts/05-22-2023/Learn_pld_376_Supplement_2_Image_Clustering_mmc2.py",
+    "_posts/05-22-2023",
+    "_posts/Learn_pld_376_Supplement_2_Image_Clustering_mmc2.py",
+    "_posts/04-11-2023.md",
+    "_posts/04-10-2023.md",
+    "_posts/04-09-2023.md",
+    "_posts/04-13-2023.md",
+    "_posts/04-14-2023.md",
+    "_posts/04-15-2023.md",
+    "_posts/04-16-2023.md",
+    "_posts/04-18-2023.md",
+    "_posts/04-19-2023.md",
+    "_posts/04-20-2023.md",
+    "_posts/05-22-2023.md",
     "_posts/04-27-2023.md",
-    "_drafts/Proposal_report.md",
+    "_drafts/skelevision.md",
+    "_posts/04-12-2023.md",
+    "_posts/04-08-2023.md",
+    "_posts/04-07-2023.md",
     "_posts/05-16-2023.md",
+    "_posts/05-21-2023.md",
+    "_posts/05-05-2023.md",
+    "_posts/00-TODO-LIST.md",
+    "_drafts/Proposal_report.md",
+    "_posts/05-17-2023.md",
+    "_posts/ZMK.md",
     "_posts/05-15-2023.md",
     "_posts/05-14-2023.md",
-    "_posts/04-17-2023.md",
-    "_posts/04-25-2023.md",
-    "_posts/04-19-2023.md",
-    "_posts/04-24-2023.md",
-    "_posts/04-23-2023.md",
-    "_posts/04-20-2023.md",
-    "_posts/04-21-2023.md",
-    "_posts/04-22-2023.md",
-    "_posts/04-26-2023.md",
-    "_drafts/skelevision.md",
     "_posts/ZMK/settings_reset-nrfmicro_13-zmk.uf2",
     "_posts/ZMK",
-    "_posts/archlinux.md",
-    "_posts/04-12-2023.md",
-    "_posts/04-07-2023.md",
-    "_posts/sync.md",
-    "_posts/hello-world.md",
-    "_posts/05-08-2023.md",
-    "_posts/05-06-2023.md",
-    "_posts/04-09-2023.md",
     "_posts/04-26-2023/network-broken-retry.txt",
     "_posts/04-26-2023",
     "Pictures/ipv6speed.jpg",
@@ -199,8 +201,6 @@
     "linuxfordevices.com/tutorials",
     "linuxfordevices.com",
     "_posts/04-18-2023/test.txt",
-    "_posts/04-18-2023",
-    "_posts/test.txt",
     "Pictures/1.jpeg",
     "_posts/04-12-2023/2.jpg",
     "_posts/04-12-2023/1.jpg",
