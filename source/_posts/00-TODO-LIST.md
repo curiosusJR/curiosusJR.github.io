@@ -10,6 +10,17 @@ date:
 I need a to-do list to help me organize my numerous daily tasks. This list categorizes all of things  I need to do in order of urgency. It will keep some of things that have already done for thinking over their logic when there is a complex situation. The list will be updated daily and irrelevant completed items will be cleared after about a week. If a complex task needs to be broken down into multiple subtasks, those subtasks will be listed in another file and linked here. The file list subtasks should be a document for the complex task and will be retained.
 
 # Things I need to do **Tomorrow**
+ - [x] Change number and models for testing and retry.
+ - [x] Check the plots of epoch accuracy for the model. 
+ - [x] Check the topology of consensus tree 
+ - [ ] Check the SSI value using the script in Supplement 3.
+ - [x] Output the trait matrix if possible.
+
+
+ - [ ] Use whole dataset with different settings and model to conduct trees and check the topology. Current (newer one) parameters shows a worse result in the curve plots. Try more.
+ - [ ] RevBayes can deal with continuous traits and mrbayes cannot. Try to build trees in a bayes way.
+
+
 - [ ] Searching relevant literature.
 - [x] Organize framework and foothold point of my topic.
 - [x] Summarize the basic ideas. I mean write a list or something to organize thoughts.

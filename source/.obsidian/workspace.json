@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3ddb284fa09c5c79",
+        "id": "e9b0041d17e19a12",
         "type": "tabs",
         "children": [
           {
-            "id": "4d973d29ea069262",
+            "id": "50ddb86d8e9626f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/05-22-2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/05-22-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/05-22-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/05-22-2023.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,8 +153,13 @@
       "publish:发布更改": false
     }
   },
-  "active": "a872900cfbcbecd0",
+  "active": "50ddb86d8e9626f8",
   "lastOpenFiles": [
+    "_posts/00-TODO-LIST.md",
+    "_posts/05-23-2023.md",
+    "_posts/04-07-2023.md",
+    "_drafts/_daily.md",
+    "_posts/05-22-2023.md",
     "_posts/05-22-2023/Learn_pld_376_Supplement_2_Image_Clustering_mmc2.py",
     "_posts/05-22-2023",
     "_posts/Learn_pld_376_Supplement_2_Image_Clustering_mmc2.py",
@@ -176,21 +173,17 @@
     "_posts/04-18-2023.md",
     "_posts/04-19-2023.md",
     "_posts/04-20-2023.md",
-    "_posts/05-22-2023.md",
     "_posts/04-27-2023.md",
     "_drafts/skelevision.md",
     "_posts/04-12-2023.md",
     "_posts/04-08-2023.md",
-    "_posts/04-07-2023.md",
     "_posts/05-16-2023.md",
     "_posts/05-21-2023.md",
     "_posts/05-05-2023.md",
-    "_posts/00-TODO-LIST.md",
     "_drafts/Proposal_report.md",
     "_posts/05-17-2023.md",
     "_posts/ZMK.md",
     "_posts/05-15-2023.md",
-    "_posts/05-14-2023.md",
     "_posts/ZMK/settings_reset-nrfmicro_13-zmk.uf2",
     "_posts/ZMK",
     "_posts/04-26-2023/network-broken-retry.txt",
@@ -200,7 +193,6 @@
     "linuxfordevices.com/tutorials/ubuntu",
     "linuxfordevices.com/tutorials",
     "linuxfordevices.com",
-    "_posts/04-18-2023/test.txt",
     "Pictures/1.jpeg",
     "_posts/04-12-2023/2.jpg",
     "_posts/04-12-2023/1.jpg",

@@ -12,13 +12,12 @@ date: {{ date }}
 2. blah
 
 # What I need to do next
-
-1. blah
-2. blah
+- [ ] blah
+- [ ]  blah
 
 # What I want to do in future
-- ideas 
-- ideas
+- [ ]  ideas 
+- [ ]  ideas
 
 # What I want to tell myself
 
