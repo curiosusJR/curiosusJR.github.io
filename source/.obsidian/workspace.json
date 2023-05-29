@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "988772ffb616bff9",
+        "id": "56af061740149bb0",
         "type": "tabs",
         "children": [
           {
-            "id": "035a4884cfd5700f",
+            "id": "0280ff8585b64993",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/00-TODO-LIST.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/00-TODO-LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/00-TODO-LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/00-TODO-LIST.md"
+              }
             }
           }
         ],
@@ -153,46 +161,47 @@
       "publish:发布更改": false
     }
   },
-  "active": "035a4884cfd5700f",
+  "active": "0280ff8585b64993",
   "lastOpenFiles": [
-    "_posts/05-23-2023.md",
-    "_posts/05-22-2023.md",
+    "_posts/05-28-2023.md",
+    "Pictures/ir100.pdf",
+    "Pictures/ir1011.png",
+    "Pictures/ir100.png",
     "_posts/00-TODO-LIST.md",
-    "_posts/04-07-2023.md",
+    "_posts/05-23-2023.md",
+    "_posts/05-24-2023.md",
+    "Pictures/ir1011.pdf",
+    "_posts/05-28-2023/ir1011.pdf",
+    "_posts/05-28-2023/ir100.pdf",
+    "_posts/05-28-2023",
     "_drafts/_daily.md",
+    "_posts/05-22-2023.md",
+    "_posts/05-16-2023.md",
+    "_posts/04-07-2023.md",
+    "_posts/05-05-2023.md",
+    "_posts/04-27-2023.md",
+    "_posts/04-26-2023.md",
+    "_posts/04-25-2023.md",
+    "_posts/04-24-2023.md",
+    "_posts/04-23-2023.md",
+    "_posts/04-22-2023.md",
+    "_posts/04-21-2023.md",
+    "_posts/04-20-2023.md",
+    "_posts/04-19-2023.md",
+    "_posts/04-18-2023.md",
+    "_posts/04-17-2023.md",
+    "_posts/04-16-2023.md",
+    "_posts/04-15-2023.md",
+    "_posts/04-14-2023.md",
+    "_posts/04-13-2023.md",
+    "_posts/04-12-2023.md",
     "_posts/05-22-2023/Learn_pld_376_Supplement_2_Image_Clustering_mmc2.py",
     "_posts/05-22-2023",
     "_posts/Learn_pld_376_Supplement_2_Image_Clustering_mmc2.py",
-    "_posts/04-11-2023.md",
-    "_posts/04-10-2023.md",
-    "_posts/04-09-2023.md",
-    "_posts/04-13-2023.md",
-    "_posts/04-14-2023.md",
-    "_posts/04-15-2023.md",
-    "_posts/04-16-2023.md",
-    "_posts/04-18-2023.md",
-    "_posts/04-19-2023.md",
-    "_posts/04-20-2023.md",
-    "_posts/04-27-2023.md",
-    "_drafts/skelevision.md",
-    "_posts/04-12-2023.md",
-    "_posts/04-08-2023.md",
-    "_posts/05-16-2023.md",
-    "_posts/05-21-2023.md",
-    "_posts/05-05-2023.md",
-    "_drafts/Proposal_report.md",
-    "_posts/05-17-2023.md",
-    "_posts/ZMK.md",
-    "_posts/05-15-2023.md",
     "_posts/ZMK/settings_reset-nrfmicro_13-zmk.uf2",
     "_posts/ZMK",
-    "_posts/04-26-2023/network-broken-retry.txt",
-    "_posts/04-26-2023",
     "Pictures/ipv6speed.jpg",
     "Pictures/IMG_2340.jpg",
-    "linuxfordevices.com/tutorials/ubuntu",
-    "linuxfordevices.com/tutorials",
-    "linuxfordevices.com",
     "Pictures/1.jpeg",
     "_posts/04-12-2023/2.jpg",
     "_posts/04-12-2023/1.jpg",
