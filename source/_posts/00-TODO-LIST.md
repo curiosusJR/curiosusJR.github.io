@@ -29,6 +29,6 @@ I need a to-do list to help me organize my numerous daily tasks. This list categ
 - [ ] It would be even better if the to-do list could pop up in a drop-down menu. I can create an object in github. Referring rofi source code and reading more documents will help me.
 - [ ] Summarize installation and configuration of archlinux.
 - [ ] Add a curtain to my tower chassis.
-- [ ] Learn about version corresponding or dependency among cuda, python or so on.
-- [ ] Systematic learn deep learning programming.
+- [x] Learn about version corresponding or dependency among cuda, python or so on.
+- [ ] Systematic learn deep learning programming.**Same to the importants above**
 
