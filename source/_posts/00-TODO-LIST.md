@@ -13,6 +13,7 @@ I need a to-do list to help me organize my numerous daily tasks. This list categ
  - [ ] Build 10000 trees in one week and check it.
  - [ ] RevBayes (or Beast) can deal with continuous traits and mrbayes cannot. Try to build trees in a bayes way.
 - [ ] Searching relevant literature.
+- [ ] Tree-like phylogenetic relationship is or is not a best resolution of evolution? And why? Find more articles! Think about which shape of phylogenetic visualization I should use.
 
 # Things I need to do soon 
 

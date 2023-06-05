@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/04-07-2023.md",
+                "file": "_posts/06-05-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,6 +71,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "412d02d38fcdeaf5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -85,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/04-07-2023.md",
+            "file": "_posts/06-05-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/04-07-2023.md",
+            "file": "_posts/06-05-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/04-07-2023.md"
+            "file": "_posts/06-05-2023.md"
           }
         }
       }
@@ -140,7 +148,19 @@
   "active": "1bc13323c7fe28d4",
   "lastOpenFiles": [
     "_posts/00-TODO-LIST.md",
+    "_posts/06-05-2023.md",
+    "未命名.md",
+    "categories/index.md",
+    "_posts/04-10-2023/normal.sgf",
+    "_posts/06-02-2023.md",
+    "_posts/05-06-2023.md",
+    "_posts/05-28-2023.md",
+    "_posts/05-04-2023.md",
+    "_posts/05-03-2023.md",
+    "_posts/05-01-2023.md",
     "_posts/04-27-2023.md",
+    "_posts/04-29-2023.md",
+    "_posts/04-07-2023.md",
     "_posts/04-28-2023.md",
     "linuxfordevices.com/tutorials/ubuntu/dhcp-server-on-ubuntu.md",
     "_posts/04-26-2023.md",
