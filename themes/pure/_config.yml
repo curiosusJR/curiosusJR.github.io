@@ -119,7 +119,7 @@ repository:
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
 comment:
-  type: valine  # 启用哪种评论系统
+  type:   # 启用哪种评论系统
   disqus:  # enter disqus shortname here
   youyan: 
     uid: 1783844 # enter youyan uid 
@@ -181,7 +181,7 @@ pv:
 postCount:
   enable: true
   wordcount: true  # 文章字数统计
-  min2read: true  # 阅读时长预计 
+  min2read: false # 阅读时长预计 
 
 # Plugins
 plugins:
