@@ -1,0 +1,48 @@
+#! /usr/bin/zsh
+#
+
+DIR=`pwd`
+CSV=$1
+
+if [ $# = 0 ]
+then
+	echo 'Need a directory contain csv files'
+	exit 1
+elif [ $# -gt 1 ]
+then
+	echo $# 'Too many arguments'
+	exit 1
+fi
+echo "Please input a number for pictures number"
+read PIC_NUM
+echo "Get Pic_numbers=$PIC_NUM"
+NEX=$DIR/$CSV\_$PIC_NUM.nexus
+ntax=`ls $DIR/$CSV | awk -F _ '{printf "%s_%s\n", $1,$2 }'|sort| uniq| wc -l`
+((ntax=ntax*$PIC_NUM))
+file_example=`ls $DIR/$CSV/ | awk ' NR == 1 '`
+nchar=`cat $DIR/$CSV/$file_example | wc -w`
+al_sp='NULL'
+echo "OUTPUT path = $NEX"
+echo '#NEXUS' > $NEX
+echo 'Begin data;' >> $NEX
+echo "Dimensions ntax=$ntax nchar=$nchar;" >> $NEX
+echo "Format datatype=Continuous missing = ?;" >> $NEX
+echo "Matrix" >> $NEX
+for i in `ls $DIR/$CSV`
+do
+	cr_sp=`echo $i | awk -F _ '{printf "%s_%s\n",$1,$2}' `
+	if [ $cr_sp = $al_sp ]
+	then
+		if [ $cr_num != $PIC_NUM ]
+		then
+			echo ${i%.*.*}	`cat $DIR/$CSV/$i` >> $NEX
+			((cr_num=cr_num+1))
+		fi
+	else 
+		echo ${i%.*.*}	`cat $DIR/$CSV/$i` >> $NEX
+		cr_num=1
+	fi
+	al_sp=`echo $i | awk -F _ '{printf "%s_%s\n",$1,$2}' `
+done
+echo ';' >> $NEX
+echo 'end;' >> $NEX

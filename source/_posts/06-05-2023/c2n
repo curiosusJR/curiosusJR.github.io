@@ -1,0 +1,32 @@
+#! /usr/bin/zsh
+#
+
+DIR=`pwd`
+CSV=$1
+NEX=$DIR/$CSV.nexus
+
+if [ $# = 0 ]
+then
+	echo 'Need a directory contain csv files'
+	exit 1
+elif [ $# -gt 1 ]
+then
+	echo $# 'Too many arguments'
+	exit 1
+fi
+
+ntax=`ls $DIR/$CSV | wc -l`
+file_example=`ls $DIR/$CSV/ | awk ' NR == 1 '`
+nchar=`cat $DIR/$CSV/$file_example | wc -w`
+
+echo '#NEXUS' > $NEX
+echo 'Begin data;' >> $NEX
+echo "Dimensions ntax=$ntax nchar=$nchar;" >> $NEX
+echo "Format datatype=Continuous missing = ?;" >> $NEX
+echo "Matrix" >> $NEX
+for i in `ls $DIR/$CSV`
+do
+	echo ${i%.*.*}	`cat $DIR/$CSV/$i` >> $NEX
+done
+echo ';' >> $NEX
+echo 'end;' >> $NEX

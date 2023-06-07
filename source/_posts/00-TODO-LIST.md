@@ -19,6 +19,9 @@ I need a to-do list to help me organize my numerous daily tasks. This list categ
 
 - [ ] Add GitAction on GitHub for automatically deploying Hexo blogs.
  - [ ] **IMPORTANT!** I do not know how the numbers '1536' in traits and '813' in random selection in pictures come. Maybe it is related to model training or predicting. I should find out it some day and it can help me to know about ML.  
+ - [ ] Arithmetic average cannot represent the average level of image features. I should use another method.
+- [ ]  Evolution model of continuous trait can or cannot be change for better use of image?
+- [ ] Are the traits extracted by models the ones I want? Should I train, even build, my own model? Or should I use model for trait extraction? The distance in the kailan-article, what exactly mean in physical or biological?
 
 # Things I had done recently 
  - [x] Check the plots of epoch accuracy for the model. 
