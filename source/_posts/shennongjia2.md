@@ -1,5 +1,5 @@
 ---
-title:  叶蝉采集经验总结及技巧要点记述
+title:  叶蝉采集经验总结及之所思
 tags:
   - 感想
 categories:
