@@ -6,7 +6,7 @@
   <link href="http://zhangdeweb.site/atom.xml" rel="self"/>
   
   <link href="http://zhangdeweb.site/"/>
-  <updated>2023-06-07T09:20:55.073Z</updated>
+  <updated>2023-06-16T05:34:27.404Z</updated>
   <id>http://zhangdeweb.site/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>叶蝉采集经验总结及技巧要点记述</title>
+    <link href="http://zhangdeweb.site/2023/06/16/shennongjia2/"/>
+    <id>http://zhangdeweb.site/2023/06/16/shennongjia2/</id>
+    <published>2023-06-15T16:00:00.000Z</published>
+    <updated>2023-06-16T05:34:27.404Z</updated>
+    
+    <content type="html"><![CDATA[<p>在神农架的采集以叶蝉为重点类群。在连续数日的采集工作中，我发现若想提高采集效率，增加采集到的叶蝉种类和个体数量，需要一定的技巧。我将本次采集总结的经验、想法在此记述，并随时补充、更改，以提醒自己，方便后人。</p><h1 id="思考"><a href="#思考" class="headerlink" title="思考"></a>思考</h1><ol><li>根据做叶蝉跳跃结构的师姐所述，以及前人文献记载，推断沫蝉跳跃能力强于叶蝉，而沫蝉若虫隐蔽生活，不具备跳跃能力。沫蝉多发现于草丛间，而叶蝉分布在草丛、灌木和树梢，飞虱多发现于树梢，因此考虑在头喙亚目中，跳跃能力或许与飞行能力互补，是两种不同的进化策略，对这两种策略的选择和演化或许是由食性驱动的。以上观察基于经验，没有数据和历史文献支撑，需要进一步查阅资料和事实证据。</li><li>同种叶蝉不同海拔貌似存在一点体型上的差异，不知道是偶然现象，还是观察偏差，还是误判，还是确有此事。需要记录好海拔信息，回去仔细测量。</li></ol><h1 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h1><p>传统吸虫管需要用到嘴巴，在采集中无法添加乙醇或乙酸乙酯杀死叶蝉，大体型叶蝉在管中跳跃会踢坏其他标本。本次采集我试用自己改造的吸虫管，利用洗耳球提供压力，利用单向气阀控制气体流动方向，形成负压，提供吸力。</p><p>经过几天的使用，总体而言，吸力充足，效率与传统吸虫管相当，且可以随时用酒精杀死管中叶蝉。但仍然存在一些可以改进的地方：</p><ol><li>在吸气口固定棉花吸收多余酒精，可能导致酒精被吸入洗耳球，造成酒精少量浪费和吸力短暂下降使昆虫逃逸，考虑在其他位置固定棉花，如进气口。</li><li>使用100ml离心管时直径略粗，长时间操作时会略吃力，50ml离心管相比之下使用起来更轻松，但在虫量很大时有可能堵住吸虫管，考虑每天准备两个50ml管，或进一步改造改造管体使吸虫工具和存储工具分离（吸虫管中不能有积液，采集过程中叶蝉会腐烂或干燥导致变脆易损，采集、存储相分离可以避免该问题）。</li><li>吸管直径略细，部分叶蝉头宽大于吸管内径，无法被吸入，如果增大吸管内径，可能导致吸力下降。而在实际使用中，吸虫管的吸力并不是采集叶蝉的主要动力，而是提供一个气流让叶蝉跳跃，叶蝉跳跃时的动力已经足够使叶蝉进入吸虫管，具体数值待测。</li><li>金属吸管不透明，如果有虫卡在管中不及时发现，会造成堵塞或昆虫逃逸，而玻璃吸管易碎，应考虑用强度高的玻璃或透明的复合材质。</li><li>导气管应考虑使用更硬的材质及弯头导管，否则气道会因形变堵塞。</li><li>软胶塞应考虑外包围固定或直筒型，倒台型软塞会夹住虫体导致标本破损。</li><li>如果有条件应考虑固定吸虫管与洗耳球相对位置，或加入人体工程学因素，使其更容易抓握和用力。</li></ol><p>捕虫网需短小结实最长两米，网圈直径不超过40，直径太大伸不进树枝里。</p><h1 id="扫网"><a href="#扫网" class="headerlink" title="扫网"></a>扫网</h1><p>扫网是叶蝉采集的最关键步骤，其中路线选择和时间分配是影响采集效率的最主要因素。</p><ol><li>叶蝉聚集分布于寄主上，受惊会跳跃到其他位置。根据这一习性和日前采集经验可知，采集路线应选为人迹稀少的林下小道，车辆较少且两侧有丰富植被的道路，干涸的河道，以及田间小路等。</li><li>在行进路程中，应采用广泛观察，重点收集的策略。依据不同的环境，整个行进路线会被分为不同的区块。对每个区块内的不同寄主进行简单快速的扫网，观察网内情况，估计附近叶蝉分布。根据个体数量、种类情况判断是否在该区域进行详细、大范围的采集。</li><li>每次仔细扫网、收网约需要耗时15分钟，每次简单扫网、估计情况约耗时2分钟。根据日前统计，根据采集情况不同，我每天可以约详细扫网25-35次，总扫网次数在45-50次，保证扫网次数可以控制好扫网和赶路二者的时间分配，避免出现采集只赶路不采虫的情况发生。</li><li>若昆虫种类丰富，数量繁多，则扫网次数多，赶路时间少，行进路程短，对下一区域期望高，因此在估计情况时应更倾向于放弃扫网，增加行进路程；若昆虫种类数量少，对下一区域昆虫分布期望低，则应在一段时间的赶路后，在某一相对丰富区域持续扫网。</li><li>总体而言，草丛中物种和个体数量均大于灌木和树梢，但草丛中种类与灌木、树梢中不同，因此对草丛、灌木、树梢均要观察采集，以进一步估计情况。</li><li>在蒿草丛，若沫蝉丰富度极高，则叶蝉种类较少，应酌情放弃该区域的采集。</li><li>叶蝉跳跃前需要有准备动作，其白天多于叶背休息，因此受到惊吓时倾向于向下掉落。根据这一特点，扫网时应从下向上，左右交替挥网。</li></ol><h1 id="灯诱"><a href="#灯诱" class="headerlink" title="灯诱"></a>灯诱</h1><ol><li>叶蝉远距离飞行能力弱，在灯诱时主要吸引周边近距离植被上的叶蝉。同时，叶蝉是相对弱小的类群，当灯诱布上昆虫密集时，叶蝉会受惊逃跑。因此，应在天黑前半小时架灯，此时灯光吸引能力较弱，飞蛾、金龟等大体积昆虫不会上灯，叶蝉会集中上灯而不会被惊扰。天黑后半小时，其他昆虫上灯，叶蝉陆续逃逸到附近草丛，采集完布上叶蝉可在周边扫网，到十二点左右布上昆虫不再活跃，叶蝉会再次上灯，可以再次在布上采集。</li><li>气温15度以上时，叶蝉才具备上灯的活动能力，若低于15度应以扫网为主。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在神农架的采集以叶蝉为重点类群。在连续数日的采集工作中，我发现若想提高采集效率，增加采集到的叶蝉种类和个体数量，需要一定的技巧。我将本次采集总结的经验、想法在此记述，并随时补充、更改，以提醒自己，方便后人。&lt;/p&gt;
+&lt;h1 id=&quot;思考&quot;&gt;&lt;a href=&quot;#思考&quot; cla</summary>
+      
+    
+    
+    
+    <category term="感想" scheme="http://zhangdeweb.site/categories/%E6%84%9F%E6%83%B3/"/>
+    
+    
+    <category term="感想" scheme="http://zhangdeweb.site/tags/%E6%84%9F%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>记神农架联合采集之有感</title>
@@ -557,38 +582,6 @@
     
     
     <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ready for group meeting?</title>
-    <link href="http://zhangdeweb.site/2023/04/19/04-19-2023/"/>
-    <id>http://zhangdeweb.site/2023/04/19/04-19-2023/</id>
-    <published>2023-04-18T16:00:00.000Z</published>
-    <updated>2023-05-05T08:07:56.028Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="What-I-have-done-today"><a href="#What-I-have-done-today" class="headerlink" title="What I have done today"></a>What I have done today</h1><ol><li><p>Tried to scale up font size and windows in i3wm followed <a href="https://askubuntu.com/questions/1433238/hidpi-screen-problem-in-i3wm">this</a> and found that it is not easy.</p></li><li><p>Evaluated the results, shown in the <a href="https://resjournals.onlinelibrary.wiley.com/doi/abs/10.1111/syen.12543">article</a>.</p><blockquote><p>Dataset was split into three consequent sub- samples: training, validation and testing – 70%, 15% and 15%.<br>… …<br>To measure a model quality, several metrics were used: averaged by class and weighted by a value of class instances types of precision, recall, F-score and top-1 error rate. The precision is a ratio of true- positive classification and the sum of true-positive and false-positive classification. The recall is a ratio of true-positive classification and the sum of true-positive and false-negative classification. The F-score is a harmonic mean of precision and recall metrics.<br>… …<br>For LIME we set ‘top_labels’ to 1 to produce explanations only for the class with the highest confidence value, ‘num_features’ to 5 to limit the number of features that are presented in an explana- tion. The green areas are treated in favour of the true class, and the red ones are treated as the regions against the true class. For Grad- CAM, we choose the last layer visualization because it is a layer that accumulates more primitive features that are extracted from previous layers. For RISE the number of masks ‘N’, the size of the smaller square binary masks ‘s’ and the probability of each pixel in the smaller masks ‘p’ were empirically set to 1000, 8 and 0.2, respectively.<br>… …<br>LIME and Grad-CAM algorithms were much more likely to show the expected areas of interest within which the recognized object was located. Some of the visualization results obtained with RISE focused in great detail on the image of the area within the specimen.<br>  Namely, I should check those value and LIME results. Top-1 error rate about means mismatch rate, <a href="https://www.cnblogs.com/zyr001/p/14544031.html">see</a>. </p></blockquote></li><li><p>Make PPT for group meeting tomorrow.</p></li></ol><h1 id="What-I-want-to-tell-myself"><a href="#What-I-want-to-tell-myself" class="headerlink" title="What I want to tell myself"></a>What I want to tell myself</h1><ul><li>For those application complied locally which had been installed in <code>*/bin/</code>, the source file can be deleted.</li><li>For inserting digraph or unicode symbols in neovim, follow <a href="https://alpha2phi.medium.com/neovim-101-digraphs-icons-and-symbols-8bceee7817b7">here</a>. Type CTRL-Q in insert mode to enter visual mode and type U or u following unicodes and then type enter or space to quit the mode and the symbol will be typed in. Additional, the rofi can help type unicode symbols by install <a href="https://github.com/fdw/rofimoji">rofimoji</a> and set shortcut in i3wm</li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;What-I-have-done-today&quot;&gt;&lt;a href=&quot;#What-I-have-done-today&quot; class=&quot;headerlink&quot; title=&quot;What I have done today&quot;&gt;&lt;/a&gt;What I have done tod</summary>
-      
-    
-    
-    
-    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
-    
-    
-    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
-    
-    <category term="vim" scheme="http://zhangdeweb.site/tags/vim/"/>
-    
-    <category term="2022se" scheme="http://zhangdeweb.site/tags/2022se/"/>
-    
-    <category term="rofi" scheme="http://zhangdeweb.site/tags/rofi/"/>
-    
-    <category term="unicode" scheme="http://zhangdeweb.site/tags/unicode/"/>
     
   </entry>
   
