@@ -13,7 +13,7 @@ I need a to-do list to help me organize my numerous daily tasks. This list categ
  - [ ] Build 10000 trees in one week and check it.
  - [ ] RevBayes (or Beast) can deal with continuous traits and mrbayes cannot. Try to build trees in a bayes way.
 - [ ] Searching relevant literature.
-- [ ] Tree-like phylogenetic relationship is or is not a best resolution of evolution? And why? Find more articles! Think about which shape of phylogenetic visualization I should use.
+- [ ] Bayesian phylogenetic trees based on continuous traits does not convergence, run more!
 
 # Things I need to do soon 
 
@@ -22,6 +22,9 @@ I need a to-do list to help me organize my numerous daily tasks. This list categ
  - [ ] Arithmetic average cannot represent the average level of image features. I should use another method.
 - [ ]  Evolution model of continuous trait can or cannot be change for better use of image?
 - [ ] Are the traits extracted by models the ones I want? Should I train, even build, my own model? Or should I use model for trait extraction? The distance in the kailan-article, what exactly mean in physical or biological?
+- [ ] Tree-like phylogenetic relationship is or is not a best resolution of evolution? And why? Find more articles! Think about which shape of phylogenetic visualization I should use.
+
+
 
 # Things I had done recently 
  - [x] Check the plots of epoch accuracy for the model. 
