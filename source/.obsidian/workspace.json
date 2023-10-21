@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ecfe0e8ff6513805",
+        "id": "60090028a6643907",
         "type": "tabs",
         "children": [
           {
-            "id": "f6efb82ab2d4a862",
+            "id": "72850affcc959526",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/06-05-2023.md",
+                "file": "_drafts/09-02-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/06-05-2023.md",
+                "file": "_drafts/09-02-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/06-05-2023.md",
+                "file": "_drafts/09-02-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/06-05-2023.md"
+                "file": "_drafts/09-02-2023.md"
               }
             }
           }
@@ -161,13 +161,17 @@
       "publish:发布更改": false
     }
   },
-  "active": "f6efb82ab2d4a862",
+  "active": "72850affcc959526",
   "lastOpenFiles": [
-    "_posts/05-30-2023.md",
+    "_drafts/09-02-2023.md",
+    "_posts/09-02-2023.md",
+    "09-02-2023.md",
+    "_posts/shennongjia1.md",
     "_posts/06-05-2023.md",
+    "_posts/05-22-2023.md",
+    "_posts/05-30-2023.md",
     "_posts/00-TODO-LIST.md",
     "_posts/shennongjia2.md",
-    "_posts/shennongjia1.md",
     "_drafts/_daily.md",
     "未命名.md",
     "_posts/05-28-2023.md",
@@ -177,7 +181,6 @@
     "_posts/06-05-2023/c2n",
     "_posts/06-05-2023",
     "_posts/05-23-2023.md",
-    "_posts/05-22-2023.md",
     "_posts/05-24-2023.md",
     "Pictures/ir100.pdf",
     "Pictures/ir1011.png",
@@ -198,8 +201,6 @@
     "_posts/04-21-2023.md",
     "_posts/04-20-2023.md",
     "_posts/04-19-2023.md",
-    "_posts/04-18-2023.md",
-    "_posts/04-17-2023.md",
     "_posts/05-22-2023/Learn_pld_376_Supplement_2_Image_Clustering_mmc2.py",
     "Pictures/ipv6speed.jpg",
     "Pictures/IMG_2340.jpg",
