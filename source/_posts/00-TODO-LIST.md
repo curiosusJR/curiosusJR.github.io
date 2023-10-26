@@ -6,6 +6,15 @@ categories:
   - TODO
 date: 
 ---
+这里可以作为待办事项、备忘便签、日志，应该分开吗？
+待办事项，目前来看，应该主要以apple自带的程序运行，手机和mac的同步还是很方便，小事情就用这个记录；
+工作中的idea之类的，详细记录，还是这个，启动方式目前就是这样；
+问题是能不能自动同步，这个还需要进一步设置；
+记事本，nas上哪个很好用，但是现在这个是不是更好用，手机上的怎么办呢，用obsidian是不是更好，需要再想想；
+obsidian可能没有自动的提交管理；手机上obsidian搭配working copy可以，电脑上就这里也可以，或者也是obsidian加什么，看情况吧；
+手机上能这样的话，其实就不用nas的note了。
+先obsidian试一试吧；
+
 
 I need a to-do list to help me organize my numerous daily tasks. This list categorizes all of things  I need to do in order of urgency. It will keep some of things that have already done for thinking over their logic when there is a complex situation. The list will be updated daily and irrelevant completed items will be cleared after about a week. If a complex task needs to be broken down into multiple subtasks, those subtasks will be listed in another file and linked here. The file list subtasks should be a document for the complex task and will be retained.
 
