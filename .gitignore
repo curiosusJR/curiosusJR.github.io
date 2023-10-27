@@ -9,3 +9,4 @@ _config.yml
 !*/**/_config.yml
 _multiconfig.yml
 _test.yml
+/2023/**
