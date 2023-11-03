@@ -16,7 +16,7 @@ obsidian可能没有自动的提交管理；手机上obsidian搭配working copy�
 先obsidian试一试吧；
 
 设置了自动截图，看看效果吧
-设置了actionxzn
+设置了actionx
 
 
 I need a to-do list to help me organize my numerous daily tasks. This list categorizes all of things  I need to do in order of urgency. It will keep some of things that have already done for thinking over their logic when there is a complex situation. The list will be updated daily and irrelevant completed items will be cleared after about a week. If a complex task needs to be broken down into multiple subtasks, those subtasks will be listed in another file and linked here. The file list subtasks should be a document for the complex task and will be retained.
