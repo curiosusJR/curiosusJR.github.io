@@ -5,7 +5,7 @@ db.json
 node_modules/
 public/
 .deploy*/
-_config.yml
+
 !*/**/_config.yml
 _multiconfig.yml
 _test.yml
