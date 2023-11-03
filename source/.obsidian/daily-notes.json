@@ -1,6 +1,6 @@
 {
   "template": "_drafts/_daily",
-  "folder": "note",
+  "folder": "notes",
   "autorun": true,
   "format": "MM-DD-YYYY"
 }
