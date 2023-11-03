@@ -34,7 +34,7 @@ jobs:
           GIT_NAME: curiosusJR
           GIT_EMAIL: millipedeassassin@gmail.com
           REPO: github.com/curiosusJR/curiosusJR.github.io.git
-          GH_TOKEN: ${{ secrets.SECRETS_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           cd ./public && git init && git add .
           git config --global user.name $GIT_NAME
