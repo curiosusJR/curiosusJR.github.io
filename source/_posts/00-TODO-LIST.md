@@ -19,6 +19,7 @@ obsidian可能没有自动的提交管理；手机上obsidian搭配working copy�
 设置了action test 这才改的差不多了
 现在是最终版本了吧
 
+ok之前有一段没有搞好，是因为remote端没有_config.yml文件，导致hexo g命令没有layout设置，没有这个文件是因为token不能上传，在github的页面设置了secret变量GH_TOKEN变量，值为token，然后用`${{ secrets.GH_TOKEN }}` 来引用即可。
 
 
 I need a to-do list to help me organize my numerous daily tasks. This list categorizes all of things  I need to do in order of urgency. It will keep some of things that have already done for thinking over their logic when there is a complex situation. The list will be updated daily and irrelevant completed items will be cleared after about a week. If a complex task needs to be broken down into multiple subtasks, those subtasks will be listed in another file and linked here. The file list subtasks should be a document for the complex task and will be retained.
