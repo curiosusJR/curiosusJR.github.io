@@ -17,6 +17,7 @@ obsidian可能没有自动的提交管理；手机上obsidian搭配working copy�
 
 设置了自动截图，看看效果吧
 设置了action test 这才改的差不多了
+现在是最终版本了吧
 
 
 
