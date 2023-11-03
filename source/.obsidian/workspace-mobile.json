@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/11-03-2023.md",
+                "file": "_posts/00-TODO-LIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/11-03-2023.md",
+            "file": "_posts/00-TODO-LIST.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "notes/11-03-2023.md",
+            "file": "_posts/00-TODO-LIST.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "notes/11-03-2023.md"
+            "file": "_posts/00-TODO-LIST.md"
           }
         }
       }
@@ -147,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b7f19e4bb3c3c9ec",
+  "active": "0d9aff0364199818",
   "lastOpenFiles": [
     "notes/11-03-2023.md",
     "notes",
