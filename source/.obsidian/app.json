@@ -3,9 +3,7 @@
   "spellcheck": true,
   "tabSize": 8,
   "showLineNumber": true,
-  "spellcheckLanguages": [
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "promptDelete": false,
   "newLinkFormat": "shortest",
   "useMarkdownLinks": true,

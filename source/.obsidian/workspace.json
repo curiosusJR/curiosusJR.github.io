@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/09-02-2023.md",
+                "file": "_posts/00-TODO-LIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/09-02-2023.md",
+                "file": "_posts/00-TODO-LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/09-02-2023.md",
+                "file": "_posts/00-TODO-LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/09-02-2023.md"
+                "file": "_posts/00-TODO-LIST.md"
+              }
+            }
+          },
+          {
+            "id": "50a766216d56f28b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -163,7 +173,9 @@
   },
   "active": "72850affcc959526",
   "lastOpenFiles": [
+    "notes/11-03-2023.md",
     "_drafts/09-02-2023.md",
+    "notes/11-09-2023.md",
     "_posts/09-02-2023.md",
     "09-02-2023.md",
     "_posts/shennongjia1.md",
@@ -199,8 +211,6 @@
     "_posts/04-23-2023.md",
     "_posts/04-22-2023.md",
     "_posts/04-21-2023.md",
-    "_posts/04-20-2023.md",
-    "_posts/04-19-2023.md",
     "_posts/05-22-2023/Learn_pld_376_Supplement_2_Image_Clustering_mmc2.py",
     "Pictures/ipv6speed.jpg",
     "Pictures/IMG_2340.jpg",
