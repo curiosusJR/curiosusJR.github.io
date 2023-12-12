@@ -1,12 +1,12 @@
 ---
-title: Daily work [2023-1213]
+title: Daily work [2023-1212]
 tags:
 	- daily work
 categories:
 	- diaries
-date: 12-13-2023
+date: 12-12-2023
 ---
-## 2023/12/13 (8.5h)
+## 2023/12/12 (8.5h)
 ### Doing tasks
 - finish phylobayes for gdl(0.5h)
 
