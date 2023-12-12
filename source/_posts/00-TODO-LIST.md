@@ -15,6 +15,8 @@ I need a to-do list to help me organize my numerous daily tasks. This list categ
 
 
 # Things I need to do **Tomorrow**
+**move todo-daily to todo/rust and update daily. Now, here is for more important things**
+
 - [ ] 批量构建数据集管道
 - [ ] 模型配置
 - [ ] 模型名单
