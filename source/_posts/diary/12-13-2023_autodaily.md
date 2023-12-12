@@ -6,26 +6,26 @@ categories:
 	- diaries
 date: 12-13-2023
 ---
-## 2023/12/13 (7.8h)
+## 2023/12/13 (8.9h)
 ### Doing tasks
+- finish phylobayes for gdl (0.5h)
 
 ### Done tasks
+- config todo/rust for my blog (0.5h)
 - P3 GTR for gdl (6.5h)
 - download statistic_exercise (0.2h)
 - install rust (0.1h)
 - test rust (1.0h)
+- config todo-daily for my blog (0.1h)
 
 ### Todo tasks in this week (On Friday, next week scheduled tasks)
-- finish phylobayes for gdl
 - install conda or mamba again
-- config todo/rust for my blog
 - find a rust-base blog engine
 - understanding the statistic_exercise and done with it
 - build a molecular data pippe line approach
 - learning model adding and config in revbayes
 - make a model list for revbayes P3
 - reading papers about 本质过程
-- config todo-daily for my blog
 
 ### Memo & Comments
 
