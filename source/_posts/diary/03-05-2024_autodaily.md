@@ -1,12 +1,12 @@
 ---
-title: Daily work [2024-0304]
+title: Daily work [2024-0305]
 tags:
 	- daily work
 categories:
 	- diaries
-date: 03-04-2024
+date: 03-05-2024
 ---
-## 2024/03/04 (0.0h)
+## 2024/03/05 (0.0h)
 ### Doing tasks
 
 ### Done tasks
