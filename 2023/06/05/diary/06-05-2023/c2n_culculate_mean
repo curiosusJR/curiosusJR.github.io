@@ -1,0 +1,46 @@
+#! /usr/bin/zsh
+#
+
+DIR=`pwd`
+CSV=$1
+
+if [ $# = 0 ]
+then
+	echo 'Need a directory contain csv files'
+	exit 1
+elif [ $# -gt 1 ]
+then
+	echo $# 'Too many arguments'
+	exit 1
+fi
+
+NEX=$DIR/$CSV\_mean.nexus
+ntax=`ls $DIR/$CSV |sort| uniq| wc -l`
+file_ex=`ls $DIR/$CSV/ | awk ' NR == 10 ' `
+file_example=`ls $DIR/$CSV/$file_ex | awk ' NR == 10 ' `
+nchar=`cat $DIR/$CSV/$file_ex/$file_example | wc -w`
+
+echo "OUTPUT path = $NEX"
+echo '#NEXUS' > $NEX
+echo 'Begin data;' >> $NEX
+echo "Dimensions ntax=$ntax nchar=$nchar;" >> $NEX
+echo "Format datatype=Continuous missing = ?;" >> $NEX
+echo "Matrix" >> $NEX
+
+for s in `ls $DIR/$CSV | sort`
+do
+	sum=()
+	for p in `ls $DIR/$CSV/$s | sort`
+	do
+		k=1
+		for n in `cat $DIR/$CSV/$s/$p`; do ((sum[$k]+=$n)); ((k=k+1));done
+	done
+	p_num=`ls $DIR/$CSV/$s | sort| wc -l`
+	for ((i=1; i<=${#sum[@]};i++)) 
+	do
+		((sum[i]=sum[i]/p_num))
+	done;
+	echo $s	${sum[@]} >> $NEX; 
+done
+echo ';' >> $NEX
+echo 'end;' >> $NEX
