@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zhang&#39;s Blog</title>
+  
+  
+  <link href="http://zhangdeweb.site/atom.xml" rel="self"/>
+  
+  <link href="http://zhangdeweb.site/"/>
+  <updated>2024-06-24T19:00:15.569Z</updated>
+  <id>http://zhangdeweb.site/</id>
+  
+  <author>
+    <name>Junru Zhang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Daily work [2024-0625]</title>
+    <link href="http://zhangdeweb.site/2024/06/25/diary/06-25-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/25/diary/06-25-2024_autodaily/</id>
+    <published>2024-06-24T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-25-0-0h"><a href="#2024-x2F-06-x2F-25-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;25 (0.0h)"></a>2024&#x2F;06&#x2F;25 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-25-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-25-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;25 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0622]</title>
+    <link href="http://zhangdeweb.site/2024/06/22/diary/06-22-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/22/diary/06-22-2024_autodaily/</id>
+    <published>2024-06-21T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-22-0-0h"><a href="#2024-x2F-06-x2F-22-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;22 (0.0h)"></a>2024&#x2F;06&#x2F;22 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-22-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-22-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;22 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0621]</title>
+    <link href="http://zhangdeweb.site/2024/06/21/diary/06-21-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/21/diary/06-21-2024_autodaily/</id>
+    <published>2024-06-20T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-21-0-0h"><a href="#2024-x2F-06-x2F-21-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;21 (0.0h)"></a>2024&#x2F;06&#x2F;21 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-21-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-21-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;21 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0620]</title>
+    <link href="http://zhangdeweb.site/2024/06/20/diary/06-20-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/20/diary/06-20-2024_autodaily/</id>
+    <published>2024-06-19T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-20-0-0h"><a href="#2024-x2F-06-x2F-20-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;20 (0.0h)"></a>2024&#x2F;06&#x2F;20 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-20-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-20-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;20 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0619]</title>
+    <link href="http://zhangdeweb.site/2024/06/19/diary/06-19-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/19/diary/06-19-2024_autodaily/</id>
+    <published>2024-06-18T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-19-0-0h"><a href="#2024-x2F-06-x2F-19-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;19 (0.0h)"></a>2024&#x2F;06&#x2F;19 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-19-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-19-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;19 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0618]</title>
+    <link href="http://zhangdeweb.site/2024/06/18/diary/06-18-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/18/diary/06-18-2024_autodaily/</id>
+    <published>2024-06-17T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-18-0-0h"><a href="#2024-x2F-06-x2F-18-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;18 (0.0h)"></a>2024&#x2F;06&#x2F;18 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-18-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-18-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;18 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0615]</title>
+    <link href="http://zhangdeweb.site/2024/06/15/diary/06-15-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/15/diary/06-15-2024_autodaily/</id>
+    <published>2024-06-14T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-15-0-0h"><a href="#2024-x2F-06-x2F-15-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;15 (0.0h)"></a>2024&#x2F;06&#x2F;15 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-15-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-15-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;15 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0614]</title>
+    <link href="http://zhangdeweb.site/2024/06/14/diary/06-14-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/14/diary/06-14-2024_autodaily/</id>
+    <published>2024-06-13T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-14-0-0h"><a href="#2024-x2F-06-x2F-14-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;14 (0.0h)"></a>2024&#x2F;06&#x2F;14 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-14-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-14-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;14 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0613]</title>
+    <link href="http://zhangdeweb.site/2024/06/13/diary/06-13-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/13/diary/06-13-2024_autodaily/</id>
+    <published>2024-06-12T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-13-0-0h"><a href="#2024-x2F-06-x2F-13-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;13 (0.0h)"></a>2024&#x2F;06&#x2F;13 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-13-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-13-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;13 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0612]</title>
+    <link href="http://zhangdeweb.site/2024/06/12/diary/06-12-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/12/diary/06-12-2024_autodaily/</id>
+    <published>2024-06-11T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-12-0-0h"><a href="#2024-x2F-06-x2F-12-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;12 (0.0h)"></a>2024&#x2F;06&#x2F;12 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-12-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-12-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;12 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0611]</title>
+    <link href="http://zhangdeweb.site/2024/06/11/diary/06-11-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/11/diary/06-11-2024_autodaily/</id>
+    <published>2024-06-10T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-11-0-0h"><a href="#2024-x2F-06-x2F-11-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;11 (0.0h)"></a>2024&#x2F;06&#x2F;11 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-11-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-11-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;11 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0608]</title>
+    <link href="http://zhangdeweb.site/2024/06/08/diary/06-08-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/08/diary/06-08-2024_autodaily/</id>
+    <published>2024-06-07T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-08-0-0h"><a href="#2024-x2F-06-x2F-08-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;08 (0.0h)"></a>2024&#x2F;06&#x2F;08 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-08-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-08-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;08 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0607]</title>
+    <link href="http://zhangdeweb.site/2024/06/07/diary/06-07-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/07/diary/06-07-2024_autodaily/</id>
+    <published>2024-06-06T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-07-0-0h"><a href="#2024-x2F-06-x2F-07-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;07 (0.0h)"></a>2024&#x2F;06&#x2F;07 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-07-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-07-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;07 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0606]</title>
+    <link href="http://zhangdeweb.site/2024/06/06/diary/06-06-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/06/diary/06-06-2024_autodaily/</id>
+    <published>2024-06-05T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-06-0-0h"><a href="#2024-x2F-06-x2F-06-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;06 (0.0h)"></a>2024&#x2F;06&#x2F;06 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-06-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-06-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;06 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0605]</title>
+    <link href="http://zhangdeweb.site/2024/06/05/diary/06-05-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/05/diary/06-05-2024_autodaily/</id>
+    <published>2024-06-04T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-05-0-0h"><a href="#2024-x2F-06-x2F-05-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;05 (0.0h)"></a>2024&#x2F;06&#x2F;05 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-05-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-05-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;05 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0604]</title>
+    <link href="http://zhangdeweb.site/2024/06/04/diary/06-04-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/04/diary/06-04-2024_autodaily/</id>
+    <published>2024-06-03T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-04-0-0h"><a href="#2024-x2F-06-x2F-04-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;04 (0.0h)"></a>2024&#x2F;06&#x2F;04 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-04-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-04-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;04 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0601]</title>
+    <link href="http://zhangdeweb.site/2024/06/01/diary/06-01-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/06/01/diary/06-01-2024_autodaily/</id>
+    <published>2024-05-31T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-06-x2F-01-0-0h"><a href="#2024-x2F-06-x2F-01-0-0h" class="headerlink" title="2024&#x2F;06&#x2F;01 (0.0h)"></a>2024&#x2F;06&#x2F;01 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-06-x2F-01-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-06-x2F-01-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;06&amp;#x2F;01 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;06&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0531]</title>
+    <link href="http://zhangdeweb.site/2024/05/31/diary/05-31-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/05/31/diary/05-31-2024_autodaily/</id>
+    <published>2024-05-30T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-05-x2F-31-0-0h"><a href="#2024-x2F-05-x2F-31-0-0h" class="headerlink" title="2024&#x2F;05&#x2F;31 (0.0h)"></a>2024&#x2F;05&#x2F;31 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-05-x2F-31-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-05-x2F-31-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;05&amp;#x2F;31 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;05&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0530]</title>
+    <link href="http://zhangdeweb.site/2024/05/30/diary/05-30-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/05/30/diary/05-30-2024_autodaily/</id>
+    <published>2024-05-29T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.565Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-05-x2F-30-0-0h"><a href="#2024-x2F-05-x2F-30-0-0h" class="headerlink" title="2024&#x2F;05&#x2F;30 (0.0h)"></a>2024&#x2F;05&#x2F;30 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-05-x2F-30-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-05-x2F-30-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;05&amp;#x2F;30 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;05&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily work [2024-0529]</title>
+    <link href="http://zhangdeweb.site/2024/05/29/diary/05-29-2024_autodaily/"/>
+    <id>http://zhangdeweb.site/2024/05/29/diary/05-29-2024_autodaily/</id>
+    <published>2024-05-28T16:00:00.000Z</published>
+    <updated>2024-06-24T19:00:15.565Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2024-x2F-05-x2F-29-0-0h"><a href="#2024-x2F-05-x2F-29-0-0h" class="headerlink" title="2024&#x2F;05&#x2F;29 (0.0h)"></a>2024&#x2F;05&#x2F;29 (0.0h)</h2><h3 id="Doing-tasks"><a href="#Doing-tasks" class="headerlink" title="Doing tasks"></a>Doing tasks</h3><h3 id="Done-tasks"><a href="#Done-tasks" class="headerlink" title="Done tasks"></a>Done tasks</h3><h3 id="Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks"><a href="#Todo-tasks-in-this-week-On-Friday-next-week-scheduled-tasks" class="headerlink" title="Todo tasks in this week (On Friday, next week scheduled tasks)"></a>Todo tasks in this week (On Friday, next week scheduled tasks)</h3><ul><li>build a molecular data pippe line approach</li><li>learning model adding and config in revbayes</li><li>make a model list for revbayes P3</li><li>reading papers about 本质过程</li><li>输入文件格式，即数据来源</li><li>构建0演化，然后逐步添加变量因素</li><li>model build and calculate</li><li>完整描述我的模型</li><li>描述计算方法</li><li>实践一下然后调整</li><li>learning mcmctree and beast for molecular dating principle</li><li>build my model in notebook</li><li>ascp 批量下载基因</li></ul><h3 id="Memo-amp-Comments"><a href="#Memo-amp-Comments" class="headerlink" title="Memo &amp; Comments"></a>Memo &amp; Comments</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2024-x2F-05-x2F-29-0-0h&quot;&gt;&lt;a href=&quot;#2024-x2F-05-x2F-29-0-0h&quot; class=&quot;headerlink&quot; title=&quot;2024&amp;#x2F;05&amp;#x2F;29 (0.0h)&quot;&gt;&lt;/a&gt;2024&amp;#x2F;05&amp;</summary>
+      
+    
+    
+    
+    <category term="diaries" scheme="http://zhangdeweb.site/categories/diaries/"/>
+    
+    
+    <category term="daily work" scheme="http://zhangdeweb.site/tags/daily-work/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,17 @@
+#! /usr/bin/zsh
+cd raw;
+for i in `ls`
+do
+	cd $i;
+	rm det.jpg; 
+	rm rgb.jpg;
+	for j in `ls`;
+	do
+		if [ ! -e ../${${j/???}%.jpg} ];
+		then
+			mkdir ../${${j/???}%.jpg}; 
+		fi;
+		mv $j ../${${j/???}%.jpg}/${${j/???}%.jpg}_${i}_${j%_*}.jpg;
+	done;
+	cd ..;
+done;
