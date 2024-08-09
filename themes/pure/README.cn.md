@@ -1,6 +1,6 @@
 # pure
 
-A brand new default theme for [[Hexo](https://hexo.io)].  [Preview](http://cofess.github.io/) | [English documentation](README.md) | [iconfont](http://blog.cofess.com/hexo-theme-pure/iconfont/demo_fontclass.html)
+A brand new default theme for [[Hexo](https://hexo.io)].  [Preview](http://cofess.github.io/) | [English documentation](themes/pure/README.md) | [iconfont](http://blog.cofess.com/hexo-theme-pure/iconfont/demo_fontclass.html)
 
 ![](screenshot/pure.png)
 

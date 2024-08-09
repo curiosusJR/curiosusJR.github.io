@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "3e8fc696c50b0871",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba19a7cdc0b945e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1818216821ee41c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_drafts/Wish_list/README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ec0f27df4b06ba03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_drafts/Wish_list/README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "291fcbb9947db941",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ea092ad19f62eb97",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "434db0f88d42576b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "53c3391883f4d057",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0f4fc739f48328a2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0acaefadb420c161",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b20793b0031a3200",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "source/_drafts/Wish_list/README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dc4eb132d36a28e3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "source/_drafts/Wish_list/README.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1c9b56d3272b09e6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "source/_drafts/Wish_list/README.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ec0f27df4b06ba03",
+  "lastOpenFiles": [
+    "source/_drafts/Wish_list/Things I will have.md",
+    "source/_drafts/Wish_list/README.md",
+    "source/_drafts/Wish_list",
+    "source/_posts/<file>.md",
+    "source/_drafts/_daily.md",
+    "source/_posts/sync.md",
+    "source/_posts/未命名.md",
+    "_config.yml.copy",
+    "_admin-config.yml",
+    "themes/pure/source/images/favatar/idesign-logo.png",
+    "themes/pure/source/images/favatar/SzsFox-logo.png",
+    "themes/pure/source/images/favatar/chuangzaoshi-logo.png",
+    "themes/pure/source/images/donate/wechatpayimg.png",
+    "themes/pure/source/images/donate/alipayimg.png",
+    "themes/pure/layout/_partial/post/wordcount.ejs",
+    "themes/pure/layout/_partial/post/donate.ejs",
+    "themes/pure/layout/_partial/post/comment.ejs",
+    "themes/pure/layout/_partial/post/pv.ejs",
+    "themes/pure/layout/_partial/post/thumbnail.ejs",
+    "themes/pure/layout/_partial/post/date.ejs",
+    "themes/pure/layout/_partial/post/copyright.ejs",
+    "themes/pure/_source/categories/index.md",
+    "themes/pure/_source/404/index.md",
+    "themes/pure/_source/links/index.md",
+    "themes/pure/_source/tags/index.md",
+    "themes/pure/_source/books/index.md",
+    "themes/pure/_source/about/index.md",
+    "themes/pure/_source/repository/index.md",
+    "themes/pure/source/fonts/iconfont.svg",
+    "themes/pure/source/fonts/README.md",
+    "themes/pure/source/images/avatar.jpg",
+    "themes/pure/source/images/thumb-default.png",
+    "themes/pure/source/images/xingqiu-qrcode.jpg",
+    "themes/pure/source/favicon.png",
+    "themes/pure/README.md",
+    "themes/pure/README.cn.md",
+    "source/_drafts/notes/11-03-2023.md",
+    "source/_posts/diary/04-17-2023.md",
+    "source/_posts/diary/04-07-2023.md",
+    "source/_posts/diary/12-12-2023_autodaily.md",
+    "source/_posts/diary/01-11-2024_autodaily.md",
+    "source/_posts/diary/12-26-2023_autodaily.md",
+    "source/_posts/diary/04-21-2023.md",
+    "source/_posts/diary/06-05-2023.md",
+    "source/_posts/diary/04-20-2023.md",
+    "source/_posts/diary/12-27-2023_autodaily.md"
+  ]
+}
