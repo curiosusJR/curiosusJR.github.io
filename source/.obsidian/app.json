@@ -7,5 +7,6 @@
   "promptDelete": false,
   "newLinkFormat": "shortest",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "_posts/04-10-2023"
+  "attachmentFolderPath": "_posts/04-10-2023",
+  "alwaysUpdateLinks": true
 }

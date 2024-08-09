@@ -15,4 +15,4 @@ date:
 3. #Tags can be used for backlink. Files can be linked as [[source/_drafts/Wish_list/README]] this.
 4. Here is a list of themes.
 
-![[Things I will have]]
+![[I_WILL]]
