@@ -29,5 +29,7 @@ date:
 - current running : mito_dataset. mft-ginsi/magus on dating; rb_pps on tower. check the result
 
 ### Memo & Comments
-char_type:335069. edit blog in autodaily, add TODOLIST/WISHLIST in hexo, edit via obsidian. Write my thesis paper via mdbook
+char_type:335069. edit blog in autodaily, add TODOLIST/WISHLIST in hexo, edit via obsidian. Write my thesis paper via mdbook; 
+Maybe I should use mdbook instead of beamer for presentation, not hexo for documentation, maybe. #mdbook #hexo #todo #obsidian #blog
+Using todo list and hexo-blog via obsidian for daily work, using mdbook for presentation.
 
