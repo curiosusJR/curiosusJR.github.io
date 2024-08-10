@@ -1,10 +1,12 @@
 ---
-title: Daily work 
+title: Daily work
 tags:
-- daily work
+  - daily
+  - work
 categories:
-- diaries
-date: 
+  - diaries
+  - TODO
+date:
 ---
 *automatic update via todo-list*
 
@@ -58,5 +60,7 @@ date:
 - Edit TODO-list and mdbook-files for ensuring they are in correct format.
 
 ### Memo & Comments
-char_type: 367368; QiXi Festeval so that I did not much work today. Well, it's weekend, just finish my workflow building tomorrow.
+- char_type: 367368; 
+- QiXi Festeval so that I did not much work today. 
+- Well, it's weekend, just finish my workflow building tomorrow.
 

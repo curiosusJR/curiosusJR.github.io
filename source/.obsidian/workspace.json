@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/00-TODO-LIST.md",
+                "file": "_posts/WISH_LIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/00-TODO-LIST.md",
+                "file": "_posts/WISH_LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/00-TODO-LIST.md",
+                "file": "_posts/WISH_LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/00-TODO-LIST.md"
+                "file": "_posts/WISH_LIST.md"
               }
             }
           },
@@ -173,13 +173,13 @@
   },
   "active": "72850affcc959526",
   "lastOpenFiles": [
-    "_drafts/Wish_list/README.md",
-    "_drafts/Wish_list/WISH_LIST.md",
-    "_drafts/00-TODO-LIST.md",
-    "_posts/diary/autodaily.md",
-    "Pictures/Pasted image 20240810154019.png",
+    "_posts/README.md",
     "_posts/00-TODO-LIST.md",
+    "_posts/diary/autodaily.md",
     "_posts/diary/2023.md",
+    "_posts/WISH_LIST.md",
+    "_drafts/00-TODO-LIST.md",
+    "Pictures/Pasted image 20240810154019.png",
     "_posts/hello-world.md",
     "_posts/archlinux.md",
     "notes/11-03-2023.md",

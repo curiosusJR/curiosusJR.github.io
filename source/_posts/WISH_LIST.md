@@ -1,10 +1,9 @@
 ---
 title: WISH-list
 tags:
-  - daily
-  - work
+  - Wish-list
 categories:
-  - diaries
+  - TODO
 date:
   "{ date }": 2024-08-09
 ---

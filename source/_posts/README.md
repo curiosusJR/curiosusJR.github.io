@@ -5,8 +5,9 @@ tags:
   - work
   - Wish-list
   - TODO-list
+  - workflow-rule
 categories:
-  - diaries
+  - TODO
 date:
   "{ date }": 2024-08-09
 ---
