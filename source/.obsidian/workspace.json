@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/diary/autodaily.md",
+                "file": "_posts/00-TODO-LIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/diary/autodaily.md",
+                "file": "_posts/00-TODO-LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/diary/autodaily.md",
+                "file": "_posts/00-TODO-LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/diary/autodaily.md"
+                "file": "_posts/00-TODO-LIST.md"
               }
             }
           },
@@ -173,11 +173,15 @@
   },
   "active": "72850affcc959526",
   "lastOpenFiles": [
-    "_posts/00-TODO-LIST.md",
-    "_posts/diary/autodaily.md",
-    "_drafts/00-TODO-LIST.md",
     "_drafts/Wish_list/README.md",
-    "_drafts/Wish_list/I_WILL.md",
+    "_drafts/Wish_list/WISH_LIST.md",
+    "_drafts/00-TODO-LIST.md",
+    "_posts/diary/autodaily.md",
+    "Pictures/Pasted image 20240810154019.png",
+    "_posts/00-TODO-LIST.md",
+    "_posts/diary/2023.md",
+    "_posts/hello-world.md",
+    "_posts/archlinux.md",
     "notes/11-03-2023.md",
     "_drafts/09-02-2023.md",
     "notes/11-09-2023.md",
@@ -207,17 +211,12 @@
     "_posts/05-28-2023",
     "_posts/05-16-2023.md",
     "_posts/04-07-2023.md",
-    "_posts/05-05-2023.md",
-    "_posts/04-27-2023.md",
-    "_posts/04-26-2023.md",
-    "_posts/04-25-2023.md",
     "_posts/05-22-2023/Learn_pld_376_Supplement_2_Image_Clustering_mmc2.py",
     "Pictures/ipv6speed.jpg",
     "Pictures/IMG_2340.jpg",
     "Pictures/1.jpeg",
     "_posts/04-12-2023/2.jpg",
     "_posts/04-12-2023/1.jpg",
-    "Pictures/2.jpeg",
-    "_posts/04-12-2023/1.jpeg"
+    "Pictures/2.jpeg"
   ]
 }
