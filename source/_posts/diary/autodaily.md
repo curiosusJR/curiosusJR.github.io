@@ -31,7 +31,7 @@ date:
 - current running : mito_dataset. mft-ginsi/magus on dating; rb_pps on tower. check the result
 
 ### Memo & Comments
-- char_type:335069. 
+- #char_type:335069
 - edit blog in autodaily, add TODOLIST/WISHLIST in hexo, edit via obsidian. 
 - Write my thesis paper via mdbook; 
 - Maybe I should use mdbook instead of beamer for presentation, not hexo for documentation, maybe. #mdbook #hexo #todo #obsidian #blog 
@@ -43,9 +43,9 @@ date:
 ### Doing tasks
 
 ### Done tasks
-- align with magus？ (0.0h)
-- current running : mito_dataset. mft-ginsi/magus on dating; rb_pps on tower. check the result (2.3h)
-- my vpn maybe broken, check it. (0.5h)
+- align with #magus ？ (0.0h) #alignment
+- current running : mito_dataset. mft-ginsi/magus on dating; rb_pps on tower. check the result (2.3h) #alignment 
+- my vpn maybe broken, check it. (0.5h) 
 - config my workflow consist of todo/hexo/obsidian/mdbook/blog-README (3.0h)
 
 ### Todo tasks in this week
@@ -60,7 +60,24 @@ date:
 - Edit TODO-list and mdbook-files for ensuring they are in correct format.
 
 ### Memo & Comments
-- char_type: 367368; 
+- #char_type: 367368
 - QiXi Festeval so that I did not much work today. 
 - Well, it's weekend, just finish my workflow building tomorrow.
+
+
+---
+## 2024/08/12 (10.7h)
+### Doing tasks
+
+### Done tasks
+- ‼ON dating: run muscle in align and test mode via its online document. (0.0h)
+- ‼Edit TODO-list and mdbook-files for ensuring they are in correct format. (10.7h)
+
+### Todo tasks in this week
+- build my init dataset_list #fit_data
+- rewrite align.sh #fit_test
+- clear my basic rule of my model. #robustness_model
+
+### Memo & Comments
+#char_type : 403606; 
 
