@@ -4,8 +4,7 @@ tags:
   - Wish-list
 categories:
   - TODO
-date:
-  "{ date }": 2024-08-09
+date: 2024-08-10
 ---
 
 - [ ] 小憨八硕士期间有个舒适的工作环境 

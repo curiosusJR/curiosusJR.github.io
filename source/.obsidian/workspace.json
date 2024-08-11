@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/diary/autodaily.md",
+                "file": "_posts/00-TODO-LIST.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/diary/autodaily.md",
+                "file": "_posts/00-TODO-LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/diary/autodaily.md",
+                "file": "_posts/00-TODO-LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/diary/autodaily.md"
+                "file": "_posts/00-TODO-LIST.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   "active": "72850affcc959526",
   "lastOpenFiles": [
     "_posts/WISH_LIST.md",
-    "_posts/00-TODO-LIST.md",
+    "_posts/sync.md",
     "_posts/diary/autodaily.md",
+    "_posts/00-TODO-LIST.md",
     "_posts/README.md",
     "_posts/coffee.md",
     "_posts/ZMK.md",
@@ -185,7 +186,6 @@
     "_drafts/00-TODO-LIST.md",
     "_drafts/09-02-2023.md",
     "_posts/diary/2023.md",
-    "_posts/sync.md",
     "_posts/skelevision.md",
     "_posts/shennongjia2.md",
     "_posts/shennongjia1.md",
