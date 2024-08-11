@@ -80,4 +80,5 @@ date:
 
 ### Memo & Comments
 #char_type : 403606; 
+align.sh was wrong, I should align codon, not just nuc. maybe all align should be rerun, but i just need choose only one. it is not a big thing now.
 
