@@ -82,3 +82,20 @@ date:
 #char_type : 403606; 
 align.sh was wrong, I should align codon, not just nuc. maybe all align should be rerun, but i just need choose only one. it is not a big thing now.
 
+
+---
+## 2024/08/13 (8.6h)
+### Doing tasks
+
+### Done tasks
+- ‼build a init dataset_list, maybe just hemiptera but i should make them into datasets, not library. (6.3h)
+- get acc from shit_csv files. (2.3h)
+
+### Todo tasks in this week
+- rewrite align.sh #fit_test
+- clear my basic rule of my model. #robustness_model
+- ‼download data from acc
+
+### Memo & Comments
+#char_type : 434840;
+
