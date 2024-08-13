@@ -88,14 +88,31 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Doing tasks
 
 ### Done tasks
-- ‼build a init dataset_list, maybe just hemiptera but i should make them into datasets, not library. (6.3h)
-- get acc from shit_csv files. (2.3h)
+- ‼build a init dataset_list, maybe just hemiptera but i should make them into datasets, not library. #fit_data (6.3h) 
+- get acc from shit_csv files. #fit_data (2.3h)
 
 ### Todo tasks in this week
 - rewrite align.sh #fit_test
 - clear my basic rule of my model. #robustness_model
-- ‼download data from acc
+- ‼download data from acc #fit_data
 
 ### Memo & Comments
 #char_type : 434840;
+
+
+---
+## 2024/08/14 (8.1h)
+### Doing tasks
+
+### Done tasks
+- ‼download data from acc (4.0h)
+- align them into datasets. (4.1h)
+
+### Todo tasks in this week
+- rewrite align.sh #fit_test
+- clear my basic rule of my model. #robustness_model
+- align mito_2012/2019 cds
+
+### Memo & Comments
+#char_type : 456049 ; 
 
