@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/coffee.md",
+                "file": "_posts/diary/autodaily.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/coffee.md",
+                "file": "_posts/diary/autodaily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/coffee.md",
+                "file": "_posts/diary/autodaily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/coffee.md"
+                "file": "_posts/diary/autodaily.md"
               }
             }
           },
@@ -175,9 +175,9 @@
   },
   "active": "72850affcc959526",
   "lastOpenFiles": [
+    "_posts/coffee.md",
     "_posts/diary/autodaily.md",
     "_posts/00-TODO-LIST.md",
-    "_posts/coffee.md",
     "_drafts/_daily.md",
     "_posts/WISH_LIST.md",
     "_posts/sync.md",

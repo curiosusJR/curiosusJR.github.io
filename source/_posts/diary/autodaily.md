@@ -111,8 +111,9 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Todo tasks in this week
 - rewrite align.sh #fit_test
 - clear my basic rule of my model. #robustness_model
-- align mito_2012/2019 cds
+- align mito_2012/2019 cds #fit_data 
 
 ### Memo & Comments
 #char_type : 456049 ; 
+- mafft-xinsi for rrna and mafft-linsi for cds? #alignment 
 
