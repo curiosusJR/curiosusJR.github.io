@@ -119,14 +119,14 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 
 
 ---
-## 2024/08/15 (0.0h)
+## 2024/08/15 (9.9h)
 ### Doing tasks
 - align mito_2012/2019 cds #fit_data (10.0h)
 
 ### Done tasks
-- rewrite align.sh #fit_test (0.0h)
-- check linsi/ginsi/einsi diff. (0.0h)
-- run GTR rb_pps_data in current dataset. #fit/test #pps (0.0h)
+- rewrite align.sh #fit_test (1.0h)
+- check linsi/ginsi/einsi diff. (0.7h)
+- run GTR rb_pps_data in current dataset. #fit_test #pps (8.2h)
 
 ### Todo tasks in this week
 - ‼clear my basic rule of my model. #robustness_model
@@ -134,4 +134,6 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 
 ### Memo & Comments
 #char_type : 486401; 
+- whole mito data cannot be split into genes simply. maybe I just need to test the whole align and the partial gene data. It's not important so it will be ok. 
+- maybe I need to cut some column via seqkit or seqconverter because of gaps and maybe I can get better dataset.
 
