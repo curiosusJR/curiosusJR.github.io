@@ -139,7 +139,7 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 
 
 ---
-## 2024/08/15 (2.7h)
+## 2024/08/15 (8.7h)
 ### Doing tasks
 
 ### Done tasks
@@ -155,7 +155,10 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 - understand the revbayes protocol
 - current running: dating: bcod_rb_pps; tower: mito2019rna_align, bactCao_rbpps. check the result
 - to be run: ahes_Cao_rbpps, mito2/9_rb_pps;
-
+ 
 ### Memo & Comments
 #char_type : 522966;
-
+- list models, check every datasets. I need a table.
+- Beside revbayes, I need some other tests, maybe.
+- I need test the best model they used or best model under model-finder, not just GTR.
+- Covarian and GHOST, how to test?
