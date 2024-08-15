@@ -137,3 +137,25 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 - whole mito data cannot be split into genes simply. maybe I just need to test the whole align and the partial gene data. It's not important so it will be ok. 
 - maybe I need to cut some column via seqkit or seqconverter because of gaps and maybe I can get better dataset.
 
+
+---
+## 2024/08/15 (2.7h)
+### Doing tasks
+
+### Done tasks
+- ‼align mito_2012/2019 cds #fit_data (0.0h)
+- current running: Dating: rb_pps. tower: mito_9/2_annotate; check the result. (2.7h)
+- try to cut gap column after align(triml seqkit seqconverter). #fit_test #alignment (0.0h)
+- ‼find the way of getting char/vars in rb. #fit_test #pps #revbayes (0.0h)
+- find the way to use super computer. (0.0h)
+- rb_pps for genomic dataset, bact, ahe (0.0h)
+
+### Todo tasks in this week
+- ‼clear my basic rule of my model. #robustness_model
+- understand the revbayes protocol
+- current running: dating: bcod_rb_pps; tower: mito2019rna_align, bactCao_rbpps. check the result
+- to be run: ahes_Cao_rbpps, mito2/9_rb_pps;
+
+### Memo & Comments
+#char_type : 522966;
+

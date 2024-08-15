@@ -2,5 +2,8 @@
   "accentColor": "",
   "theme": "obsidian",
   "baseFontSize": 15,
-  "translucency": true
+  "translucency": true,
+  "enabledCssSnippets": [
+    "snippet"
+  ]
 }

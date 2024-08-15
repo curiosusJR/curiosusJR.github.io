@@ -1,0 +1,4 @@
+.callout[data-callout="coffee"] {
+    --callout-color: 120, 56, 20;
+    --callout-icon: coffee;
+}
