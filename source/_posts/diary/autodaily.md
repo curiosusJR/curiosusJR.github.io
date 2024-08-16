@@ -169,7 +169,7 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 
 ### Done tasks
 - current running: dating: bcod_rb_pps; tower: mito2019rna_align, bactCao_rbpps. check the result (1.4h)
-- list models i should test and find out how to test/ input them into revbayes. (9.6h)
+- list models i should test and find out how to test/ input them into revbayes. #fit_test  (9.6h)
 
 ### Todo tasks in this week
 - ‼clear my basic rule of my model. #robustness_model
@@ -179,4 +179,3 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 
 ### Memo & Comments
 #char_type : 541852
-
