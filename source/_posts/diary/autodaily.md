@@ -162,3 +162,21 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 - Beside revbayes, I need some other tests, maybe.
 - I need test the best model they used or best model under model-finder, not just GTR.
 - Covarian and GHOST, how to test?
+- maybe I should learn about how to enter model file into revbayes first, then think about my model.
+---
+## 2024/08/17 (11.0h)
+### Doing tasks
+
+### Done tasks
+- current running: dating: bcod_rb_pps; tower: mito2019rna_align, bactCao_rbpps. check the result (1.4h)
+- list models i should test and find out how to test/ input them into revbayes. (9.6h)
+
+### Todo tasks in this week
+- ‼clear my basic rule of my model. #robustness_model
+- understand the revbayes protocol
+- to be run: ahes_Cao_rbpps, mito2/9_rb_pps;
+- I need a stand table for dataset/model/vars check.
+
+### Memo & Comments
+#char_type : 541852
+
