@@ -179,3 +179,22 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 
 ### Memo & Comments
 #char_type : 541852
+
+---
+## 2024/08/18 (8.2h)
+### Doing tasks
+
+### Done tasks
+- understand the revbayes protocol (0.0h)
+- which covarian-like model i need to test? Should I discuss the "test conflict" between model fit and heterogenety test? #fit_test  (5.5h)
+- how to sample from pps? (2.7h)
+
+### Todo tasks in this week
+- ‼clear my basic rule of my model. #robustness_model
+- to be run: ahes_Cao_rbpps, mito2/9_rb_pps;
+- I need a stand table for dataset/model/vars check.
+- how to get dataset from treebase? #fit_data
+
+### Memo & Comments
+#char_type : 570013
+
