@@ -163,6 +163,7 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 - I need test the best model they used or best model under model-finder, not just GTR.
 - Covarian and GHOST, how to test?
 - maybe I should learn about how to enter model file into revbayes first, then think about my model.
+
 ---
 ## 2024/08/17 (11.0h)
 ### Doing tasks
