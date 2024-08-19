@@ -199,3 +199,21 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 570013
 
+
+---
+## 2024/08/19 (5.6h)
+### Doing tasks
+
+### Done tasks
+- to be run: ahes_Cao_rbpps, mito2/9_rb_pps; (1.9h)
+- I need a stand table for dataset/model/vars check. (0.0h)
+- rewrite auto.sh  (3.7h)
+
+### Todo tasks in this week
+- clear my basic rule of my model. #robustness_model
+- how to get dataset from treebase? #fit_data
+- genrate genral pps protocol. not only revbayes. and make a change with the protocol in pp calculation (maybe parameter selection or model mixture) #fit_test
+
+### Memo & Comments
+#char_type: 593248; 
+
