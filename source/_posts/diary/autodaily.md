@@ -217,3 +217,19 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type: 593248; 
 
+
+---
+## 2024/08/20 (7.6h)
+### Doing tasks
+
+### Done tasks
+- generate a couse viewer for datasets. #fit_cause (7.6h)
+
+### Todo tasks in this week
+- clear my basic rule of my model. #robustness_model
+- how to get dataset from treebase? #fit_data
+- genrate genral pps protocol. not only revbayes. and make a change with the protocol in pp calculation (maybe parameter selection or model mixture) #fit_test
+
+### Memo & Comments
+#char_type : 614842
+
