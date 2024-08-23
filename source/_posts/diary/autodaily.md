@@ -232,4 +232,7 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 
 ### Memo & Comments
 #char_type : 614842
+* 今天发现之前的p-value计算脚本出错了，sim和emp的比较错了一位，已经改正
+* 理解了R做图的脚本，发现没啥用，不如直接用pvalue脚本
+* 理解了pvalue脚本的输出，其中low和upper就是emp值在pp分布中的上和下的概率，但是这都包括了恰好等于的部分，所以mid是把恰好等于取一半的修正，然后效应量是计算“模拟行为多大程度改变了样本总体”，效应量越小越好，太大不好。
 
