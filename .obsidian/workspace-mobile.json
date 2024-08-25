@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/diary/autodaily.md",
+                "file": "source/_posts/coffee.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "source/_posts/diary/autodaily.md",
+            "file": "source/_posts/coffee.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "source/_posts/diary/autodaily.md",
+            "file": "source/_posts/coffee.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "source/_posts/diary/autodaily.md"
+            "file": "source/_posts/coffee.md"
           }
         }
       }
