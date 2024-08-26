@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/coffee.md",
+                "file": "source/_posts/WISH_LIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "source/_posts/coffee.md",
+            "file": "source/_posts/WISH_LIST.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "source/_posts/coffee.md",
+            "file": "source/_posts/WISH_LIST.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "source/_posts/coffee.md"
+            "file": "source/_posts/WISH_LIST.md"
           }
         }
       }
@@ -133,8 +133,9 @@
   },
   "active": "a1818216821ee41c",
   "lastOpenFiles": [
-    "source/_posts/diary/autodaily.md",
+    "source/_drafts/00-TODO-LIST.md",
     "source/_posts/coffee.md",
+    "source/_posts/diary/autodaily.md",
     "source/_drafts/Wish_list/Things I will have.md",
     "source/_drafts/Wish_list/README.md",
     "source/_drafts/Wish_list",
@@ -177,7 +178,6 @@
     "source/_posts/diary/12-12-2023_autodaily.md",
     "source/_posts/diary/01-11-2024_autodaily.md",
     "source/_posts/diary/12-26-2023_autodaily.md",
-    "source/_posts/diary/04-21-2023.md",
-    "source/_posts/diary/06-05-2023.md"
+    "source/_posts/diary/04-21-2023.md"
   ]
 }
