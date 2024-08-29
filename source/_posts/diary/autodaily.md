@@ -236,3 +236,20 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 * 理解了R做图的脚本，发现没啥用，不如直接用pvalue脚本
 * 理解了pvalue脚本的输出，其中low和upper就是emp值在pp分布中的上和下的概率，但是这都包括了恰好等于的部分，所以mid是把恰好等于取一半的修正，然后效应量是计算“模拟行为多大程度改变了样本总体”，效应量越小越好，太大不好。
 
+
+---
+## 2024/08/30 (24.5h)
+### Doing tasks
+
+### Done tasks
+- how to get dataset from treebase? #fit_data (0.0h)
+- genrate genral pps protocol. not only revbayes. and make a change with the protocol in pp calculation (maybe parameter selection or model mixture) #fit_test (18.7h)
+- why there are some 'nan' in eff-test?  (5.8h)
+
+### Todo tasks in this week
+- clear my basic rule of my model. #robustness_model
+- ‼generate phylobayes approach. #fit_test
+
+### Memo & Comments
+#char_type : 666424
+
