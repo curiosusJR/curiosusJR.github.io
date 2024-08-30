@@ -253,3 +253,18 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 666424
 
+
+---
+## 2024/08/31 (10.2h)
+### Doing tasks
+
+### Done tasks
+- ‼generate phylobayes approach. #fit_test (10.2h)
+- current run: pb_ances_test in tower and ahe_rb_pps in dating(because of memery limit in tower).  (0.0h)
+
+### Todo tasks in this week
+- clear my basic rule of my model. #robustness_model
+
+### Memo & Comments
+#char_type : 696500
+
