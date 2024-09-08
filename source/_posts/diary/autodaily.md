@@ -304,3 +304,21 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 826647 
 
+
+---
+## 2024/09/08 (23.8h)
+### Doing tasks
+
+### Done tasks
+- using parallel for pb_cm2. (0.0h)
+- learn about covarion model (0.0h)
+- check the cov model file (23.8h)
+
+### Todo tasks in this week
+- download data from treebase, generate a protocol. #fit_data
+- ‼Simulate data in various rate/composition parameters. #fit_data
+- PhyloMAd? Is it generate a different test? well, actually I just need to calculate the posterior predictive distribution for now. If PhyloMAd just generate different statistics, I can study it later.
+
+### Memo & Comments
+#char_type : 879369
+
