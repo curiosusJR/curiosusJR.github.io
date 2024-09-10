@@ -322,3 +322,21 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 879369
 
+
+---
+## 2024/09/10 (13.7h)
+### Doing tasks
+
+### Done tasks
+- build a mbl model file. (13.7h)
+- 通过几个数据集计算phylobayes和revbayes的simulation是否有区别。后续全面转向phylobayes和其他语言吧，rev不靠谱。 (0.0h)
+
+### Todo tasks in this week
+- download data from treebase, generate a protocol. #fit_data
+- ‼Simulate data in various rate/composition parameters. #fit_data
+- PhyloMAd? Is it generate a different test? well, actually I just need to calculate the posterior predictive distribution for now. If PhyloMAd just generate different statistics, I can study it later.
+- 构建mmms和ghost的实现？或者找办法模拟一下。
+
+### Memo & Comments
+#char_type : 907274
+
