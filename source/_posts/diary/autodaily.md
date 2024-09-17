@@ -357,3 +357,21 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 929101
 
+
+---
+## 2024/09/17 (0.0h)
+### Doing tasks
+- ‼Simulate data in various rate/composition parameters. #fit_data (-19.8h)
+
+### Done tasks
+- PhyloMAd? Is it generate a different test? well, actually I just need to calculate the posterior predictive distribution for now. If PhyloMAd just generate different statistics, I can study it later. (0.0h)
+- 构建mmms和ghost的实现？或者找办法模拟一下。 (0.0h)
+- JC_mbl的文件还差一点，就是var输出的时候格式有一点不对，pps跑不起来，应该是branchlenth输出不应该是向量的问题吧，test.var3可以跑，查看一下原因。 (0.0h)
+
+### Todo tasks in this week
+- download data from treebase, generate a protocol. #fit_data
+- read lie markov model paper. 
+
+### Memo & Comments
+#char_type : 968136
+

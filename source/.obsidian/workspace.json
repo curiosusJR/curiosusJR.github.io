@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "todo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "72850affcc959526",
+  "active": "e7408505666130ce",
   "lastOpenFiles": [
     "_posts/diary/autodaily.md",
     "_posts/coffee.md",
