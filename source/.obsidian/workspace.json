@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/coffee.md",
+                "file": "_posts/thinking.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/coffee.md",
+                "file": "_posts/thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/coffee.md",
+                "file": "_posts/thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/coffee.md"
+                "file": "_posts/thinking.md"
               }
             }
           },
@@ -174,15 +173,16 @@
       "publish:发布更改": false
     }
   },
-  "active": "e7408505666130ce",
+  "active": "72850affcc959526",
   "lastOpenFiles": [
-    "_posts/diary/autodaily.md",
+    "_posts/hello-world.md",
+    "_posts/thinking.md",
     "_posts/coffee.md",
+    "_posts/diary/autodaily.md",
     "_posts/00-TODO-LIST.md",
     "_posts/WISH_LIST.md",
     "_posts/ZMK.md",
     "tags/index.md",
-    "_posts/hello-world.md",
     "_posts/archlinux.md",
     "_drafts/_daily.md",
     "_posts/sync.md",
@@ -203,7 +203,6 @@
     "_posts/05-22-2023.md",
     "_posts/05-30-2023.md",
     "未命名.md",
-    "_posts/05-28-2023.md",
     "Pictures/mean.png",
     "_posts/06-05-2023/c2n_s",
     "_posts/06-05-2023/c2n_culculate_mean",
