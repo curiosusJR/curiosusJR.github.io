@@ -391,3 +391,19 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 983605
 
+
+---
+## 2024/09/22 (0.0h)
+### Doing tasks
+- ‼Simulate data in various rate/composition parameters. #fit_data (-12.9h)
+
+### Done tasks
+- read “alisim not good enough” paper (0.0h)
+
+### Todo tasks in this week
+- download data from treebase, generate a protocol. #fit_data
+- read fbd paper and learn about it.
+
+### Memo & Comments
+#char_type : 992598 
+
