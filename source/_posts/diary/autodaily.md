@@ -407,3 +407,18 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 992598 
 
+
+---
+## 2024/09/24 (0.0h)
+### Doing tasks
+
+### Done tasks
+
+### Todo tasks in this week
+- download data from treebase, generate a protocol. #fit_data
+- Simulate data in various rate/composition parameters. #fit_data
+- ‼read fbd paper and learn about it.
+
+### Memo & Comments
+#char_type : 1020221
+
