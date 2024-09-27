@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/thinking.md",
+                "file": "_posts/thinking2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/thinking.md",
+                "file": "_posts/thinking2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/thinking.md",
+                "file": "_posts/thinking2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/thinking.md"
+                "file": "_posts/thinking2.md"
               }
             }
           },
@@ -175,8 +175,9 @@
   },
   "active": "72850affcc959526",
   "lastOpenFiles": [
-    "_posts/hello-world.md",
     "_posts/thinking.md",
+    "_posts/thinking2.md",
+    "_posts/hello-world.md",
     "_posts/coffee.md",
     "_posts/diary/autodaily.md",
     "_posts/00-TODO-LIST.md",
@@ -202,7 +203,6 @@
     "_posts/06-05-2023.md",
     "_posts/05-22-2023.md",
     "_posts/05-30-2023.md",
-    "未命名.md",
     "Pictures/mean.png",
     "_posts/06-05-2023/c2n_s",
     "_posts/06-05-2023/c2n_culculate_mean",
