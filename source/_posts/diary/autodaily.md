@@ -453,3 +453,19 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 1043569
 
+
+---
+## 2024/10/07 (0.0h)
+### Doing tasks
+- ‼learn about alisim in jc_cov or something(ghost?). #fit_data (-13.9h)
+
+### Done tasks
+
+### Todo tasks in this week
+- download data from treebase, generate a protocol. #fit_data
+- Simulate data in various rate/composition parameters. #fit_data
+- edit bin/simulator.sh in mac:workplace/test/. #fit_data
+
+### Memo & Comments
+#char_type : 1059768
+
