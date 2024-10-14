@@ -469,3 +469,22 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 1059768
 
+
+---
+## 2024/10/14 (4.4h)
+### Doing tasks
+
+### Done tasks
+- download data from treebase, generate a protocol. #fit_data (0.0h)
+- Simulate data in various rate/composition parameters. #fit_data (0.0h)
+- ‼learn about alisim in jc_cov or something(ghost?). #fit_data (4.4h)
+- edit bin/simulator.sh in mac:workplace/test/. #fit_data (0.0h)
+- test if alisim is same as revbayes pps. #fit_data (0.0h)
+- covarion model format translate via phylogears #fit_data (0.0h)
+
+### Todo tasks in this week
+- sync my simulator.sh into tower. #fit_data
+
+### Memo & Comments
+#char_type : 1104641
+
