@@ -488,3 +488,20 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 1104641
 
+
+---
+## 2024/10/16 (1.7h)
+### Doing tasks
+
+### Done tasks
+- sync my simulator.sh into tower. #fit_data (1.0h)
+- zhongqii files. (0.0h)
+- Liang Zonglei`s bpp. (0.7h)
+- learn about <expected pps> article.  (0.0h)
+
+### Todo tasks in this week
+- R script learning #fit_cause
+
+### Memo & Comments
+#char_type : 1115319
+
