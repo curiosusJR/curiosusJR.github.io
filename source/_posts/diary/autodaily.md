@@ -505,3 +505,26 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 1115319
 
+
+---
+## 2024/10/31 (12.6h)
+### Doing tasks
+
+### Done tasks
+- R script learning #fit_cause (3.5h)
+- HPC learn. (7.7h)
+- combine data and inf into one script. (1.4h)
+- parallel auto in hpc. (0.0h)
+- test mpi time used (0.0h)
+- test parallel and mpi time used  (0.0h)
+
+### Todo tasks in this week
+- inferrence in R. #fit_cause
+- learn about R analysis.
+- error cascades pippeline. 
+- short seqs run under a suitable cores number. 
+- sims run experimental design.
+
+### Memo & Comments
+#char_type : 1381138
+
