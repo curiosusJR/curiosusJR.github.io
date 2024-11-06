@@ -528,3 +528,27 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 1381138
 
+
+---
+## 2024/11/06 (0.0h)
+### Doing tasks
+- build a donelist pipeline between hpc and tower (-13.6h)
+
+### Done tasks
+- short seqs run under a suitable cores number.  (0.0h)
+- storage usage in hpc report; (0.0h)
+- archive xz in auto.sh; (0.0h)
+- done file list check between hpc and tower (0.0h)
+- old done output. xz and tar. (0.0h)
+
+### Todo tasks in this week
+- ‼inferrence in R. #fit_cause
+- learn about R analysis.
+- error cascades pippeline. 
+- ‼Based on F81 Model sets, design sims run experimental.
+- read science causual infer paper. 
+-  file translation;
+
+### Memo & Comments
+#char_type : 1540811
+
