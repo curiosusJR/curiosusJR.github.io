@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "60090028a6643907",
+        "id": "9befca97df3912b4",
         "type": "tabs",
         "children": [
           {
-            "id": "72850affcc959526",
+            "id": "5d051d5facabd8df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/diary/autodaily.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -70,7 +74,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -101,7 +107,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "autodaily 的反向链接列表"
             }
           },
           {
@@ -113,7 +121,9 @@
                 "file": "_posts/diary/autodaily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "autodaily 的出链列表"
             }
           },
           {
@@ -124,7 +134,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -134,7 +146,9 @@
               "type": "outline",
               "state": {
                 "file": "_posts/diary/autodaily.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "autodaily 的大纲"
             }
           },
           {
@@ -146,7 +160,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ],
@@ -173,16 +189,18 @@
       "publish:发布更改": false
     }
   },
-  "active": "72850affcc959526",
+  "active": "5d051d5facabd8df",
   "lastOpenFiles": [
+    "_posts/thinking4.md",
+    "_posts/thinking3.md",
+    "_posts/diary/autodaily.md",
+    "_posts/thinking2.md",
+    "_posts/WISH_LIST.md",
     "_drafts/_daily.md",
     "_posts/coffee.md",
-    "_posts/thinking2.md",
     "_posts/thinking.md",
     "_posts/hello-world.md",
-    "_posts/diary/autodaily.md",
     "_posts/00-TODO-LIST.md",
-    "_posts/WISH_LIST.md",
     "_posts/ZMK.md",
     "tags/index.md",
     "_posts/archlinux.md",
@@ -201,8 +219,6 @@
     "_posts/09-02-2023.md",
     "09-02-2023.md",
     "_posts/06-05-2023.md",
-    "_posts/05-22-2023.md",
-    "_posts/05-30-2023.md",
     "Pictures/mean.png",
     "_posts/06-05-2023/c2n_s",
     "_posts/06-05-2023/c2n_culculate_mean",

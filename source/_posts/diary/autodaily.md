@@ -505,7 +505,6 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 1115319
 
-
 ---
 ## 2024/10/31 (12.6h)
 ### Doing tasks
@@ -551,4 +550,34 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 
 ### Memo & Comments
 #char_type : 1540811
+
+
+---
+## 2024/12/01 (0.0h)
+### Doing tasks
+
+### Done tasks
+- ‼inferrence in R. #fit_cause (0.0h)
+- learn about R analysis. (0.0h)
+- read science causual infer paper.  (0.0h)
+-  file translation; (0.0h)
+- build a donelist pipeline between hpc and tower (0.0h)
+- read causal inference. (0.0h)
+- learn about tree comparation. rf distance; quartet distance. alias. (0.0h)
+- ‼make a plot for zhongqii ppt. (0.0h)
+- change the color of heatmap_smooth (0.0h)
+- edit the code of raw_summary.txt.fmt in R.  (0.0h)
+- fig 4 add motation. (0.0h)
+
+### Todo tasks in this week
+- error cascades pippeline. 
+- ‼Based on F81 Model sets, design sims run experimental.
+- make a base matrix for analysis. 
+- my pps rev code. make topology prior be the same. test its influence in a small dataset. 
+- ‼read hohna paper 2023: model selection is no
+- read yang ziheng paper : 2005 branch length prior influences. 
+- add convergence evaluation
+
+### Memo & Comments
+#char_type : 1879514
 
