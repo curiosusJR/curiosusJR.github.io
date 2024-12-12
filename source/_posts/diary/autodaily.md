@@ -581,3 +581,24 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 1879514
 
+
+---
+## 2024/12/13 (0.0h)
+### Doing tasks
+
+### Done tasks
+
+### Todo tasks in this week
+- error cascades pippeline. 
+- ‼Based on F81 Model sets, design sims run experimental.
+- make a base matrix for analysis. 
+- my pps rev code. make topology prior be the same. test its influence in a small dataset. 
+- ‼read hohna paper 2023: model selection is no
+- read yang ziheng paper : 2005 branch length prior influences. 
+- add convergence evaluation
+- change ppt $problem to a frame. 
+- year summary. make a plan for next-step working.
+
+### Memo & Comments
+#char_type : 2015115
+

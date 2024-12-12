@@ -11,10 +11,14 @@
             "id": "5d051d5facabd8df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024summary.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2024summary"
             }
           }
         ]
@@ -192,16 +196,18 @@
   "active": "5d051d5facabd8df",
   "lastOpenFiles": [
     "_posts/thinking4.md",
-    "_posts/thinking3.md",
-    "_posts/diary/autodaily.md",
     "_posts/thinking2.md",
+    "_posts/thinking3.md",
+    "_posts/2024summary.md",
+    "_posts/diary/autodaily.md",
+    "_posts/00-TODO-LIST.md",
     "_posts/WISH_LIST.md",
+    "_posts/ZMK.md",
+    "_posts/diary/2023.md",
     "_drafts/_daily.md",
     "_posts/coffee.md",
     "_posts/thinking.md",
     "_posts/hello-world.md",
-    "_posts/00-TODO-LIST.md",
-    "_posts/ZMK.md",
     "tags/index.md",
     "_posts/archlinux.md",
     "_posts/sync.md",
@@ -209,7 +215,6 @@
     "未命名.canvas",
     "_drafts/00-TODO-LIST.md",
     "_drafts/09-02-2023.md",
-    "_posts/diary/2023.md",
     "_posts/skelevision.md",
     "_posts/shennongjia2.md",
     "_posts/shennongjia1.md",
@@ -218,7 +223,6 @@
     "notes/11-09-2023.md",
     "_posts/09-02-2023.md",
     "09-02-2023.md",
-    "_posts/06-05-2023.md",
     "Pictures/mean.png",
     "_posts/06-05-2023/c2n_s",
     "_posts/06-05-2023/c2n_culculate_mean",
