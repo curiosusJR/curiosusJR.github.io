@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/diary/autodaily.md",
+                "file": "_posts/2024summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "autodaily"
+              "title": "2024summary"
             }
           }
         ]
@@ -195,11 +195,11 @@
   },
   "active": "5d051d5facabd8df",
   "lastOpenFiles": [
+    "_posts/diary/autodaily.md",
     "_posts/2024summary.md",
     "_posts/thinking4.md",
     "_posts/thinking2.md",
     "_posts/thinking3.md",
-    "_posts/diary/autodaily.md",
     "_posts/00-TODO-LIST.md",
     "_posts/WISH_LIST.md",
     "_posts/ZMK.md",
