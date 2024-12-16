@@ -638,5 +638,10 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 - ‼integrate aichat and todo and my hexo blog together
 
 ### Memo & Comments
-#char_type : 2082432\nai_shell: \n aichat:你这两天的主要工作包括完成了构建基础矩阵、修改PPT问题框架、撰写年度总结并制定下一步计划，同时学习了argc并搭建了AI服务器环境；接下来的任务是给Prof. Luo Arong发邮件建立自己的团队、准备小组年终总结演讲稿以及整合AICHAT、待办事项和Hexo博客。
+#char_type : 2082657
 
+
+#ai_shell: 
+
+ #aichat: 
+这两天的工作内容没有变化，都是继续完成“建设自己的小组”邮件发送、撰写小组年终总结幻灯片以及整合AI聊天、待办事项和Hexo博客的任务。
