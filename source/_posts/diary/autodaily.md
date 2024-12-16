@@ -625,3 +625,18 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 2063913
 
+
+---
+## 2024/12/16 (0.0h)
+### Doing tasks
+
+### Done tasks
+
+### Todo tasks in this week
+- "build your own group". send a email to Prof. Luo Arong
+- year-end summary slides for group willing.
+- ‼integrate aichat and todo and my hexo blog together
+
+### Memo & Comments
+#char_type : 2082432\nai_shell: \n aichat:你这两天的主要工作包括完成了构建基础矩阵、修改PPT问题框架、撰写年度总结并制定下一步计划，同时学习了argc并搭建了AI服务器环境；接下来的任务是给Prof. Luo Arong发邮件建立自己的团队、准备小组年终总结演讲稿以及整合AICHAT、待办事项和Hexo博客。
+
