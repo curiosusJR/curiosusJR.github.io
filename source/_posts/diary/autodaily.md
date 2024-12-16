@@ -496,8 +496,8 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Done tasks
 - sync my simulator.sh into tower. #fit_data (1.0h)
 - zhongqii files. (0.0h)
-- Liang Zonglei`s bpp. (0.7h)
-- learn about <expected pps> article.  (0.0h)
+- Liang Zonglei\`s bpp. (0.7h)
+- learn about \<expected pps\> article.  (0.0h)
 
 ### Todo tasks in this week
 - R script learning #fit_cause
@@ -627,65 +627,6 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 
 
 
----
-## 2024/12/16 (0.0h)
-### Doing tasks
-
-### Done tasks
-
-### Todo tasks in this week
-- "build your own group". send a email to Prof. Luo Arong
-- year-end summary slides for group willing.
-- ‼integrate aichat and todo and my hexo blog together
-
-### Memo & Comments
-
-
-
-#ai_shell: 
-It looks like you've provided a detailed sequence of commands and interactions from what seems to be a terminal session on your system. Here is a summary of the key actions and tasks performed:
-
-1. **Cloning Repositories**:
-   - Cloned several repositories including `llm-functions`, `argc`, and others.
-
-2. **Managing Files and Directories**:
-   - Created and managed various directories (`tmp`, `rust_learn`, `argc_learn`).
-   - Moved and copied files between directories.
-   
-3. **Editing Configuration and Code Files**:
-   - Edited numerous configuration, script, and code files using `vim`.
-   - Made changes to scripts like `send_mail` and `example.sh`.
-
-4. **Using Argc for Agent Management**:
-   - Built and installed agents using `argc build && argc install`.
-   
-5. **Managing To-Do Lists**:
-   - Used various commands to list, add, and delete tasks in todo lists.
-   
-6. **System Information Commands**:
-   - Checked on system history (`~/.zsh_history`) and specific command usage (e.g., `grep` for `scp`).
-   
-### Key Points and Learnings:
-
-- **Repository Management**: Cloning repositories is a common practice to get code, tools, or scripts from GitHub. This ensures you are working with the latest versions, but also means keeping track of updates and potential forks.
-  
-- **File Management with Vim**: Vim is a powerful text editor that allows for efficient editing of configuration files, code, and other documents directly from the terminal.
-
-- **Task Management**: Tools like `todo` help in managing tasks. It's beneficial to have a structured way to keep track of your work items and ensure nothing is missed.
-
-- **System Info Commands**: Learning how to use commands like `history`, `grep`, and checking `.zsh_history` can be very helpful in understanding what you’ve done previously and debugging issues.
-
-### Recommendations:
-
-1. **Automate Repetitive Tasks**: Scripting tasks, especially those involving file management or configuration changes, can save a lot of time.
-
-2. **Version Control**: For your own code repositories, consider using Git to manage versions and collaborate with others.
-
-3. **Documentation**: Keep notes on what you are doing as you work through various projects. This will be useful for future reference and for debugging issues when they arise.
-
-If you have any specific questions about the commands or need help with a particular aspect of your workflow, feel free to ask!
- #aichat: 
-你这两天的工作内容没有发生任何变化。
 
 ---
 ## 2024/12/16 (0.0h)
@@ -699,65 +640,10 @@ If you have any specific questions about the commands or need help with a partic
 - ‼integrate aichat and todo and my hexo blog together
 
 ### Memo & Comments
-
+#char_type : 2085460
 
 
 #ai_shell: 
-It looks like you've provided a sequence of commands that were likely executed in a terminal session. Here is a summary and some insights based on the commands:
-
-1. **Git Operations**: You cloned several repositories, including `llm-functions`, `argc`, and others.
-2. **Project Management**: You worked on various projects such as `average_calculator_project`, `mcmc_ai`, `rust-data-analysis`, and more.
-3. **Scripting and Automation**: You edited multiple scripts and configuration files, including those for managing tasks (`todo`), sending emails (`send_mail`), and running agents.
-4. **File Management**: You created directories, moved files around, and performed various file operations.
-5. **Task Management**: You used a `todo` tool to manage your tasks, creating and deleting tasks, listing them, etc.
-6. **System Configuration**: You edited configuration files like `.zshrc` and `.zsh_history`.
-
-Here are some specific insights based on the commands:
-
-- **Git Cloning**: 
-  ```bash
-  git clone https://github.com/sigoden/llm-functions
-  git clone https://github.com/sigoden/argc.git
-  ```
-  This suggests you were working with version-controlled projects for task management and scripting.
-
-- **Project Setup**:
-  ```bash
-  cargo new average_calculator_project
-  cd average_calculator_project
-  mv ../average_calculator.rs ./src/main.rs
-  ```
-  This shows the setup of a Rust project from scratch, moving an existing program into it.
-
-- **Task Management with `todo`**:
-  ```bash
-  todo list
-  todo done 1
-  todo undone 2
-  ```
-  You were actively managing tasks using a command-line tool for task management.
-
-- **Scripting and Automation**:
-  ```bash
-  vim bin/send_mail
-  chmod +x example.sh
-  ./example.sh -h
-  ```
-  This indicates you were working on automating tasks through scripts, including sending emails and other custom scripts.
-
-- **Resource Allocation in Linux (`NICE`)**:
-  ```bash
-  aichat what is the meaning of "NICE" in linux "top" command?
-  ```
-  You inquired about process priority in the `top` command in Linux, which is related to resource allocation and scheduling.
-
-- **Configuration Files**:
-  ```bash
-  vim ~/.zshrc
-  vim config.yaml
-  ```
-  These commands show that you were managing your shell configuration and project-specific configurations.
-
-If there are specific parts of this session or commands you need help with or further explanation on, feel free to ask!
+你的工作包括文件和目录操作（如复制、移动）、配置文件编辑、脚本编写与调试、以及使用`aichat`等工具处理任务管理、信息查询等相关事务。
  #aichat: 
-这两天你的工作内容没有变化，都包括向罗阿龙教授发送邮件、为组愿完成年终总结幻灯片以及整合AI聊天、待办事项和个人Hexo博客。
+这两天的工作内容基本没有变化，包括向罗教授发送邮件、为意愿小组制作年终总结幻灯片以及将AI聊天工具、待办事项和Hexo博客整合在一起。
