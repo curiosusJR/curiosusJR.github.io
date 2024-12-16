@@ -686,3 +686,78 @@ It looks like you've provided a detailed sequence of commands and interactions f
 If you have any specific questions about the commands or need help with a particular aspect of your workflow, feel free to ask!
  #aichat: 
 你这两天的工作内容没有发生任何变化。
+
+---
+## 2024/12/16 (0.0h)
+### Doing tasks
+
+### Done tasks
+
+### Todo tasks in this week
+- "build your own group". send a email to Prof. Luo Arong
+- year-end summary slides for group willing.
+- ‼integrate aichat and todo and my hexo blog together
+
+### Memo & Comments
+
+
+
+#ai_shell: 
+It looks like you've provided a sequence of commands that were likely executed in a terminal session. Here is a summary and some insights based on the commands:
+
+1. **Git Operations**: You cloned several repositories, including `llm-functions`, `argc`, and others.
+2. **Project Management**: You worked on various projects such as `average_calculator_project`, `mcmc_ai`, `rust-data-analysis`, and more.
+3. **Scripting and Automation**: You edited multiple scripts and configuration files, including those for managing tasks (`todo`), sending emails (`send_mail`), and running agents.
+4. **File Management**: You created directories, moved files around, and performed various file operations.
+5. **Task Management**: You used a `todo` tool to manage your tasks, creating and deleting tasks, listing them, etc.
+6. **System Configuration**: You edited configuration files like `.zshrc` and `.zsh_history`.
+
+Here are some specific insights based on the commands:
+
+- **Git Cloning**: 
+  ```bash
+  git clone https://github.com/sigoden/llm-functions
+  git clone https://github.com/sigoden/argc.git
+  ```
+  This suggests you were working with version-controlled projects for task management and scripting.
+
+- **Project Setup**:
+  ```bash
+  cargo new average_calculator_project
+  cd average_calculator_project
+  mv ../average_calculator.rs ./src/main.rs
+  ```
+  This shows the setup of a Rust project from scratch, moving an existing program into it.
+
+- **Task Management with `todo`**:
+  ```bash
+  todo list
+  todo done 1
+  todo undone 2
+  ```
+  You were actively managing tasks using a command-line tool for task management.
+
+- **Scripting and Automation**:
+  ```bash
+  vim bin/send_mail
+  chmod +x example.sh
+  ./example.sh -h
+  ```
+  This indicates you were working on automating tasks through scripts, including sending emails and other custom scripts.
+
+- **Resource Allocation in Linux (`NICE`)**:
+  ```bash
+  aichat what is the meaning of "NICE" in linux "top" command?
+  ```
+  You inquired about process priority in the `top` command in Linux, which is related to resource allocation and scheduling.
+
+- **Configuration Files**:
+  ```bash
+  vim ~/.zshrc
+  vim config.yaml
+  ```
+  These commands show that you were managing your shell configuration and project-specific configurations.
+
+If there are specific parts of this session or commands you need help with or further explanation on, feel free to ask!
+ #aichat: 
+这两天你的工作内容没有变化，都包括向罗阿龙教授发送邮件、为组愿完成年终总结幻灯片以及整合AI聊天、待办事项和个人Hexo博客。
