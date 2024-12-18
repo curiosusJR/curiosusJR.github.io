@@ -647,3 +647,91 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 你的工作包括文件和目录操作（如复制、移动）、配置文件编辑、脚本编写与调试、以及使用`aichat`等工具处理任务管理、信息查询等相关事务。
  #aichat: 
 这两天的工作内容基本没有变化，包括向罗教授发送邮件、为意愿小组制作年终总结幻灯片以及将AI聊天工具、待办事项和Hexo博客整合在一起。
+
+---
+## 2024/12/18 (0.0h)
+### Doing tasks
+
+### Done tasks
+- ‼integrate aichat and todo and my hexo blog together (0.0h)
+- revbayes in rstudio and rmarkdown for beamer (0.0h)
+
+### Todo tasks in this week
+- year-end summary slides for group will.
+- statistics cor re-check
+- clear the purpose that contacting Prof. Luo
+- With the purposes, make a list that i need to do before sending email
+
+### Memo & Comments
+#char_type : 2115970
+
+
+#ai_shell: 
+It looks like you have a variety of commands and operations that are intended for use in a shell environment. To address your request, I'll provide explanations for some of the commands, clean up the sequence where possible, and add guidance on how to effectively use `aichat`.
+
+Firstly, let's focus on cleaning and correcting some of the commands:
+
+1. **Shell Commands**:
+   - `cd` command: This changes the directory in your shell.
+     ```sh
+     cd workplace/blog/hexo/source/_posts/
+     ```
+   - `ls` command: This lists the files in a directory.
+     ```sh
+     ls diary/autodaily.md
+     ```
+   - `mkdir` command: This creates a new directory.
+     ```sh
+     mkdir year-end
+     ```
+   - `iqtree` commands: These are for running phylogenetic analyses using IQ-TREE. 
+     ```sh
+     iqtree --alisim alignment -m JC2 -t RANDOM{yh/20} --length 1000 --redo
+     ```
+
+2. **Using `aichat`**:
+   - `aichat` seems to be a command-line utility that you are using for generating text or code. Ensure that it is properly installed and configured in your environment.
+   - The `-r %code%` flag suggests that you might want to generate some code, but `%code%` might need to be replaced with the specific coding task you want.
+
+Here's a revised sequence of commands focused on running phylogenetic analysis using IQ-TREE and utilizing `aichat` for possibly generating or analyzing code:
+
+```sh
+# Move to the workspace directory
+cd workplace/year-end
+
+# Simulate alignment data and analyze it using IQ-TREE with alisim model
+iqtree --alisim alignment -m JC2 -t RANDOM{yh/20} --length 1000 --redo
+
+# List files to verify presence of generated alignment file
+ls
+
+# Run IQ-TREE analysis on the newly generated alignment file
+iqtree -s alignment.phy -m MFP -B 1000 --redo
+
+# Use aichat to analyze or generate some code related toIQ-TREE output or another task
+aichat -r "Analyze the IQ-TREE results and suggest improvements in model selection"
+
+# Exit current session if needed
+exit
+```
+
+To ensure everything works as expected:
+- Make sure `iqtree` is installed on your system.
+- Ensure that `aichat` is correctly set up, including any API keys or credentials required.
+
+If you have specific tasks for `aichat`, such as generating a script or analyzing results, replace the prompt with the precise instructions you want to provide. For instance:
+
+```sh
+# Generate a Bash script to automate IQ-TREE analysis using alisim model
+aichat -r "Generate a Bash script for automated IQ-TREE analysis using alisim model"
+```
+
+For more detailed help with `aichat` itself, check its documentation or use:
+
+```sh
+aichat -h
+```
+
+If you have specific questions about any part of the commands or need further assistance, feel free to ask!
+ #aichat: 
+这两天的工作变化集中在完成了将AI聊天、待办事项与Hexo博客集成的任务，同时在年终总结幻灯片和统计检查方面有所进展，并开始整理与教授罗泳涌联系的目的及其所需准备的事项。
