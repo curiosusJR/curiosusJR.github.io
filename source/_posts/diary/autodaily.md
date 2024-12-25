@@ -673,3 +673,29 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 
  #aichat: 
 这两天的工作变化集中在完成了将AI聊天、待办事项与Hexo博客集成的任务，同时在年终总结幻灯片和统计检查方面有所进展，并开始整理与教授罗联系的目的及其所需准备的事项。
+
+---
+## 2024/12/26 (0.0h)
+### Doing tasks
+
+### Done tasks
+- download CLASSIC datasets for testing.  (0.0h)
+- use GTR alias as example, apply the Tame prior and moves. (0.0h)
+
+### Todo tasks in this week
+- year-end summary slides for group will.
+- statistics cor re-check
+- ‼clear the purpose that contacting Prof. Luo
+- With the purposes, make a list that i need to do before sending email
+- read totally the _Molecular Evolution_ by Ziheng Yang 2014.
+- write a header comment block generator in rust
+- the alpha in gamma 4 category prior: in a simple dataset, uniform(0,10^8) is better, but how about a heterogenity dataset? study on it. 
+
+### Memo & Comments
+#char_type : 2207749
+
+
+#ai_shell: 
+
+ #aichat: 
+
