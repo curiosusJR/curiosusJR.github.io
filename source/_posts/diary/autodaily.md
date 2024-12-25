@@ -667,71 +667,9 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 
 
 #ai_shell: 
-It looks like you have a variety of commands and operations that are intended for use in a shell environment. To address your request, I'll provide explanations for some of the commands, clean up the sequence where possible, and add guidance on how to effectively use `aichat`.
+你的工作涉及查看和处理Shell历史记录、编辑待办事项列表、使用`aichat`进行代码相关任务，以及运行和管理`iqtree`命令来分析基因序列。
+> 此处iqtree主要是阅读文献[PhyloForge](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.14050)，关于“SV Signal-Based Population Phylogeny”部分的复现。主要评价如下：
+> > 我翻了一下文中的代码，这里所说的sv系统发育，实际上是用indel的01矩阵跑iqtree和model finder…是以前处理形态矩阵时比较基本的一个处理，然而iqtree做树重建时没有考虑zipfian分布之类的indel模型，也不会因为二态矩阵而做相关处理，或许此处的创新可能在于对矩阵的编码方案与之前有所不同…然而依我拙见，sv在系统发育基因组的应用局限并不在重编码10矩阵上，否则可以通过“令xx为0，xx为1”的方式将任何事物变成“系统发育信号”…从这个角度上来讲，这篇文章提供的方案并不算是“基于sv的系统发育重建”，至少文中没有可见的论证…indel数据被应用到系统发育研究中已有很多解决方案，但似乎一直因有效性而难以推广，因而在基因组级别上并不常见，按此文说法或许这篇文章是第一次。数据扩大到基因组级后，有效性问题被数据淹没，增加采样频率确实可以降低信噪比，但考虑到相比系统发育研究的问题，样本总是寡而有偏的，这种信号的提高所带来的帮助是有局限和瓶颈的…况且，相比过采样，增加信号强度和更好的滤镜似乎对最终结果的影响是更大的。总之，注意到近年来系统发育基因组领域对sv数据的热情关注，我想良好的重建方法会在不久的将来出现。
 
-Firstly, let's focus on cleaning and correcting some of the commands:
-
-1. **Shell Commands**:
-   - `cd` command: This changes the directory in your shell.
-     ```sh
-     cd workplace/blog/hexo/source/_posts/
-     ```
-   - `ls` command: This lists the files in a directory.
-     ```sh
-     ls diary/autodaily.md
-     ```
-   - `mkdir` command: This creates a new directory.
-     ```sh
-     mkdir year-end
-     ```
-   - `iqtree` commands: These are for running phylogenetic analyses using IQ-TREE. 
-     ```sh
-     iqtree --alisim alignment -m JC2 -t RANDOM{yh/20} --length 1000 --redo
-     ```
-
-2. **Using `aichat`**:
-   - `aichat` seems to be a command-line utility that you are using for generating text or code. Ensure that it is properly installed and configured in your environment.
-   - The `-r %code%` flag suggests that you might want to generate some code, but `%code%` might need to be replaced with the specific coding task you want.
-
-Here's a revised sequence of commands focused on running phylogenetic analysis using IQ-TREE and utilizing `aichat` for possibly generating or analyzing code:
-
-```sh
-# Move to the workspace directory
-cd workplace/year-end
-
-# Simulate alignment data and analyze it using IQ-TREE with alisim model
-iqtree --alisim alignment -m JC2 -t RANDOM{yh/20} --length 1000 --redo
-
-# List files to verify presence of generated alignment file
-ls
-
-# Run IQ-TREE analysis on the newly generated alignment file
-iqtree -s alignment.phy -m MFP -B 1000 --redo
-
-# Use aichat to analyze or generate some code related toIQ-TREE output or another task
-aichat -r "Analyze the IQ-TREE results and suggest improvements in model selection"
-
-# Exit current session if needed
-exit
-```
-
-To ensure everything works as expected:
-- Make sure `iqtree` is installed on your system.
-- Ensure that `aichat` is correctly set up, including any API keys or credentials required.
-
-If you have specific tasks for `aichat`, such as generating a script or analyzing results, replace the prompt with the precise instructions you want to provide. For instance:
-
-```sh
-# Generate a Bash script to automate IQ-TREE analysis using alisim model
-aichat -r "Generate a Bash script for automated IQ-TREE analysis using alisim model"
-```
-
-For more detailed help with `aichat` itself, check its documentation or use:
-
-```sh
-aichat -h
-```
-
-If you have specific questions about any part of the commands or need further assistance, feel free to ask!
  #aichat: 
-这两天的工作变化集中在完成了将AI聊天、待办事项与Hexo博客集成的任务，同时在年终总结幻灯片和统计检查方面有所进展，并开始整理与教授罗泳涌联系的目的及其所需准备的事项。
+这两天的工作变化集中在完成了将AI聊天、待办事项与Hexo博客集成的任务，同时在年终总结幻灯片和统计检查方面有所进展，并开始整理与教授罗联系的目的及其所需准备的事项。
