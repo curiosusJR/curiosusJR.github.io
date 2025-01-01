@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+  <meta charset="utf-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="Cache-Control" content="no-transform" />
+  <meta http-equiv="Cache-Control" content="no-siteapp" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="format-detection" content="telephone=no,email=no,adress=no">
+  <!-- Color theme for statusbar -->
+  <meta name="theme-color" content="#000000" />
+  <!-- 强制页面在当前窗口以独立页面显示,防止别人在框架里调用页面 -->
+  <meta http-equiv="window-target" content="_top" />
+  
+  
+  <title>ZMK keyboard firmware usage | Hexo</title>
+  <meta name="description" content="I have purchased an open source split keyboard with zmk firmware. Unlike those using qmk, the keymaps of this one cannot be changed simply and directly using via&#x2F;vial software, it have to build f">
+<meta property="og:type" content="article">
+<meta property="og:title" content="ZMK keyboard firmware usage">
+<meta property="og:url" content="http://zhangdeweb.site/2023/05/09/ZMK/index.html">
+<meta property="og:site_name" content="Zhang&#39;s Blog">
+<meta property="og:description" content="I have purchased an open source split keyboard with zmk firmware. Unlike those using qmk, the keymaps of this one cannot be changed simply and directly using via&#x2F;vial software, it have to build f">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2023-05-08T16:00:00.000Z">
+<meta property="article:modified_time" content="2025-01-01T16:12:13.096Z">
+<meta property="article:author" content="Junru Zhang">
+<meta property="article:tag" content="zmk">
+<meta property="article:tag" content="keyboard">
+<meta name="twitter:card" content="summary">
+  <!-- Canonical links -->
+  <link rel="canonical" href="http://zhangdeweb.site/2023/05/09/ZMK/index.html">
+  
+    <link rel="alternate" href="/atom.xml" title="Zhang&#39;s Blog" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png" type="image/x-icon">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+  
+  
+  
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+
+<body class="main-center theme-green" itemscope itemtype="http://schema.org/WebPage">
+  <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+  <div class="slimContent">
+    <div class="navbar-header">
+      
+      
+      <div class="profile-block text-center">
+        <a id="avatar" href="https://github.com/curiosusJR" target="_blank">
+          <img class="img-circle img-rotate" src="/images/avatar.jpg" width="200" height="200">
+        </a>
+        <h2 id="name" class="hidden-xs hidden-sm">Junru Zhang</h2>
+        <h3 id="title" class="hidden-xs hidden-sm hidden-md">Student of Systematic Entomology</h3>
+        <small id="location" class="text-muted hidden-xs hidden-sm"><i class="icon icon-map-marker"></i> Shaanxi, China</small>
+      </div>
+      
+      <div class="search" id="search-form-wrap">
+
+    <form class="search-form sidebar-form">
+        <div class="input-group">
+            <input type="text" class="search-form-input form-control" placeholder="Search" />
+            <span class="input-group-btn">
+                <button type="submit" class="search-form-submit btn btn-flat" onclick="return false;"><i class="icon icon-search"></i></button>
+            </span>
+        </div>
+    </form>
+    <div class="ins-search">
+  <div class="ins-search-mask"></div>
+  <div class="ins-search-container">
+    <div class="ins-input-wrapper">
+      <input type="text" class="ins-search-input" placeholder="Type something..." x-webkit-speech />
+      <button type="button" class="close ins-close ins-selectable" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+    </div>
+    <div class="ins-section-wrapper">
+      <div class="ins-section-container"></div>
+    </div>
+  </div>
+</div>
+
+
+</div>
+      <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <nav id="main-navbar" class="collapse navbar-collapse" itemscope itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+      <ul class="nav navbar-nav main-nav ">
+        
+        
+        <li class="menu-item menu-item-home">
+          <a href="/.">
+            
+            <i class="icon icon-home-fill"></i>
+            
+            <span class="menu-title">Home</span>
+          </a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives">
+            
+            <i class="icon icon-archives-fill"></i>
+            
+            <span class="menu-title">Archives</span>
+          </a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories">
+            
+            <i class="icon icon-folder"></i>
+            
+            <span class="menu-title">Categories</span>
+          </a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags">
+            
+            <i class="icon icon-tags"></i>
+            
+            <span class="menu-title">Tags</span>
+          </a>
+        </li>
+        
+      </ul>
+      
+    </nav>
+  </div>
+</header>
+
+  
+    <aside class="sidebar" itemscope itemtype="http://schema.org/WPSideBar">
+  <div class="slimContent">
+    
+      <div class="widget">
+    <h3 class="widget-title">Board</h3>
+    <div class="widget-body">
+        <div id="board">
+            <div class="content">
+                <p>My first Blog. Welcome!</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+      
+  <div class="widget">
+    <h3 class="widget-title">Categories</h3>
+    <div class="widget-body">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/TODO/">TODO</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/blogs/">blogs</a><span class="category-list-count">11</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/diaries/">diaries</a><span class="category-list-count">3</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/diaries/TODO/">TODO</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/paper/">paper</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%84%9F%E6%83%B3/">感想</a><span class="category-list-count">2</span></li></ul>
+    </div>
+  </div>
+
+
+    
+      
+  <div class="widget">
+    <h3 class="widget-title">Tags</h3>
+    <div class="widget-body">
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Beamer/" rel="tag">Beamer</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Renv/" rel="tag">Renv</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Rmarkdown/" rel="tag">Rmarkdown</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Rstudio/" rel="tag">Rstudio</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/TODO/" rel="tag">TODO</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Wish-list/" rel="tag">Wish-list</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/archlinux/" rel="tag">archlinux</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/blog/" rel="tag">blog</a><span class="tag-list-count">7</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/coffee/" rel="tag">coffee</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/config/" rel="tag">config</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/convergence/" rel="tag">convergence</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/daily/" rel="tag">daily</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/heter-test/" rel="tag">heter_test</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/idea/" rel="tag">idea</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/keyboard/" rel="tag">keyboard</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/linux/" rel="tag">linux</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/mcmc/" rel="tag">mcmc</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/pps/" rel="tag">pps</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/reproducification/" rel="tag">reproducification</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/skelevision/" rel="tag">skelevision</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/sync/" rel="tag">sync</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/taste-note/" rel="tag">taste_note</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/work/" rel="tag">work</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/zmk/" rel="tag">zmk</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E6%84%9F%E6%83%B3/" rel="tag">感想</a><span class="tag-list-count">2</span></li></ul>
+    </div>
+  </div>
+
+
+    
+      
+  <div class="widget">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div class="widget-body tagcloud">
+      <a href="/tags/Beamer/" style="font-size: 13px;">Beamer</a> <a href="/tags/Renv/" style="font-size: 13px;">Renv</a> <a href="/tags/Rmarkdown/" style="font-size: 13px;">Rmarkdown</a> <a href="/tags/Rstudio/" style="font-size: 13px;">Rstudio</a> <a href="/tags/TODO/" style="font-size: 13px;">TODO</a> <a href="/tags/Wish-list/" style="font-size: 13px;">Wish-list</a> <a href="/tags/archlinux/" style="font-size: 13px;">archlinux</a> <a href="/tags/blog/" style="font-size: 14px;">blog</a> <a href="/tags/coffee/" style="font-size: 13px;">coffee</a> <a href="/tags/config/" style="font-size: 13.5px;">config</a> <a href="/tags/convergence/" style="font-size: 13px;">convergence</a> <a href="/tags/daily/" style="font-size: 13.5px;">daily</a> <a href="/tags/heter-test/" style="font-size: 13px;">heter_test</a> <a href="/tags/idea/" style="font-size: 13px;">idea</a> <a href="/tags/keyboard/" style="font-size: 13px;">keyboard</a> <a href="/tags/linux/" style="font-size: 13px;">linux</a> <a href="/tags/mcmc/" style="font-size: 13px;">mcmc</a> <a href="/tags/pps/" style="font-size: 13px;">pps</a> <a href="/tags/reproducification/" style="font-size: 13px;">reproducification</a> <a href="/tags/skelevision/" style="font-size: 13px;">skelevision</a> <a href="/tags/sync/" style="font-size: 13.5px;">sync</a> <a href="/tags/taste-note/" style="font-size: 13px;">taste_note</a> <a href="/tags/work/" style="font-size: 13.5px;">work</a> <a href="/tags/zmk/" style="font-size: 13px;">zmk</a> <a href="/tags/%E6%84%9F%E6%83%B3/" style="font-size: 13.5px;">感想</a>
+    </div>
+  </div>
+
+    
+      
+  <div class="widget">
+    <h3 class="widget-title">Archive</h3>
+    <div class="widget-body">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2025/01/">January 2025</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/12/">December 2024</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/11/">November 2024</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/09/">September 2024</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/08/">August 2024</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2023/12/">December 2023</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2023/06/">June 2023</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2023/05/">May 2023</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2023/04/">April 2023</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2023/03/">March 2023</a><span class="archive-list-count">1</span></li></ul>
+    </div>
+  </div>
+
+
+    
+      
+  <div class="widget">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget-body">
+      <ul class="recent-post-list list-unstyled no-thumbnail">
+        
+          <li>
+            
+            <div class="item-inner">
+              <p class="item-category">
+                <a class="category-link" href="/categories/diaries/">diaries</a>
+              </p>
+              <p class="item-title">
+                <a href="/2025/01/02/coffee/" class="title">Tasting Notes</a>
+              </p>
+              <p class="item-date">
+                <time datetime="2025-01-01T16:12:13.100Z" itemprop="datePublished">2025-01-02</time>
+              </p>
+            </div>
+          </li>
+          
+          <li>
+            
+            <div class="item-inner">
+              <p class="item-category">
+                <a class="category-link" href="/categories/diaries/">diaries</a><i class="icon icon-angle-right"></i><a class="category-link" href="/categories/diaries/TODO/">TODO</a>
+              </p>
+              <p class="item-title">
+                <a href="/2025/01/02/diary/autodaily/" class="title">Daily work</a>
+              </p>
+              <p class="item-date">
+                <time datetime="2025-01-01T16:12:13.100Z" itemprop="datePublished">2025-01-02</time>
+              </p>
+            </div>
+          </li>
+          
+          <li>
+            
+            <div class="item-inner">
+              <p class="item-category">
+                <a class="category-link" href="/categories/blogs/">blogs</a>
+              </p>
+              <p class="item-title">
+                <a href="/2024/12/28/2024summary/" class="title">2024年终总结</a>
+              </p>
+              <p class="item-date">
+                <time datetime="2024-12-27T16:00:00.000Z" itemprop="datePublished">2024-12-28</time>
+              </p>
+            </div>
+          </li>
+          
+          <li>
+            
+            <div class="item-inner">
+              <p class="item-category">
+                <a class="category-link" href="/categories/blogs/">blogs</a>
+              </p>
+              <p class="item-title">
+                <a href="/2024/11/28/thinking4/" class="title">自我批判与批判反思</a>
+              </p>
+              <p class="item-date">
+                <time datetime="2024-11-27T16:00:00.000Z" itemprop="datePublished">2024-11-28</time>
+              </p>
+            </div>
+          </li>
+          
+          <li>
+            
+            <div class="item-inner">
+              <p class="item-category">
+                <a class="category-link" href="/categories/blogs/">blogs</a>
+              </p>
+              <p class="item-title">
+                <a href="/2024/11/17/thinking3/" class="title">关于paralogs建树和基因家族分析的粗浅了解</a>
+              </p>
+              <p class="item-date">
+                <time datetime="2024-11-16T16:00:00.000Z" itemprop="datePublished">2024-11-17</time>
+              </p>
+            </div>
+          </li>
+          
+      </ul>
+    </div>
+  </div>
+  
+
+    
+  </div>
+</aside>
+
+  
+  
+<main class="main" role="main">
+  <div class="content">
+  <article id="post-ZMK" class="article article-type-post" itemscope itemtype="http://schema.org/BlogPosting">
+    
+    <div class="article-header">
+      
+        
+  
+    <h1 class="article-title" itemprop="name">
+      ZMK keyboard firmware usage
+    </h1>
+  
+
+      
+      <div class="article-meta">
+        <span class="article-date">
+    <i class="icon icon-calendar-check"></i>
+	<a href="/2023/05/09/ZMK/" class="article-date">
+	  <time datetime="2023-05-08T16:00:00.000Z" itemprop="datePublished">2023-05-09</time>
+	</a>
+</span>
+        
+  <span class="article-category">
+    <i class="icon icon-folder"></i>
+    <a class="article-category-link" href="/categories/blogs/">blogs</a>
+  </span>
+
+        
+  <span class="article-tag">
+    <i class="icon icon-tags"></i>
+	<a class="article-tag-link-link" href="/tags/keyboard/" rel="tag">keyboard</a>, <a class="article-tag-link-link" href="/tags/zmk/" rel="tag">zmk</a>
+  </span>
+
+
+        
+
+	<span class="article-read hidden-xs">
+    	<i class="icon icon-eye-fill" aria-hidden="true"></i>
+    	<span id="/2023/05/09/ZMK/" class="leancloud_visitors"  data-flag-title="ZMK keyboard firmware usage">0</span>
+    </span>
+
+        <span class="post-comment"><i class="icon icon-comment"></i> <a href="/2023/05/09/ZMK/#comments" class="article-comment-link">Comments</a></span>
+        
+	
+		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 723(words)</span>
+	
+	
+
+      </div>
+    </div>
+    <div class="article-entry marked-body" itemprop="articleBody">
+      
+        <p>I have purchased an open source split keyboard with zmk firmware. Unlike those using qmk, the keymaps of this one cannot be changed simply and directly using via&#x2F;vial software, it have to build firmware myself. I do not have t experience with this and after my first successful attempt, I decided to document it here.</p>
+<h1 id="Normal-usage"><a href="#Normal-usage" class="headerlink" title="Normal usage"></a>Normal usage</h1><ol>
+<li>This keyboard can be connected to PC in two ways. USB connection or Blue-tooth connection.</li>
+<li>If you want to connect to PC with cables, just connect the left hand keyboard to PC with USB C cable. </li>
+<li>If you want to connect device with Blue-tooth, press layer 2 button (which is on the bottom of right hand) and click number 1 to 5 (which means you can connect 5 different device with blue tooth), and then your device can found the keyboard by blue tooth name ‘Sofle’.</li>
+<li>If the blue tooth connect failed, try clearing the blue tooth message in both keyboard and your PC. Delete the ‘Sofle’ device in PC blue tooth setting and press <code>layer 2 + ESC</code> on the keyboard. The location of <code>ESC</code> in layer 2 is <code>BT_CLR</code> button.</li>
+<li>The location of ‘TAB’ in layer 3 is the power button, which means you can turn on&#x2F;off with pressing <code>layer 1 + layer 2 + tab</code> at the same time.</li>
+</ol>
+<h1 id="Check-and-set-the-keymap-in-Github"><a href="#Check-and-set-the-keymap-in-Github" class="headerlink" title="Check and set the keymap in Github"></a>Check and set the keymap in Github</h1><ol>
+<li>Fork this repo (<a target="_blank" rel="noopener" href="https://github.com/curiosusJR/YoungMan_DIY_SOFLE_CFG">https://github.com/curiosusJR/YoungMan_DIY_SOFLE_CFG</a>) to your own github.</li>
+<li>Open <a target="_blank" rel="noopener" href="https://nickcoutsos.github.io/keymap-editor/">https://nickcoutsos.github.io/keymap-editor/</a> with web-browser.</li>
+<li>Select the source in Github and login your account. Select the repo you just forked only, not all the repo you have, for the keymap-editor.</li>
+<li>It will be shown my keymap setting in the website.</li>
+<li>Change the setting as you will.</li>
+<li>Select the layer first, then select the key you want to change. Click the <code>&amp;kp</code> can change the group of keys. Different groups shows different keys. The normal keyboard press group is <code>&amp;kp</code>. You can select any key you want at any location. The knob can be click or rotation. The rotation function setting is on the bottom of keyboards.<br> <strong>Tips</strong>: The layer 0 is the default and the main layer you will use. Use <code>&amp;mo</code> for changing layer during pressing the button, use <code>&amp;lt</code> for short tapping in normal type and pressing in layer changing type or use <code>&amp;to</code> for turning into new layer when tap the button.</li>
+<li>After finishing the setting, click <code>Save changes</code> button on the top of website and commit your changing to your repo.</li>
+<li>Check the commit exists.</li>
+</ol>
+<h1 id="Build-the-firmware-file-in-Github"><a href="#Build-the-firmware-file-in-Github" class="headerlink" title="Build the firmware file in Github"></a>Build the firmware file in Github</h1><ol>
+<li>Click <code>Actions</code> on your own Github repo.</li>
+<li>Enable the actions and run the ‘Build’ workflow.Wait for a second till it’s done.</li>
+<li>When it shows a green check mark, click the ‘Build’ and download the firmware file at the bottom.</li>
+<li>Unzip it and delete the <code>setting_reset-nrfmicro_13-zmk.uf2</code> file. Keep the right hand and the left hand firmware file for use.</li>
+</ol>
+<h1 id="Reset-the-firmware-in-the-keyboard"><a href="#Reset-the-firmware-in-the-keyboard" class="headerlink" title="Reset the firmware in the keyboard"></a>Reset the firmware in the keyboard</h1><ol>
+<li>First, connect keyboard to PC with USB C cable. The right hand keyboard and the left one should be reset separately, so connect the right one first. </li>
+<li>Press the reset button (the small white one under the screen) twice quickly and the computer will recognize a flash drive which is the keyboard itself.</li>
+<li>There should be three files in the flash drive just detected. Copy <a href="settings_reset-nrfmicro_13-zmk.uf2">this file</a> into the root directory of that flash drive. Now there are four files in it.</li>
+<li>Eject that flash drive.</li>
+<li>Unplug the USB cable and reconnect it. Repeat step 2 and check the drive. There should be still <strong>three</strong> files in it.</li>
+<li>Copy the right hand <code>.uf2</code> file into the right hand keyboard and eject the drive.</li>
+<li>Up to now, the firmware of right hand has been update completed. Do it same to the left one. Just remember that copy <a href="settings_reset-nrfmicro_13-zmk.uf2">this file</a>, not the file downloaded from github, to <strong>both left and right</strong> hand keyboard before copying the <code>solfe_*.uf2</code> file.</li>
+<li>After updating the firmware of both left and right hands, press <code>BT_CLR</code> button you set to clear the blue-tooth message. </li>
+<li>Press the reset button of both right and left hand keyboard in the same time. </li>
+<li>Check the connection between two hands and connection to PC. Enjoy your new keymaps! 😄</li>
+</ol>
+
+      
+    </div>
+    <div class="article-footer">
+      <blockquote class="mt-2x">
+  <ul class="post-copyright list-unstyled">
+    
+    <li class="post-copyright-link hidden-xs">
+      <strong>本文链接：</strong>
+      <a href="http://zhangdeweb.site/2023/05/09/ZMK/" title="ZMK keyboard firmware usage" target="_blank" rel="external">http://zhangdeweb.site/2023/05/09/ZMK/</a>
+    </li>
+    
+    <li class="post-copyright-license">
+      <strong>版权声明： </strong> 本博客所有文章除特别声明外，均采用 <a href="http://creativecommons.org/licenses/by/4.0/deed.zh" target="_blank" rel="external">CC BY 4.0 CN协议</a> 许可协议。转载请注明出处！
+    </li>
+  </ul>
+</blockquote>
+
+
+<div class="panel panel-default panel-badger">
+  <div class="panel-body">
+    <figure class="media">
+      <div class="media-left">
+        <a href="https://github.com/curiosusJR" target="_blank" class="img-burn thumb-sm visible-lg">
+          <img src="/images/avatar.jpg" class="img-rounded w-full" alt="">
+        </a>
+      </div>
+      <div class="media-body">
+        <h3 class="media-heading"><a href="https://github.com/curiosusJR" target="_blank"><span class="text-dark">Junru Zhang</span><small class="ml-1x">Student of Systematic Entomology</small></a></h3>
+        <div></div>
+      </div>
+    </figure>
+  </div>
+</div>
+
+
+    </div>
+  </article>
+  
+    
+  <section id="comments">
+  	
+      <div id="vcomments"></div>
+    
+  </section>
+
+
+  
+</div>
+
+  <nav class="bar bar-footer clearfix" data-stick-bottom>
+  <div class="bar-inner">
+  
+  <ul class="pager pull-left">
+    
+    <li class="prev">
+      <a href="/2023/06/07/shennongjia1/" title="记神农架联合采集之有感"><i class="icon icon-angle-left" aria-hidden="true"></i><span>&nbsp;&nbsp;Newer</span></a>
+    </li>
+    
+    
+    <li class="next">
+      <a href="/2023/04/07/Renv/" title="R语言环境变量"><span>Older&nbsp;&nbsp;</span><i class="icon icon-angle-right" aria-hidden="true"></i></a>
+    </li>
+    
+    
+  </ul>
+  
+  
+  
+  <div class="bar-right">
+    
+    <div class="share-component" data-sites="weibo,qq,wechat,facebook,twitter" data-mobile-sites="weibo,qq,qzone"></div>
+    
+  </div>
+  </div>
+</nav>
+  
+
+
+</main>
+
+  <footer class="footer" itemscope itemtype="http://schema.org/WPFooter">
+	
+    <div class="copyright">
+    	
+        <div class="publishby">
+        	Theme by <a href="https://github.com/cofess" target="_blank"> cofess </a>base on <a href="https://github.com/cofess/hexo-theme-pure" target="_blank">pure</a>.
+        </div>
+    </div>
+</footer>
+  <script src="//cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+<script>
+window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
+</script>
+
+<script src="/js/plugin.min.js"></script>
+
+
+<script src="/js/application.js"></script>
+
+
+    <script>
+(function (window) {
+    var INSIGHT_CONFIG = {
+        TRANSLATION: {
+            POSTS: 'Posts',
+            PAGES: 'Pages',
+            CATEGORIES: 'Categories',
+            TAGS: 'Tags',
+            UNTITLED: '(Untitled)',
+        },
+        ROOT_URL: '/',
+        CONTENT_URL: '/content.json',
+    };
+    window.INSIGHT_CONFIG = INSIGHT_CONFIG;
+})(window);
+</script>
+
+<script src="/js/insight.js"></script>
+
+
+
+
+
+
+   
+
+
+<!-- custom analytics part create by xiamo -->
+<script defer src="https://cdn1.lncld.net/static/js/av-min-1.2.1.js"></script>
+<script defer>
+AV.init({
+  appId: 'X56D4dsnPApfYFQfcMp4rVRp-gzGzoHsz',
+  appKey: 'tWA4o1TCgfedXIv0NCn6BqmU'
+});
+
+function showTime(Counter) {
+	var query = new AV.Query(Counter);
+		var visitors= $('.leancloud_visitors');
+		query.greaterThanOrEqualTo("time", 0);		
+		query.find({
+			success: function(results) {
+				if (results.length == 0) {				
+					return;
+				}
+				var data = results;
+				visitors.each(function(){
+					var url = $(this).attr('id').trim();					
+					for (var i = 0; i < data.length; i++) {
+						var object = data[i];
+						var content = object.get('time');
+						var _url = object.get('url')
+						if(url == _url){
+							$(this).text(content);
+						}
+					}
+				})
+				
+			},
+			error: function(object, error) {
+				console.log("Error: " + error.code + " " + error.message);
+			}
+		});
+}
+
+function addCount(Counter) {
+	var Counter = AV.Object.extend("Counter");
+	url = $(".leancloud_visitors").attr('id').trim();
+	title = $(".leancloud_visitors").attr('data-flag-title').trim();
+	var query = new AV.Query(Counter);
+	query.equalTo("url", url);
+	query.find({
+		success: function(results) {
+			if (results.length > 0) {
+				var counter = results[0];
+				counter.fetchWhenSave(true);
+				counter.increment("time");
+				counter.save(null, {
+					success: function(counter) {
+						var content = counter.get('time');
+						$(document.getElementById(url)).text(content);
+					},
+					error: function(counter, error) {
+						console.log('Failed to save Visitor num, with error message: ' + error.message);
+					}
+				});
+			} else {
+				var newcounter = new Counter();
+				newcounter.set("title", title);
+				newcounter.set("url", url);
+				newcounter.set("time", 1);
+				newcounter.save(null, {
+					success: function(newcounter) {
+					    console.log("newcounter.get('time')="+newcounter.get('time'));
+						var content = newcounter.get('time');
+						$(document.getElementById(url)).text(content);
+					},
+					error: function(newcounter, error) {
+						console.log('Failed to create');
+					}
+				});
+			}
+		},
+		error: function(error) {
+			console.log('Error:' + error.code + " " + error.message);
+		}
+	});
+}
+$(function() {
+	var Counter = AV.Object.extend("Counter");
+	if ($('.leancloud_visitors').length == 1) {
+		addCount(Counter);
+	} else {
+		showTime(Counter);
+	}
+}); 
+</script>
+
+
+
+   
+    
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/valine"></script>
+  <script type="text/javascript">
+  var GUEST = ['nick', 'mail', 'link'];
+  var meta = 'nick,mail,link';
+  meta = meta.split(',').filter(function(item) {
+    return GUEST.indexOf(item) > -1;
+  });
+  new Valine({
+    el: '#vcomments',
+    verify: false,
+    notify: false,
+    appId: 'X56D4dsnPApfYFQfcMp4rVRp-gzGzoHsz',
+    appKey: 'tWA4o1TCgfedXIv0NCn6BqmU',
+    placeholder: ':)',
+    avatar: 'mm',
+    meta: meta,
+    pageSize: '10' || 10,
+    visitor: false
+  });
+  </script>
+
+     
+
+
+
+
+
+
+
+</body>
+</html>
