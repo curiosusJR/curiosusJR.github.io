@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024summary.md",
+                "file": "_posts/coffee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024summary"
+              "title": "coffee"
             }
           }
         ]
@@ -196,9 +196,9 @@
   "active": "e44330815d75c0ee",
   "lastOpenFiles": [
     "_posts/diary/autodaily.md",
+    "_posts/2024summary.md",
     "_posts/convergence.md",
     "_posts/Renv.md",
-    "_posts/2024summary.md",
     "_posts/04-10-2023/Pasted image 20241217141314.png",
     "_posts/04-10-2023",
     "_posts/diary/2023.md",

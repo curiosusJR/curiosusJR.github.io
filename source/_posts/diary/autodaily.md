@@ -694,6 +694,33 @@ align.sh was wrong, I should align codon, not just nuc. maybe all align should b
 ### Memo & Comments
 #char_type : 2207749
 
+今天仔细看了Tame先验和四足动物线粒体2024sb两篇文章的代码，以及revbayes的教程和源码文件，确认了先验、参数和moves的设置。使用gtr进行了标准化，其中branch lenth部分有比较大的更改，一些moves也有调整，应该重跑一些看看效果。
+
+除此之外，branch rate可以在之后的time calibrating中设置，这是分区/全局的速率参数，用来计算绝对枝长的。目前我的分析应该用不到，但是以后其他研究中，不需要考虑是否必须在一次mcmc中全部采样的问题，branch lenth可以同时，也可以之后进行计算。
+之后计算：https://revbayes.github.io/tutorials/sequential_bayes/stepwise_dating
+同时计算：https://revbayes.github.io/tutorials/clocks/
+---
+## 2025/01/02 (0.0h)
+### Doing tasks
+
+### Done tasks
+- year-end summary slides for group will. (0.0h)
+- clear the purpose that contacting Prof. Luo (0.0h)
+- With the purposes, make a list that i need to do before sending email (0.0h)
+- read totally the _Molecular Evolution_ by Ziheng Yang 2014. (0.0h)
+- all models file.  (0.0h)
+- change the 'model_name' part. (0.0h)
+
+### Todo tasks in this week
+- statistics cor re-check
+- write a header comment block generator in rust
+- the alpha in gamma 4 category prior: in a simple dataset, uniform(0,10^8) is better, but how about a heterogenity dataset? study on it. 
+- hpc/ dating/ tower : mcmc genertation, tsv2nex etc; change it in auto.sh, not one by one.
+- heterotachy test in old papers. check them and calculate them.
+
+### Memo & Comments
+
+
 
 #ai_shell: 
 

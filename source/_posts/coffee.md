@@ -1,5 +1,5 @@
 ---
-title: Coffee Tasting Notes
+title: Tasting Notes
 tags:
   - coffee
   - taste_note
@@ -195,3 +195,16 @@ date:
 >  * 9.21封装，10.6开封。
 > 4. 变化：
 > 
+
+
+
+> [!coffee]-   ##  威士忌 格兰塔雷特 GLENTURRET HIGH LAND SINGLE MALT SCOTCH WHISKY aged 10 years  peat smoked
+>  甜感强，香，有烟熏风味。好喝。
+
+> [!coffee]-   ##  威士忌  格兰杰雪莉桶 GLENMORANGIE HIGHLAND SINGLE MALT SCOTCH WHISKY 12
+>  寡淡，不好喝。
+
+> [!coffee]-   ##  葡萄酒  CHATEAU GRUAUD LAROSE 2020
+> 法国 圣朱利安SAINT-JULIEN
+>  很香，甜感强但不腻，果香丰富，有奶酪香气，层次丰富，回味有浆果、凤梨的味道。很好喝。
+
