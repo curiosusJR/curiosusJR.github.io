@@ -9,15 +9,12 @@ date: {{ date }}
 # What I have done today
 
 1. blah 
-2. blah
 
 # What I need to do next
 - [ ] blah
-- [ ]  blah
 
 # What I want to do in future
 - [ ]  ideas 
-- [ ]  ideas
 
 # What I want to tell myself
 
